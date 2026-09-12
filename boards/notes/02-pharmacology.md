@@ -51,8 +51,11 @@ no platelet transfusions; no warfarin until platelets recovered.
 - 162–325 mg load (non-enteric, chewed); 81 mg maintenance (ADAPTABLE: 81 = 325). Irreversible
   COX-1 acetylation. NSAIDs (ibuprofen) block the site if given before aspirin. Aspirin allergy
   → rapid desensitization protocol; clopidogrel monotherapy if not feasible.
-- ESC 2023/ACC 2025: aspirin-free P2Y12 monotherapy after 1–3 months is now acceptable in
-  many patients (TWILIGHT, TICO, STOPDAPT-2, HOST-EXAM favors clopidogrel over aspirin long term).
+- **2025 ACC/AHA ACS: transition to ticagrelor monotherapy ≥1 month after PCI is Class 1** if DAPT is
+  tolerated (TWILIGHT, TICO, ULTIMATE-DAPT, T-PASS). HBR: stop aspirin at 1–3 months, keep the P2Y12
+  inhibitor (2a). De-escalation to clopidogrel after 1 month: 2b. STOPDAPT-2 ACS: early clopidogrel
+  monotherapy was NOT non-inferior in ACS (more MI). HOST-EXAM / SMART-CHOICE 3: chronic clopidogrel
+  beats aspirin monotherapy. Cangrelor: 2b. Routine GPI: Class 3, bailout 2a.
 
 ## DAPT duration – the decision map
 - **ACS**: 12 months default (ticagrelor or prasugrel preferred). Extend beyond 12 months
@@ -111,14 +114,29 @@ no platelet transfusions; no warfarin until platelets recovered.
 ## Other drug facts that appear on the exam
 - Statin loading before PCI (ARMYDA-ACS, NAPLES II) ↓periprocedural MI; high-intensity after ACS.
 - PCSK9 inhibitors/ezetimibe: LDL <55 mg/dL target for very high risk (ESC).
-- Colchicine 0.5 mg daily post-MI (COLCOT, LoDoCo2) ↓MACE; ↑pneumonia; now class 2b.
+- Colchicine 0.5 mg daily: COLCOT and LoDoCo2 positive, **CLEAR SYNERGY (2024) negative post-MI**; 2b.
+- Lipids: high-intensity statin (≥50% LDL reduction); **2026 ACC/AHA dyslipidemia guideline: LDL <55 mg/dL
+  for very-high-risk ASCVD, <70 for other ASCVD**; add ezetimibe, then PCSK9i/inclisiran/bempedoic acid;
+  measure Lp(a) once.
+- Beta-blocker after MI with preserved EF is contested: REDUCE-AMI and REBOOT neutral, BETAMI-DANBLOCK
+  favorable. Transfusion in MI: MINT (2023) restrictive strategy not non-inferior; Hb ≥10 may be reasonable (2b).
+- Fibrinolysis adjuncts: clopidogrel 300 mg (≤75 y) or 75 mg (>75 y); enoxaparin preferred
+  (ExTRACT-TIMI 25; ≥75 y no bolus, 0.75 mg/kg q12h); half-dose tenecteplase ≥75 y (STREAM); TREAT:
+  switching to ticagrelor after lysis (<75 y) non-inferior for bleeding.
+- Contrast maximum dose rule of thumb: 5 mL × weight (kg) / creatinine, up to 300 mL.
 - Nitrates + PDE5 inhibitors: profound hypotension.
 - Beta-blockers: avoid in cocaine-associated ACS acutely (unopposed alpha) – phentolamine,
   benzodiazepines, nitrates.
 - Sedation: midazolam 0.5–2 mg + fentanyl 25–50 µg; fentanyl delays P2Y12 absorption.
 - Vasopressin and terlipressin not for coronary spasm.
-- Warfarin: hold 5 days for femoral (INR <1.8), can proceed radially with therapeutic INR.
-  DOAC: hold 24–48 h depending on CrCl for femoral; radial can proceed.
+- Warfarin (SCAI 2021): INR ≤1.8 femoral, ≤2.2 radial; no vitamin K. Apixaban/rivaroxaban hold
+  24–48 h; dabigatran 48 h (72–96 h if CrCl <50); emergencies go radial. DOACs need no bridging;
+  VKA bridging only for mechanical mitral valve or embolism within 3 months (BRIDGE: none for AF).
+- DOAC renal clearance: dabigatran ~80%, edoxaban ~50%, rivaroxaban ~35%, apixaban ~27%.
+  Edoxaban 30 mg if CrCl 15–50 (avoid if CrCl >95). VKA still required for mechanical valves,
+  rheumatic MS with AF (INVICTUS) and triple-positive antiphospholipid syndrome.
+- HIT duration: HIT with thrombosis 3 months; isolated HIT 4–6 weeks (up to 3 months); DOACs
+  acceptable; warfarin only after platelets ≥150k with ≥5 days overlap.
 - Drug-eluting stent drugs: sirolimus/everolimus/zotarolimus (mTOR inhibitors, cytostatic,
   G1 arrest) vs paclitaxel (microtubule stabilizer, cytotoxic, used on DCB because it is
   lipophilic and retained). Biolimus (polymer-free, LEADERS FREE in HBR). Polymer types:

@@ -40,10 +40,10 @@ usually self-limited (t½ <10 s).
 
 **Evidence.** DEFER (FFR ≥0.75, deferral safe), FAME (FFR-guided vs angio in MVD: fewer
 stents, lower MACE), FAME 2 (FFR ≤0.80 PCI + OMT vs OMT: fewer urgent revascularizations, no
-death/MI benefit), FAME 3 (FFR-guided PCI failed non-inferiority to CABG in 3VD at 1 y),
-DEFINE-FLAIR / iFR-SWEDEHEART (iFR ≈ FFR), FUTURE (trend to harm with FFR in all-comers,
+death/MI benefit), FAME 3 (FFR-guided PCI failed non-inferiority to CABG in 3VD at 1 y; **5-y death/stroke/MI similar, 16% vs 14%, with more MI and repeat revascularization after PCI**),
+DEFINE-FLAIR / iFR-SWEDEHEART (iFR ≈ FFR at 1 y; **5-year DEFINE-FLAIR showed higher all-cause death with iFR, 9.0% vs 6.2%, not seen in iFR-SWEDEHEART, cause unexplained**), FUTURE (trend to harm with FFR in all-comers,
 stopped early), FLOWER-MI (FFR-guided non-culprit not better than angio-guided in STEMI),
-FIRE (physiology-guided complete revascularization in ≥75 y MI reduced events).
+FIRE (physiology-guided complete revascularization in ≥75 y MI reduced events), FULL REVASC (2024: FFR-guided complete revascularization did not reduce death/MI/unplanned revascularization vs culprit-only), FRAME-AMI (FFR-guided beat angiography-guided), FLAVOUR (FFR-guided non-inferior to IVUS-guided for intermediate lesions with fewer PCIs), FAVOR III Europe (2024: angiography-derived QFR inferior to FFR).
 
 ## Anatomic-physiologic correlations (frequently asked)
 - Angiographic 50–70% lesions: ~35% are FFR-positive; 70–90%: ~20% are FFR-negative.
@@ -77,8 +77,8 @@ NIRS-IVUS: maxLCBI4mm >400 predicts plaque-level and patient-level events (LRP, 
 
 **Stent optimization targets (imaging-guided PCI).**
 - MSA ≥5.5 mm² by IVUS (≥4.5 mm² by OCT) for non-LM; or MSA >80% of distal reference lumen.
-- LM (Kang criteria, IVUS): ostial LAD ≥6.3, ostial LCx ≥5.0, polygon of confluence ≥7.2,
-  proximal LM ≥8.2 mm² (round to "LM ≥8, LAD ≥6, LCx ≥5").
+- LM (Kang criteria, IVUS): ostial LCx ≥5.0, ostial LAD ≥6.3, polygon of confluence ≥7.2,
+  proximal LM ≥8.2 mm² (the "5-6-7-8" rule).
 - Malapposition <0.4 mm and <1 mm length is benign acutely; large late-acquired malapposition
   associates with very late ST.
 - Edge dissection needing treatment: >60° arc, >3 mm length, involves media, or
@@ -91,7 +91,7 @@ NIRS-IVUS: maxLCBI4mm >400 predicts plaque-level and patient-level events (LRP, 
 RENOVATE-COMPLEX-PCI (IVUS/OCT-guided complex PCI reduced TVF), ILUMIEN IV (OCT: larger MSA,
 fewer ST, no difference in TVF at 2 y), OCTOBER (OCT-guided bifurcation PCI reduced MACE),
 OCTIVUS (OCT non-inferior to IVUS), IVUS-XPL (long lesions). ADAPT-DES: IVUS reduced ST/MI.
-2021 ACC/AHA: intravascular imaging **2a** for stent optimization, especially LM/complex.
+2021 ACC/AHA: intravascular imaging 2a; **2025 ACC/AHA ACS and ESC 2024 CCS: Class 1 for LM and complex lesions** (RENOVATE, OCTOBER, IVUS-ACS 2024, 2024 network meta-analysis showing lower cardiac death, MI, ST).
 
 ## Coronary anatomy and angiographic views
 - LM: AP caudal, LAO caudal ("spider"), RAO caudal for LM–LCx. Ostial LM: AP or shallow LAO

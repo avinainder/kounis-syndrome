@@ -123,9 +123,13 @@ Effusive-constrictive: RA stays high after pericardiocentesis.
 - Pressure-volume loop teaching: IABP shifts loop slightly left/down (↓afterload); Impella
   unloads volume and pressure (loop shifts left and narrows, ↓LVEDP); VA-ECMO shifts loop
   **right** and up (↑afterload, ↑LVEDP) unless vented.
-- Hemodynamic support in high-risk PCI (unprotected LM, last remaining vessel, EF ≤35%,
-  severe AS): prophylactic Impella (PROTECT II: ↓90-day MAE trend) vs IABP; BCIS-1: elective
-  IABP no benefit in primary endpoint but long-term mortality ↓.
+- Hemodynamic support in high-risk PCI: BCIS-1 (elective IABP, no MACCE benefit; late mortality
+  signal), PROTECT II (Impella 2.5 vs IABP: 30-d NS, 90-d per-protocol trend), **CHIP-BCIS3 (ACC 2026):
+  Impella CP in LVEF ≤35% complex PCI gave no benefit and HIGHER CV death (26.7% vs 14.5%)**; PROTECT IV
+  pending. Routine MCS for high-risk PCI is not supported. 2025 ACS guideline: microaxial pump in
+  selected STEMI-CS is 2a; routine IABP or VA-ECMO in shock is Class 3.
+- Post-arrest: TTM2 showed 33 °C no better than normothermia; 2025 AHA: temperature control
+  32–37.5 °C for ≥36 h with fever avoidance.
 - Escalation triggers on support: lactate not clearing at 6–12 h, CPO <0.6, PAPi <1,
   rising vasopressor dose; LV venting if PCWP >18–20 on ECMO, no aortic valve opening, or
   pulmonary edema.

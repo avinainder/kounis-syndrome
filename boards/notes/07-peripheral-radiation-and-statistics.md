@@ -8,8 +8,12 @@
 - Revascularize claudication only if lifestyle-limiting after exercise/OMT; chronic
   limb-threatening ischemia (rest pain, tissue loss, WIfI staging): revascularize promptly.
   BEST-CLI: surgical bypass with a good single-segment GSV beat endovascular (MALE/death
-  42.6% vs 57.4%); without good vein, equal. BASIL-2: endovascular ≥ vein bypass in
-  infrapopliteal disease. Angiosome-directed revascularization.
+  42.6% vs 57.4%); without good vein, equal. BASIL-2 (2023): for infrapopliteal disease, vein-bypass-first had MORE amputation/death than
+  endovascular-first. STRIDE (2025): semaglutide increased walking distance in PAD with T2DM.
+  Acute limb ischemia = symptoms <2 weeks; Rutherford I viable (arterial and venous Doppler audible),
+  IIa marginally threatened (minimal sensory loss, arterial often inaudible), IIb immediately
+  threatened (rest pain, motor deficit; emergent revascularization ≤6 h), III irreversible (both
+  signals inaudible; primary amputation). Immediate IV heparin is Class 1. Angiosome-directed revascularization.
 - Aortoiliac: stents (covered for TASC C/D, COBEST); iliac stenting excellent patency.
   Femoropopliteal: DCB (paclitaxel; the 2018 mortality signal was later refuted by
   FDA/SWEDEPAD/large data), DES (Eluvia, Zilver PTX), nitinol self-expanding stents (avoid
@@ -18,6 +22,9 @@
   mixed, DES (Esprit BTK: LIFE-BTK positive), avoid bare stents.
 - Complications: distal embolization, perforation, dissection (flow-limiting → stent),
   access; contrast; cholesterol emboli.
+- Renal physiology: unilateral RAS is renin-dependent (ACEi lowers BP); bilateral RAS or solitary
+  kidney is volume-dependent and **ACEi raises creatinine (AKI)** with little BP effect. Significance:
+  systolic gradient ≥20, mean ≥10 mmHg, Pd/Pa ≤0.90 or renal FFR ≤0.80.
 - Renal artery stenosis: atherosclerotic — stenting NOT beneficial vs OMT (ASTRAL, CORAL);
   consider for flash pulmonary edema, refractory HTN with bilateral stenosis, progressive CKD
   with bilateral/solitary kidney stenosis. FMD (young women, "string of beads", medial
@@ -32,7 +39,11 @@
 
 ## Carotid disease
 - Symptomatic ≥50–70% → revascularize within 2 weeks; asymptomatic 70–99% selected
-  (life expectancy >5 y, low periprocedural risk; CREST-2 pending vs intensive medical).
+  (life expectancy >5 y, low periprocedural risk). **CREST-2 (NEJM 2025), asymptomatic ≥70%: CAS +
+  intensive medical management reduced periprocedural stroke/death plus 4-y ipsilateral stroke (2.8% vs
+  6.0%, NNT ~31); the CEA arm was not significant (3.7% vs 5.3%).** ACST-2: CAS ≈ CEA. **CMS NCD (Oct
+  2023): CAS covered for symptomatic ≥50% and asymptomatic ≥70% regardless of surgical risk**, with
+  shared decision-making and neurologic assessment.
 - CEA vs CAS: CREST (4-y composite similar 7.2% vs 6.8%; periprocedural stroke ↑ with CAS,
   MI ↑ with CEA; age >70 favors CEA; <70 similar), ACT I (asymptomatic, non-inferior),
   SPACE/EVA-3S/ICSS (CAS worse in symptomatic). CAS favored when: high surgical risk
@@ -80,9 +91,9 @@ Substantial radiation dose level (SIR/NCRP 168): Ka,r **5 Gy**, KAP 500 Gy·cm²
 3 Gy, fluoro time 60 min → document, counsel, follow up skin at 2–4 weeks; Ka,r >15 Gy is a
 sentinel event (Joint Commission). Typical PCI 1–3 Gy Ka,r; diagnostic 0.5–1 Gy; CTO higher.
 
-**Operator limits.** ICRP: 20 mSv/y effective averaged over 5 y (max 50 in one year);
-NCRP/US: 50 mSv/y, lifetime 10 mSv × age; lens 20 mSv/y (ICRP 2011; NCRP 50 mSv/y), skin/
-extremities 500 mSv/y; **pregnant worker fetus 5 mSv** total, 0.5 mSv/month; public 1 mSv/y.
+**Operator limits.** US NRC: whole body 50 mSv/y (practical goal <5), **lens 150 mSv/y**, skin/
+extremities 500 mSv/y; ICRP: 20 mSv/y effective averaged over 5 y (max 50 in one year) and **lens
+20 mSv/y** (know both numbers); lifetime 10 mSv × age (NCRP); **pregnant worker fetus 5 mSv** total, 0.5 mSv/month; public 1 mSv/y.
 Two badges: collar outside the apron (lens/thyroid estimate) and under the apron at waist;
 effective dose = 0.5 × under + 0.025 × collar.
 
@@ -121,6 +132,9 @@ effective dose = 0.5 × under + 0.025 × collar.
 - Intention-to-treat (preserves randomization, real-world), per-protocol, as-treated.
   Composite endpoints: driven by the softest component (revascularization). Surrogate
   endpoints. Bayesian analysis (posterior probability; used in device trials). Adaptive designs.
+- Win ratio: hierarchical composite ranking of patient pairs prioritizing death (used in
+  CHIP-BCIS3). Verification bias: short follow-up misclassifies false negatives as true negatives
+  and inflates apparent NPV.
 - Bias: selection (fix: randomization), performance/detection (blinding, sham — ORBITA), lead-
   time/length-time (screening), recall (case-control), confounding (randomization, multivariable
   adjustment, propensity scores — cannot fix unmeasured confounders), immortal time bias.

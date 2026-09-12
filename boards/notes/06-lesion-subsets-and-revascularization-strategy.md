@@ -20,8 +20,8 @@
 - Thrombus: no routine aspiration (TASTE, TOTAL); bail-out aspiration for large burden.
   Deferred stenting not helpful (DANAMI-3-DEFER). Radial preferred. Bivalirudin vs heparin:
   equal with post-PCI infusion (MATRIX, BRIGHT-4 favored bivalirudin + high-dose infusion).
-- Post-MI: DAPT 12 months, high-intensity statin, beta-blocker (REDUCE-AMI/ABYSS: no benefit
-  if EF preserved), ACEi/ARB, MRA if EF ≤40% with HF/DM, SGLT2i emerging, cardiac rehab.
+- Post-MI: DAPT 12 months, high-intensity statin, beta-blocker (REDUCE-AMI/REBOOT neutral if EF
+  preserved; BETAMI-DANBLOCK favorable), ACEi/ARB, MRA if EF ≤40% with HF/DM, SGLT2i emerging, cardiac rehab.
   ICD at ≥40 days if EF ≤35% (≥90 days after revascularization).
 - MINOCA (5–6%): CMR to find myocarditis/Takotsubo/true MI; OCT for plaque erosion/SCAD;
   vasospasm provocation.
@@ -40,8 +40,9 @@
   dynamic ST changes); **early (<24 h)** for high risk (NSTEMI by troponin, dynamic ST/T changes,
   GRACE >140; TIMACS, VERDICT); **within 72 h** for intermediate risk (DM, CKD, EF <40%,
   early post-MI angina, prior PCI/CABG, GRACE 109–140); ischemia-guided for low risk.
-- Complete revascularization preferred in MVD; in cardiac arrest without STEMI, no immediate
-  angiography benefit (COACT, TOMAHAWK).
+- Complete revascularization is Class 1 in NSTE-ACS (2025). SENIOR-RITA (2024): invasive strategy in
+  NSTEMI ≥75 y reduced non-fatal MI without a mortality difference. In cardiac arrest without STEMI,
+  no immediate angiography benefit (COACT, TOMAHAWK).
 - Antithrombotic: aspirin + P2Y12 (prasugrel after anatomy or ticagrelor); anticoagulant UFH,
   enoxaparin, bivalirudin (fondaparinux for conservative). No upstream GPI.
 
@@ -95,9 +96,10 @@
   LM: MSA targets from note 01; IVUS strongly recommended.
 
 ## Chronic total occlusion
-- Definition: TIMI 0 for ≥3 months. Indication: symptoms/ischemia despite OMT (class 2a for
-  symptoms); no evidence for mortality benefit (DECISION-CTO, EuroCTO: QoL benefit;
-  EXPLORE: no LVEF benefit for CTO after STEMI). Viability and ischemic burden support the
+- Definition: TIMI 0 for ≥3 months. Indication: refractory angina despite OMT after treating
+  non-CTO lesions is **Class 2b (ACC/AHA 2021)**; no mortality benefit (DECISION-CTO neutral, EuroCTO:
+  QoL benefit; EXPLORE and REVASC: no LVEF benefit). Stop the procedure at air kerma >5 Gy
+  (strongly consider at >7 Gy), contrast >3.7× eGFR, or >3 h; consider an investment procedure. Viability and ischemic burden support the
   decision.
 - J-CTO score: blunt stump, calcification, bending >45°, length ≥20 mm, prior failed attempt
   (each 1 point; 0 easy, 1 intermediate, 2 difficult, ≥3 very difficult — predicts

@@ -104,7 +104,8 @@
 - AV fistula: continuous bruit; most close spontaneously; surgery/covered stent if
   high-output HF, limb ischemia/steal, or enlarging.
 - Closure devices (Angio-Seal collagen/anchor, Perclose suture, MynxGrip sealant): ↓time to
-  hemostasis, not complications; infection (Angio-Seal, immunocompromised), device
+  hemostasis and ambulation, but do NOT reduce bleeding or vascular complications in RCTs (device
+  failure raises complications ~3×); infection (Angio-Seal, immunocompromised), device
   embolization, vessel occlusion in small/diseased arteries (<5 mm, heavily calcified),
   re-access same site after 90 days for Angio-Seal.
 - Femoral artery thrombosis/limb ischemia: larger sheaths (MCS), PAD; check pulses;
@@ -129,7 +130,9 @@
   finish the case, then compression; forearm hematoma → compress, BP cuff at 15 mmHg below
   SBP; compartment syndrome (rare) → fasciotomy.
 - Radial for STEMI, with 6F; two-stent bifurcation and 1.75 mm burr need 7F (or 7F sheathless).
-- Hemostasis of ulnar and distal radial; distal radial (snuffbox) ↓RAO (DISCO RADIAL).
+- Distal radial (snuffbox): DISCO RADIAL (2022) showed RAO was NOT significantly lower (0.3% vs
+  0.9%) with higher crossover; it remains a reasonable alternative. RAO treatment: ipsilateral ulnar
+  compression 1 h or ~4 weeks of LMWH; about half recanalize spontaneously.
 
 ### Other
 - Brachial: highest complication (median nerve injury, thrombosis); avoid.

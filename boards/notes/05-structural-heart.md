@@ -3,6 +3,15 @@
 ## TAVR
 **Indications (2020 ACC/AHA VHD).** Severe symptomatic AS (or asymptomatic with EF <50%,
 very severe AS, abnormal exercise test, rapid progression, or other cardiac surgery).
+**Newer evidence:** EARLY TAVR (2024) showed TF-TAVR in asymptomatic severe AS reduced
+death/stroke/unplanned CV hospitalization vs surveillance; **FDA approved TAVR for asymptomatic severe
+AS (May 2025)**. AVATAR/EVOLVED: early SAVR benefit. **ESC/EACTS 2025: TAVI favored at ≥70 y.** DEDICATE
+(2024): TAVR non-inferior at low–intermediate risk. NOTION 10-y: similar mortality, less structural
+valve deterioration with TAVR. **NOTION-3 (2024): PCI of significant CAD (FFR ≤0.80 or ≥90%) before TAVR
+reduced death/MI/urgent revascularization** (ACTIVATION had been negative); coronary evaluation before
+TAVR is Class 1. **JenaValve Trilogy: first TAVR approved for pure aortic regurgitation (March 2026).**
+TMVR: Tendyne (transapical, 2025) and SAPIEN M3 (transseptal, Dec 2025) approved; neo-LVOT <1.7–2.0 cm²
+predicts LVOT obstruction (LAMPOON or septal ablation to mitigate).
 Choice: age >80 or life expectancy <10 y → TAVR; <65 or life expectancy >20 y → SAVR
 (durability); 65–80 shared decision. TAVR favored when: high surgical risk, porcelain aorta,
 hostile chest, frailty. SAVR favored when: bicuspid with aortopathy needing repair, low
@@ -34,7 +43,7 @@ alternatives). SMART trial: self-expanding better hemodynamics/valve dysfunction
 |---|---|---|
 | Conduction: new LBBB (10–30%), high-grade AVB needing PPM (~5–15%) | Pre-existing **RBBB** (strongest), self-expanding valve, deep implant, short membranous septum, LVOT calcium, PR/QRS prolongation post-implant | Temporary pacer; monitoring ≥24 h with new LBBB; ambulatory monitoring; PPM if HAVB, or new LBBB with QRS >150/PR >240 not resolving; implant depth <3–5 mm reduces risk (cusp-overlap technique) |
 | Paravalvular leak | Undersizing, eccentric calcium, bicuspid, malposition | Post-dilation (self-expanding), valve-in-valve, plug closure; moderate+ PVL ↑mortality |
-| Stroke (2–4% at 30 d) | Bicuspid, AF, prior stroke, valve-in-valve, more manipulation | Cerebral embolic protection (Sentinel): PROTECTED TAVR no reduction in overall stroke, ↓disabling stroke secondary endpoint; BHF PROTECT-TAVI negative; class 2b |
+| Stroke (2–3% at 30 d) | Bicuspid, AF, prior stroke, valve-in-valve, more manipulation | Cerebral embolic protection (Sentinel): PROTECTED TAVR (2022) and BHF PROTECT-TAVI (2025) showed no stroke reduction; not routine |
 | Coronary obstruction (<1%; mortality ~40%) | Low coronary height, narrow SOV, bulky leaflets, **valve-in-valve** (stented bioprosthesis with externally mounted leaflets, VTC <4 mm) | Protect with wire/undeployed stent ("chimney" snorkel), BASILICA leaflet laceration, ShortCut device; emergent PCI |
 | Annular/root rupture (<1%) | Balloon-expandable, LVOT calcium, >20% oversizing, aggressive post-dilation | Reverse, pericardiocentesis, surgery |
 | Vascular (major 2–5%) | Sheath-to-femoral artery ratio >1.05, calcification, female | Covered stent from contralateral access, balloon tamponade, surgery |
@@ -93,6 +102,8 @@ hemodynamic instability before TAVR, non-cardiac surgery, to assess symptomatic 
   obstruction risk from neo-LVOT <170 mm²).
 
 ## PFO and ASD closure
+- Platypnea-orthodeoxia (dyspnea and desaturation when UPRIGHT, relieved supine) is a non-stroke
+  indication for PFO closure, as are decompression illness in divers and paradoxical embolism.
 - **PFO**: cryptogenic ischemic stroke age 18–60 with high-risk features (large shunt, atrial
   septal aneurysm), after exclusion of other causes (AF monitoring). RESPECT (long-term),
   CLOSE, REDUCE, DEFENSE-PFO: closure + antiplatelet superior to antiplatelet alone (RRR ~50%),
@@ -104,6 +115,8 @@ hemodynamic instability before TAVR, non-cardiac surgery, to assess symptomatic 
 - **Secundum ASD**: close if RA/RV enlargement, Qp/Qs ≥1.5, or paradoxical embolism, regardless
   of symptoms; defect ≤38 mm with ≥5 mm rims (deficient retro-aortic rim acceptable but ↑erosion).
   Contraindicated: PVR >2/3 SVR or PAP >2/3 systemic without reversibility (test occlusion);
+  **2025 ACHD guideline: close if PVR ≤2 WU; consider at 2–<5 WU in expert centers; no closure with
+  high PVR/Eisenmenger**;
   sinus venosus, primum, coronary sinus ASDs (surgical; sinus venosus covered-stent
   investigational). Balloon sizing (stop-flow diameter); device ~ stop-flow diameter.
   Complications: erosion (0.1–0.3%; deficient aortic rim + oversizing; presents days–years
@@ -123,10 +136,18 @@ hemodynamic instability before TAVR, non-cardiac surgery, to assess symptomatic 
 - Anatomy: TEE/CT at 0/45/90/135°; ostium width and depth; morphologies (chicken wing,
   windsock, cactus, cauliflower); exclude thrombus (contraindication).
 - Transseptal: **inferior and posterior** puncture for LAAO (vs superior for TEER).
-- Post: Watchman: warfarin (or DOAC) + aspirin 45 days → TEE (peri-device leak <5 mm and no
-  DRT) → DAPT to 6 months → aspirin; DAPT-only regimen acceptable if OAC-intolerant.
-  Amulet: DAPT. Device-related thrombus 2–4% (↑stroke; treat with OAC). Peri-device leak
-  >5 mm → continue OAC. Complications: tamponade (~1%), embolization, air embolism, stroke.
+- Post: Watchman: warfarin (or DOAC) + aspirin 45 days → TEE/CT → DAPT to 6 months → aspirin;
+  DAPT-only regimen acceptable if OAC-intolerant. Amulet: DAPT. Device-related thrombus 2–4%
+  (↑stroke 3–5×; risk with deep implant >10 mm below the pulmonary ridge, low EF, large LAA; treat
+  with OAC). **Peri-device leak: any leak, even <5 mm, is associated with more ischemic events
+  (NCDR)**; options are plugs, coils, second device. Complications: effusion needing intervention
+  0.5–1%, embolization <0.5%, stroke.
+- Newest trials: **CHAMPION-AF (2026)** (Watchman FLX vs DOAC in OAC-eligible AF): non-inferior for
+  CV death/stroke/SE (5.7% vs 4.8%), less non-procedural bleeding (10.9% vs 19.0%), but ischemic
+  stroke/SE numerically higher (3.2% vs 2.2%). **CLOSURE-AF (2026)** (HBR/OAC-contraindicated vs best
+  medical care): LAAO FAILED non-inferiority. OPTION (2024): after ablation, LAAO ↓ bleeding,
+  non-inferior for stroke. Guideline (2023 AF): 2a with contraindication to long-term OAC, 2b for
+  HBR/preference.
 
 ## Alcohol septal ablation (ASA)
 - Indication: obstructive HCM with NYHA III–IV (or II with severe gradient) despite medical
@@ -138,10 +159,14 @@ hemodynamic instability before TAVR, non-cardiac surgery, to assess symptomatic 
   to confirm the basal septal target without remote enhancement (papillary muscle, RV free
   wall), 1–3 mL desiccated ethanol slowly, balloon inflated 5–10 min. Temporary pacemaker
   mandatory.
-- Complications: complete heart block ~10% needing PPM (higher with pre-existing LBBB;
-  ASA causes **RBBB** typically, myectomy causes **LBBB**), VT/VF, large infarct with
-  remote territory, coronary dissection, tamponade, death 1%. Gradient reduction continues
-  for months (remodeling); ~10–20% need repeat/myectomy.
+- Complications: complete heart block ~10–15% needing PPM, mostly within 24–48 h (higher with
+  pre-existing LBBB or first-degree AVB; ASA causes **RBBB** typically, myectomy causes **LBBB**),
+  VT/VF, large infarct with remote territory, coronary dissection, tamponade, death ~1%. Gradient
+  reduction continues for months (remodeling); ~10–20% need repeat/myectomy.
+- Medical therapy ladder (2024 AHA/ACC HCM): non-vasodilating beta-blocker, then non-DHP CCB; if
+  still symptomatic, **myosin inhibitor (mavacamten; aficamten FDA Dec 2025), disopyramide, or SRT**
+  (all Class 1). VALOR-HCM: mavacamten reduced SRT eligibility; MAPLE-HCM: aficamten > metoprolol.
+  Myectomy preferred with intrinsic MV disease, septum >30 mm, or young age.
 
 ## Paravalvular leak closure
 Hemolysis or HF symptoms; Amplatzer vascular plugs; retrograde aortic, transseptal or
@@ -152,8 +177,14 @@ transapical for mitral; risk of leaflet impingement; rock the device before rele
   collaterals/hypertension): covered/bare stents in adults; balloon alone in recoarctation;
   aneurysm/dissection risk, especially native and >1.5 balloon/isthmus ratio. Long-term
   hypertension persists in many.
-- Pulmonary valvuloplasty: peak gradient ≥40–50 mmHg or symptoms; balloon 1.2–1.4× annulus;
-  dysplastic valves (Noonan) respond poorly.
+- Pulmonary valvuloplasty: severe PS (peak >64 mmHg, mean >35) or symptomatic moderate–severe domed
+  PS; balloon 1.2–1.4× annulus; dysplastic valves (Noonan) respond poorly. "Suicide RV" (dynamic
+  infundibular obstruction after relief): fluids + beta-blocker, avoid inotropes.
+- Repaired tetralogy: PVR for symptomatic ≥moderate PR; asymptomatic with **RVESVi >80 mL/m²** (2025
+  ACHD), RVEDVi ≥160, RV dysfunction, or arrhythmia. Before TPVR (Melody/SAPIEN in conduits; Harmony/
+  Alterra in native RVOT): coronary compression testing with a balloon in the RVOT; pre-stent conduits.
+- Coarctation: 50–75% of coarctation patients have a bicuspid valve (only a minority of BAV have
+  coarctation); Turner, Shone complex, intracranial aneurysm ~10%.
 - PDA closure (Amplatzer duct occluder; coil if small), VSD closure (perimembranous → AV
   block risk; muscular; post-MI VSD).
 - Pulmonary vein stenosis after ablation: angioplasty/stenting.
