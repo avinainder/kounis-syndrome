@@ -25,47 +25,47 @@ Board exams lag new evidence. Where a new trial conflicts with an older guidelin
 
 |**Topic**|**Original guide said**|**Current answer**|
 |---|---|---|
-|**Anaphylaxis**|Methylprednisolone 12 mg IV; epinephrine<br>described as “1:1,000 / 1:10,000”|Methylprednisolone **125 mg IV **(adjunct only). Epinephrine<br>is now labeled in mg/mL: IM 0.3–0.5 mg of 1 mg/mL; IV<br>0.1 mg of 0.1 mg/mL given slowly.|
-|**PDE5 inhibitors**|Wait 5 half-lives (tadalafil 75 h)|Guideline: no nitrates within **24 h of sildenafil/vardenafil **<br>or **48 h of tadalafil **.|
-|**Hydration **<br>** (POSEIDON)**|LVEDP >18 → 1 mL/kg/h; trial “excluded LV<br>dysfunction”|LVEDP <13 → 5, 13–18 → 3, **>18 → 1.5 mL/kg/h **. NAC and<br>bicarbonate give no benefit (PRESERVE).|
-|**Eye-lens dose**|150 mSv/yr|US NRC limit is still 150 mSv, but ICRP recommends **20 **<br>** mSv/yr **(averaged over 5 yr). Know both.|
-|**VKA mechanism**|“Inhibits IX, XI, XII, Xa, VII, thrombin”|Blocks vitamin K–dependent synthesis of **II, VII, IX, X **and<br>proteins C/S.|
-|**DOAC **<br>** clearance/dosing**|Apixaban 8% renal, rivaroxaban 60% renal;<br>edoxaban 30 mg only if CrCl 15–30|Renal: dabigatran ~80%, edoxaban ~50%, rivaroxaban<br>~35% unchanged, apixaban ~27%. Edoxaban 30 mg if **CrCl **<br>** 15–50 **.|
-|**HIT**|Warfarin for 6 months|Isolated HIT: 4–6 wk (up to 3 mo); **HITT: 3 months **. DOACs<br>are acceptable. Start warfarin only once platelets ≥150k,<br>with ≥5 d overlap.|
-|**DAPT de-escalation**|“Not in guidelines yet”; when stepping down,<br>drop the P2Y12 inhibitor and keep aspirin|2025 ACS guideline: **ticagrelor monotherapy ≥1 mo after **<br>** PCI is Class 1 **. HBR: stop aspirin at 1–3 mo. Step-down now<br>favors **P2Y12 monotherapy **.|
-|**P2Y12 choice in **<br>** ACS**|Clopidogrel or ticagrelor Class 1; potent agents<br>IIa|Prasugrel or ticagrelor is **Class 1 over clopidogrel **for ACS<br>PCI.|
-|**GP IIb/IIIa**|Class 1 if not preloaded with a P2Y12 inhibitor|Routine use is **Class 3 **. Bailout only (large thrombus,<br>no/slow reflow): 2a.|
-|**Triple therapy**|“VKA preferred over DOAC on triple therapy;<br>INR 2–2.5”|**DOAC preferred **(AUGUSTUS etc.). Stop aspirin at 1–4 wk<br>(Class 1), continue OAC + clopidogrel, then OAC alone after<br>12 mo (AFIRE, EPIC-CAD).|
-|**Warfarin before **<br>** cath**|INR <1.5 femoral / <2 radial|SCAI 2021: **INR ≤1.8 femoral, ≤2.2 radial **. No vitamin K.|
-|**BMS in HBR**|Boards want BMS for very high bleeding risk|**DES with short DAPT beats BMS **in HBR (LEADERS FREE,<br>ZEUS, SENIOR, ONYX ONE). BMS is essentially obsolete.|
-|**Intravascular **<br>** imaging**|2011 guideline (IIa/IIb)|**Class 1 **for LM/complex lesions (2025 ACS; ESC 2024 CCS).<br>Supported by RENOVATE, OCTOBER, IVUS-ACS and 2024<br>meta-analysis (↓ cardiac death, MI, ST).|
-|**FAME 3**|CABG superior|1 yr: PCI missed noninferiority. **5 yr: death/stroke/MI **<br>** similar **(16% vs 14%); MI and repeat revascularization<br>higher with PCI.|
-|**iFR**|Identical to FFR|Noninferior at 1 yr. **5-yr DEFINE-FLAIR **showed higher all-<br>cause death with iFR (9.0% vs 6.2%), not seen in iFR-<br>SWEDEHEART; cause unexplained.|
-|**Complete revasc **<br>** timing**|Staged is more favorable|MULTISTARS AMI: **immediate multivessel PCI is **<br>** noninferior (fewer events) vs staged **. Complete revasc is<br>Class 1 in STEMI and NSTE-ACS. Never in shock at the<br>index procedure.|
-|**Lytics + ticagrelor**|Ticagrelor worse bleeding|TREAT: ticagrelor after lytics (<75 y) was **noninferior for **<br>** major bleeding **. Clopidogrel remains the adjunct at lysis.<br>After lysis, angiography at **2–24 h is Class 1 **.|
+|**Anaphylaxis**|Methylprednisolone 12 mg IV; epinephrine<br>described as “1:1,000 / 1:10,000”|Methylprednisolone **125 mg IV** (adjunct only). Epinephrine<br>is now labeled in mg/mL: IM 0.3–0.5 mg of 1 mg/mL; IV<br>0.1 mg of 0.1 mg/mL given slowly.|
+|**PDE5 inhibitors**|Wait 5 half-lives (tadalafil 75 h)|Guideline: no nitrates within **24 h of sildenafil/vardenafil**<br>or **48 h of tadalafil**.|
+|**Hydration<br>(POSEIDON)**|LVEDP >18 → 1 mL/kg/h; trial “excluded LV<br>dysfunction”|LVEDP <13 → 5, 13–18 → 3, **>18 → 1.5 mL/kg/h**. NAC and<br>bicarbonate give no benefit (PRESERVE).|
+|**Eye-lens dose**|150 mSv/yr|US NRC limit is still 150 mSv, but ICRP recommends **20<br>mSv/yr** (averaged over 5 yr). Know both.|
+|**VKA mechanism**|“Inhibits IX, XI, XII, Xa, VII, thrombin”|Blocks vitamin K–dependent synthesis of **II, VII, IX, X** and<br>proteins C/S.|
+|**DOAC<br>clearance/dosing**|Apixaban 8% renal, rivaroxaban 60% renal;<br>edoxaban 30 mg only if CrCl 15–30|Renal: dabigatran ~80%, edoxaban ~50%, rivaroxaban<br>~35% unchanged, apixaban ~27%. Edoxaban 30 mg if **CrCl<br>15–50**.|
+|**HIT**|Warfarin for 6 months|Isolated HIT: 4–6 wk (up to 3 mo); **HITT: 3 months**. DOACs<br>are acceptable. Start warfarin only once platelets ≥150k,<br>with ≥5 d overlap.|
+|**DAPT de-escalation**|“Not in guidelines yet”; when stepping down,<br>drop the P2Y12 inhibitor and keep aspirin|2025 ACS guideline: **ticagrelor monotherapy ≥1 mo after<br>PCI is Class 1**. HBR: stop aspirin at 1–3 mo. Step-down now<br>favors **P2Y12 monotherapy**.|
+|**P2Y12 choice in<br>ACS**|Clopidogrel or ticagrelor Class 1; potent agents<br>IIa|Prasugrel or ticagrelor is **Class 1 over clopidogrel** for ACS<br>PCI.|
+|**GP IIb/IIIa**|Class 1 if not preloaded with a P2Y12 inhibitor|Routine use is **Class 3**. Bailout only (large thrombus,<br>no/slow reflow): 2a.|
+|**Triple therapy**|“VKA preferred over DOAC on triple therapy;<br>INR 2–2.5”|**DOAC preferred** (AUGUSTUS etc.). Stop aspirin at 1–4 wk<br>(Class 1), continue OAC + clopidogrel, then OAC alone after<br>12 mo (AFIRE, EPIC-CAD).|
+|**Warfarin before<br>cath**|INR <1.5 femoral / <2 radial|SCAI 2021: **INR ≤1.8 femoral, ≤2.2 radial**. No vitamin K.|
+|**BMS in HBR**|Boards want BMS for very high bleeding risk|**DES with short DAPT beats BMS** in HBR (LEADERS FREE,<br>ZEUS, SENIOR, ONYX ONE). BMS is essentially obsolete.|
+|**Intravascular<br>imaging**|2011 guideline (IIa/IIb)|**Class 1** for LM/complex lesions (2025 ACS; ESC 2024 CCS).<br>Supported by RENOVATE, OCTOBER, IVUS-ACS and 2024<br>meta-analysis (↓ cardiac death, MI, ST).|
+|**FAME 3**|CABG superior|1 yr: PCI missed noninferiority. **5 yr: death/stroke/MI<br>similar** (16% vs 14%); MI and repeat revascularization<br>higher with PCI.|
+|**iFR**|Identical to FFR|Noninferior at 1 yr. **5-yr DEFINE-FLAIR** showed higher all-<br>cause death with iFR (9.0% vs 6.2%), not seen in iFR-<br>SWEDEHEART; cause unexplained.|
+|**Complete revasc<br>timing**|Staged is more favorable|MULTISTARS AMI: **immediate multivessel PCI is<br>noninferior (fewer events) vs staged**. Complete revasc is<br>Class 1 in STEMI and NSTE-ACS. Never in shock at the<br>index procedure.|
+|**Lytics + ticagrelor**|Ticagrelor worse bleeding|TREAT: ticagrelor after lytics (<75 y) was **noninferior for<br>major bleeding**. Clopidogrel remains the adjunct at lysis.<br>After lysis, angiography at **2–24 h is Class 1**.|
 |**Transfusion in MI**|Threshold Hb 8|MINT: restrictive strategy not noninferior. Hb ≥10 “may be<br>reasonable” (2b).|
-|**VA-ECMO / MCS in **<br>** shock**|“ECMO has data for improved 30-day survival”|**ECLS-SHOCK: no mortality benefit **, more bleeding.<br>** DanGer Shock: Impella CP ↓ 180-d death **in STEMI-CS<br>(2a). Routine IABP/VA-ECMO: Class 3.|
-|**High-risk PCI with **<br>** Impella**|“Reasonable”|CHIP-BCIS3 (2026): no benefit, **CV death higher with **<br>** Impella **. PROTECT IV pending. Routine use is not<br>supported.|
-|**Post-arrest cooling**|32–36 °C for 24 h|TTM2: 33 °C no better than normothermia. 2025 AHA:<br>** temperature control (32–37.5 °C) for ≥36 h **, avoid fever.|
-|**Inotrope in AMI-CS**|Add dopamine|Norepinephrine first. **Dobutamine or milrinone **for<br>inotropy (SOAP II: dopamine → more arrhythmias).|
-|**Colchicine**|COLCOT/LoDoCo2 positive<br>i|**CLEAR SYNERGY (2024) negative **post-MI. 2025 ACS: 2b.<br>i|
-|**LDL goal**|PAD statin to LDL <100|High-intensity statin (≥50% ↓). **2026 dyslipidemia **<br>** guideline: LDL <55 very-high-risk ASCVD, <70 other **<br>** ASCVD **. Measure Lp(a) once.|
-|**CTO PCI benefit**|“No LV function data yet”; IIa|EXPLORE and REVASC: **no LVEF benefit **. ACC/AHA 2021:<br>CTO PCI for refractory angina is **2b **.|
-|**SVG EPD**|Class 1|**2a **in 2021 guideline.|
-|**Coronary DCB**|“When are we getting DCBs?”|**AGENT DCB FDA-approved (2024) **for coronary ISR.|
-|**Bivalirudin**|Only harm (↑ ST)|BRIGHT-4: bivalirudin +** high-dose post-PCI infusion **↓<br>death/bleeding vs UFH in STEMI. It is a guideline<br>alternative to UFH.|
-|**Bilateral RAS**|“Cr decreases with ACEi”|Bilateral RAS/solitary kidney: ACEi **raises Cr (AKI) **; BP is<br>volume-dependent.|
-|**Acute limb **<br>** ischemia**|“Pain starts 2 weeks prior”; Doppler categories<br>mis-assigned|ALI = symptoms **<2 weeks **. Rutherford I: arterial + venous<br>signals audible. IIa/IIb: arterial inaudible, venous audible;<br>IIb has weakness. III: both inaudible.|
-|**Asymptomatic **<br>** carotid**|“Never stent asymptomatic”; CMS pays only<br>high surgical risk|**CREST-2 (2025): CAS + intensive medical therapy ↓**<br>** stroke/death **(2.8% vs 6.0%); CEA arm NS. **CMS (2023) **<br>covers CAS for symptomatic ≥50% / asymptomatic ≥70%<br>regardless of surgical risk, with shared decision-making.|
-|**TAVR**|“Nothing approved for AR”; Portico; ASA only;<br>PCI pre-TAVR only for symptoms; failure at 8–<br>10 yr|**JenaValve Trilogy approved for AR (Mar 2026) **.<br>Asymptomatic severe AS approved (EARLY TAVR; FDA<br>2025). Navitor replaced Portico. **NOTION-3 **: PCI of<br>significant CAD ↓ MACE. **NOTION 10-yr **: TAVR durability ≥<br>SAVR. ESC 2025: TAVI ≥70 y.|
-|**Cerebral embolic **<br>** protection**|Unclear|PROTECTED TAVR and BHF PROTECT-TAVI: **no stroke **<br>** reduction **. Not routine.|
-|**Mitral/tricuspid **<br>** devices**|ViMAC/ViR research only; no TR devices|**Tendyne (2025) **and **SAPIEN M3 transseptal TMVR (Dec **<br>** 2025) **approved. TriClip and EVOQUE approved 2024.<br>RESHAPE-HF2 and MATTERHORN expand TEER in SMR.|
-|**LAAO**|ACC/AHA IIb; LAAO ≈ DOAC|2023 AF guideline: **2a **if long-term OAC is contraindicated.<br>OPTION (post-ablation) and CHAMPION-AF: noninferior to<br>DOAC with less bleeding, but numerically more ischemic<br>stroke. **CLOSURE-AF **(HBR): failed noninferiority.|
-|**HCM**|ASA “Class IC”; ASA worsens MR|2024 HCM guideline: after BB/CCB, **myosin inhibitor, **<br>** disopyramide or SRT (Class 1) **. Mavacamten and<br>aficamten (FDA Dec 2025). ASA doesn’t worsen SAM-MR,<br>but intrinsic MV disease favors myectomy.|
-|**Platypnea-**<br>** orthodeoxia**|Dyspnea lying down, better upright|Reversed: **dyspnea and desaturation when upright **,<br>relieved supine.|
-|**Coarctation**|“75–85% of BAV patients have CoA”|Reversed: **50–75% of CoA patients have BAV **(only a<br>minority of BAV have CoA).|
-|**ASD closure / ToF **<br>** PVR**|2018 ACHD criteria|2025 ACHD: ASD closure if **PVR ≤2 WU **(consider if 2–<5<br>WU). ToF PVR emphasizes **RVESVi >80 mL/m²**.|
-|**PAD **<br>** antithrombotics**|ASA alone for most|2024 PAD guideline: SAPT (ASA or clopidogrel), and<br>** rivaroxaban 2.5 mg BID + ASA **(Class 1) for symptomatic<br>PAD and after revascularization. CLTI: BEST-CLI favors vein<br>bypass when good GSV.|
+|**VA-ECMO / MCS in<br>shock**|“ECMO has data for improved 30-day survival”|**ECLS-SHOCK: no mortality benefit**, more bleeding.<br>**DanGer Shock: Impella CP ↓ 180-d death** in STEMI-CS<br>(2a). Routine IABP/VA-ECMO: Class 3.|
+|**High-risk PCI with<br>Impella**|“Reasonable”|CHIP-BCIS3 (2026): no benefit, **CV death higher with<br>Impella**. PROTECT IV pending. Routine use is not<br>supported.|
+|**Post-arrest cooling**|32–36 °C for 24 h|TTM2: 33 °C no better than normothermia. 2025 AHA:<br>**temperature control (32–37.5 °C) for ≥36 h**, avoid fever.|
+|**Inotrope in AMI-CS**|Add dopamine|Norepinephrine first. **Dobutamine or milrinone** for<br>inotropy (SOAP II: dopamine → more arrhythmias).|
+|**Colchicine**|COLCOT/LoDoCo2 positive<br>i|**CLEAR SYNERGY (2024) negative** post-MI. 2025 ACS: 2b.<br>i|
+|**LDL goal**|PAD statin to LDL <100|High-intensity statin (≥50% ↓). **2026 dyslipidemia<br>guideline: LDL <55 very-high-risk ASCVD, <70 other<br>ASCVD**. Measure Lp(a) once.|
+|**CTO PCI benefit**|“No LV function data yet”; IIa|EXPLORE and REVASC: **no LVEF benefit**. ACC/AHA 2021:<br>CTO PCI for refractory angina is **2b**.|
+|**SVG EPD**|Class 1|**2a** in 2021 guideline.|
+|**Coronary DCB**|“When are we getting DCBs?”|**AGENT DCB FDA-approved (2024)** for coronary ISR.|
+|**Bivalirudin**|Only harm (↑ ST)|BRIGHT-4: bivalirudin +**high-dose post-PCI infusion** ↓<br>death/bleeding vs UFH in STEMI. It is a guideline<br>alternative to UFH.|
+|**Bilateral RAS**|“Cr decreases with ACEi”|Bilateral RAS/solitary kidney: ACEi **raises Cr (AKI)**; BP is<br>volume-dependent.|
+|**Acute limb<br>ischemia**|“Pain starts 2 weeks prior”; Doppler categories<br>mis-assigned|ALI = symptoms **<2 weeks**. Rutherford I: arterial + venous<br>signals audible. IIa/IIb: arterial inaudible, venous audible;<br>IIb has weakness. III: both inaudible.|
+|**Asymptomatic<br>carotid**|“Never stent asymptomatic”; CMS pays only<br>high surgical risk|**CREST-2 (2025): CAS + intensive medical therapy ↓<br>stroke/death** (2.8% vs 6.0%); CEA arm NS. **CMS (2023)**<br>covers CAS for symptomatic ≥50% / asymptomatic ≥70%<br>regardless of surgical risk, with shared decision-making.|
+|**TAVR**|“Nothing approved for AR”; Portico; ASA only;<br>PCI pre-TAVR only for symptoms; failure at 8–<br>10 yr|**JenaValve Trilogy approved for AR (Mar 2026)**.<br>Asymptomatic severe AS approved (EARLY TAVR; FDA<br>2025). Navitor replaced Portico. **NOTION-3**: PCI of<br>significant CAD ↓ MACE. **NOTION 10-yr**: TAVR durability ≥<br>SAVR. ESC 2025: TAVI ≥70 y.|
+|**Cerebral embolic<br>protection**|Unclear|PROTECTED TAVR and BHF PROTECT-TAVI: **no stroke<br>reduction**. Not routine.|
+|**Mitral/tricuspid<br>devices**|ViMAC/ViR research only; no TR devices|**Tendyne (2025)** and **SAPIEN M3 transseptal TMVR (Dec<br>2025)** approved. TriClip and EVOQUE approved 2024.<br>RESHAPE-HF2 and MATTERHORN expand TEER in SMR.|
+|**LAAO**|ACC/AHA IIb; LAAO ≈ DOAC|2023 AF guideline: **2a** if long-term OAC is contraindicated.<br>OPTION (post-ablation) and CHAMPION-AF: noninferior to<br>DOAC with less bleeding, but numerically more ischemic<br>stroke. **CLOSURE-AF** (HBR): failed noninferiority.|
+|**HCM**|ASA “Class IC”; ASA worsens MR|2024 HCM guideline: after BB/CCB, **myosin inhibitor,<br>disopyramide or SRT (Class 1)**. Mavacamten and<br>aficamten (FDA Dec 2025). ASA doesn’t worsen SAM-MR,<br>but intrinsic MV disease favors myectomy.|
+|**Platypnea-<br>orthodeoxia**|Dyspnea lying down, better upright|Reversed: **dyspnea and desaturation when upright**,<br>relieved supine.|
+|**Coarctation**|“75–85% of BAV patients have CoA”|Reversed: **50–75% of CoA patients have BAV** (only a<br>minority of BAV have CoA).|
+|**ASD closure / ToF<br>PVR**|2018 ACHD criteria|2025 ACHD: ASD closure if **PVR ≤2 WU** (consider if 2–<5<br>WU). ToF PVR emphasizes **RVESVi >80 mL/m²**.|
+|**PAD<br>antithrombotics**|ASA alone for most|2024 PAD guideline: SAPT (ASA or clopidogrel), and<br>**rivaroxaban 2.5 mg BID + ASA** (Class 1) for symptomatic<br>PAD and after revascularization. CLTI: BEST-CLI favors vein<br>bypass when good GSV.|
 
 ## 1. Periprocedural Medications, Contrast, Sedation and CA-AKI
 
@@ -101,12 +101,12 @@ Board exams lag new evidence. Where a new trial conflicts with an older guidelin
 
 **Minimal:** normal response to voice. **Moderate** (most caths): purposeful response to voice or light touch; airway and ventilation maintained. **Deep:** purposeful response only to pain; may need airway support.
 
-|**Drug**|**Dose**|**Onset /**<br>** duration**|**Notes**|
+|**Drug**|**Dose**|**Onset /<br>duration**|**Notes**|
 |---|---|---|---|
 |Midazolam|0.5–2<br>mg|2–5 min /<br>~30 min|Anxiolytic, amnestic|
 |Fentanyl|25–50<br>mcg|1–2 / 30–<br>60 min|Minimal histamine or<br>hypotension|
 |Hydromorphone|0.5–2<br>mg|5–10 / 4–<br>5 h|Common “fentanyl<br>allergy” alternative;<br>metabolites<br>accumulate in renal<br>failure|
-|Morphine|1–5<br>mg|2–8 / 4–5<br>h|Histamine,<br>hypotension; **delays **<br>** oral P2Y12 absorption**|
+|Morphine|1–5<br>mg|2–8 / 4–5<br>h|Histamine,<br>hypotension; **delays<br>oral P2Y12 absorption**|
 |Meperidine|12.5–<br>50 mg|5–10 / 2–<br>5 h|Anti-shivering; avoid<br>in renal failure|
 
 - **Flumazenil** 0.2 mg IV over 30 s, repeat to a 1 mg max. Seizure risk in chronic benzodiazepine use.
@@ -129,9 +129,9 @@ They potentiate nitrate cGMP, which can cause profound hypotension.
 
 - **Mechanism:** medullary vasoconstriction and hypoxia, reactive oxygen species, direct tubular toxicity. **Patient risk (Mehran):** eGFR <60, DM, age >75, CHF/low EF, hypotension/IABP, anemia, ACS/shock. **Procedural risk:** contrast volume, repeat exposure within 72 h. **Prevention:**
 
-   - Isotonic saline 1–1.5 mL/kg/h for 3–12 h before and 6– 24 h after. Isotonic beats half-normal saline.
+ - Isotonic saline 1–1.5 mL/kg/h for 3–12 h before and 6– 24 h after. Isotonic beats half-normal saline.
 
-   - **POSEIDON** (LVEDP-guided): 3 mL/kg/h for 1 h, then by LVEDP: <13 → 5; 13–18 → 3; >18 → 1.5 mL/kg/h × 4 h. **N-acetylcysteine and bicarbonate: no benefit** (PRESERVE). NAC is Class 3.
+ - **POSEIDON** (LVEDP-guided): 3 mL/kg/h for 1 h, then by LVEDP: <13 → 5; 13–18 → 3; >18 → 1.5 mL/kg/h × 4 h. **N-acetylcysteine and bicarbonate: no benefit** (PRESERVE). NAC is Class 3.
 
 Iso-osmolar vs low-osmolar contrast: no consistent difference in modern data.
 
@@ -145,7 +145,7 @@ Iso-osmolar vs low-osmolar contrast: no consistent difference in modern data.
 
 - Only ~1% of tube energy becomes x-rays (the rest is heat). The small focal spot is used for fluoro, the large one for cine.
 
-- **kVp** sets beam energy: higher kVp = more penetration, **less contrast **. **mA** sets photon quantity: dose is proportional to mA with no loss of contrast.
+- **kVp** sets beam energy: higher kVp = more penetration, **less contrast**. **mA** sets photon quantity: dose is proportional to mA with no loss of contrast.
 
 - **Pulse width** 4–10 ms; longer causes motion blur.
 
@@ -173,27 +173,27 @@ Iso-osmolar vs low-osmolar contrast: no consistent difference in modern data.
 
 **Skin (peak skin dose):**
 
-   - 2 Gy: transient erythema/epilation
+ - 2 Gy: transient erythema/epilation
 
-   - 5–10 Gy: erythema
+ - 5–10 Gy: erythema
 
-   - 10–15 Gy: moist desquamation
+ - 10–15 Gy: moist desquamation
 
-   - >15 Gy: ulceration/necrosis (sentinel event)
+ - >15 Gy: ulceration/necrosis (sentinel event)
 
 - Arrange follow-up when Ka,r >5 Gy. **Do not biopsy** a suspected radiation ulcer.
 
 - Thresholds are lower with prior exposure, DM and collagen-vascular disease.
 
-- Cancer risk ≈5% fatal cancer per Sv. **Younger age is the strongest risk modifier **; females have higher risk.
+- Cancer risk ≈5% fatal cancer per Sv. **Younger age is the strongest risk modifier**; females have higher risk.
 
 ### Occupational limits and protection
 
-**Whole body:** 50 mSv/yr (NRC). Practical goal <5 mSv/yr. **Lens:** NRC 150 mSv/yr; **ICRP recommends 20 mSv/yr **. Skin/extremities: 500 mSv/yr.
+**Whole body:** 50 mSv/yr (NRC). Practical goal <5 mSv/yr. **Lens:** NRC 150 mSv/yr; **ICRP recommends 20 mSv/yr**. Skin/extremities: 500 mSv/yr.
 
 - **Declared pregnancy:** fetal limit 5 mSv for the pregnancy (0.5 mSv/month); second dosimeter under the apron. A pregnant worker cannot be excluded from the lab. 0.5 mm Pb apron attenuates ~95–98% of scatter (0.35 mm ~90–95%).
 
-- **The main source of operator dose is patient scatter **, so lowering patient dose lowers operator dose. At 1 m, scatter ≈ 1/1000 of the patient entrance dose; inverse square law applies.
+- **The main source of operator dose is patient scatter**, so lowering patient dose lowers operator dose. At 1 m, scatter ≈ 1/1000 of the patient entrance dose; inverse square law applies.
 
 **Reduce dose:**
 
@@ -217,10 +217,10 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 
 |**Agent**|**Target / kinetics**|**PCI dosing**|**Key points**|
 |---|---|---|---|
-|Aspirin|Irreversible COX-1 → ↓ TXA2|162–325 mg load; 75–<br>100 mg daily|**≤100 mg with ticagrelor **(PLATO US signal). Ibuprofen<br>blocks aspirin access to COX-1, so give aspirin first.|
+|Aspirin|Irreversible COX-1 → ↓ TXA2|162–325 mg load; 75–<br>100 mg daily|**≤100 mg with ticagrelor** (PLATO US signal). Ibuprofen<br>blocks aspirin access to COX-1, so give aspirin first.|
 |Clopidogrel|Thienopyridine prodrug, 2-step<br>CYP2C19 activation; irreversible|600 mg (300 mg with<br>lytics if ≤75 y; 75 mg if<br>>75 y)|Only P2Y12 inhibitor for elective/CCD PCI and with<br>OAC. LOF carriers have more MACE/ST. Doubling the<br>daily dose does not overcome LOF; switch agents.|
-|Prasugrel|Thienopyridine prodrug (1 CYP<br>step), irreversible; onset ~30<br>min–2 h|60 mg, then 10 mg (5<br>mg if <60 kg)|**Contraindicated after prior stroke/TIA **. Generally<br>avoid ≥75 y. Give only after anatomy is known<br>(ACCOAST). Once daily.|
-|Ticagrelor|Direct-acting, **reversible **,<br>allosteric (non-ADP site)|180 mg, then 90 mg BID;<br>60 mg BID long-term|Dyspnea (~10–15%) and ventricular pauses<br>(adenosine-mediated). Switch to prasugrel for<br>dyspnea.|
+|Prasugrel|Thienopyridine prodrug (1 CYP<br>step), irreversible; onset ~30<br>min–2 h|60 mg, then 10 mg (5<br>mg if <60 kg)|**Contraindicated after prior stroke/TIA**. Generally<br>avoid ≥75 y. Give only after anatomy is known<br>(ACCOAST). Once daily.|
+|Ticagrelor|Direct-acting, **reversible**,<br>allosteric (non-ADP site)|180 mg, then 90 mg BID;<br>60 mg BID long-term|Dyspnea (~10–15%) and ventricular pauses<br>(adenosine-mediated). Switch to prasugrel for<br>dyspnea.|
 |Cangrelor|IV reversible P2Y12; offset ~1 h|30 mcg/kg bolus + 4<br>mcg/kg/min ≥2 h or for<br>PCI duration|For P2Y12-naïve patients. CHAMPION PHOENIX ↓<br>periprocedural MI/ST. 2025 ACS: 2b.|
 |Eptifibatide|Peptide GP IIb/IIIa; plasma t≤<br>2.5 h; platelet recovery ~4–8 h|180 mcg/kg ×2 boluses +<br>2 mcg/kg/min|Halve infusion if CrCl <50; avoid on dialysis. Not<br>reversed by platelets.|
 |Tirofiban|Non-peptide GP IIb/IIIa|25 mcg/kg + 0.15<br>mcg/kg/min|Halve infusion if CrCl ≤60.|
@@ -231,25 +231,25 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 
 - **TRITON-TIMI 38:** prasugrel vs clopidogrel (300 mg) in ACS PCI. ↓ CV death/MI/stroke and ST; ↑ major bleeding. Net harm with prior stroke/TIA; no net benefit ≥75 y or <60 kg.
 
-- **PLATO:** ticagrelor vs clopidogrel in ACS. ↓ CV death/MI/stroke, **↓ CV and all-cause death **, ↓ ST; ↑ non-CABG major bleeding.
+- **PLATO:** ticagrelor vs clopidogrel in ACS. ↓ CV death/MI/stroke, **↓ CV and all-cause death**, ↓ ST; ↑ non-CABG major bleeding.
 
 - **ISAR-REACT 5:** prasugrel > ticagrelor in ACS with an invasive strategy (↓ death/MI/stroke, similar bleeding). **ACCOAST:** prasugrel pretreatment in NSTEMI gave no ischemic benefit and ↑ bleeding.
 
 - **CURRENT-OASIS 7:** double-dose clopidogrel ↓ ST in the PCI subgroup; ↑ bleeding.
 
-   - **TAILOR-PCI** (genotype-guided): primary endpoint NS. **POPular Genetics:** genotype-guided de-escalation noninferior with ↓ bleeding.
+ - **TAILOR-PCI** (genotype-guided): primary endpoint NS. **POPular Genetics:** genotype-guided de-escalation noninferior with ↓ bleeding.
 
-   - **Routine platelet-function testing is not recommended** (GRAVITAS, ARCTIC, TRIGGER-PCI).
+ - **Routine platelet-function testing is not recommended** (GRAVITAS, ARCTIC, TRIGGER-PCI).
 
 - **Switching P2Y12 inhibitors (acute/early phase)**
 
-   - **Clopidogrel → ticagrelor:** 180 mg regardless of the last dose.
+ - **Clopidogrel → ticagrelor:** 180 mg regardless of the last dose.
 
-   - **Clopidogrel → prasugrel:** 60 mg regardless.
+ - **Clopidogrel → prasugrel:** 60 mg regardless.
 
-   - **Ticagrelor → clopidogrel:** 600 mg 24 h after the last ticagrelor dose.
+ - **Ticagrelor → clopidogrel:** 600 mg 24 h after the last ticagrelor dose.
 
-   - **Ticagrelor → prasugrel:** 60 mg 24 h after the last dose. **Prasugrel → clopidogrel:** 600 mg 24 h later. In the late phase, use maintenance doses.
+ - **Ticagrelor → prasugrel:** 60 mg 24 h after the last dose. **Prasugrel → clopidogrel:** 600 mg 24 h later. In the late phase, use maintenance doses.
 
 **DAPT duration: evidence and current recommendations**
 
@@ -262,7 +262,7 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 |TICO|ACS: 3 mo DAPT → ticagrelor alone|↓ net events, driven by ↓ bleeding|
 |ULTIMATE-DAPT / T-PASS|ACS: ticagrelor monotherapy after<br>1 mo (or <1 mo)|↓ bleeding; no ↑ ischemic events|
 |STOPDAPT-2|1 mo DAPT → clopidogrel (mostly<br>CCD)|Superior net outcome (↓ bleeding)|
-|STOPDAPT-2 ACS|Same strategy in ACS|**Not noninferior **(↑ MI): avoid early clopidogrel monotherapy<br>in ACS|
+|STOPDAPT-2 ACS|Same strategy in ACS|**Not noninferior** (↑ MI): avoid early clopidogrel monotherapy<br>in ACS|
 |MASTER DAPT|HBR: 1 mo vs ≥3 mo DAPT|Noninferior for ischemia; ↓ bleeding|
 |HOST-EXAM; SMART-<br>CHOICE 3|Chronic clopidogrel vs aspirin<br>monotherapy after PCI|Clopidogrel ↓ thrombotic events (and bleeding in HOST-<br>EXAM)|
 |LEADERS FREE, ZEUS,<br>SENIOR, ONYX ONE|HBR: DES + 1 mo DAPT vs BMS|DES superior; no role for BMS|
@@ -277,7 +277,7 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 
 - De-escalation from prasugrel/ticagrelor to clopidogrel after 1 mo: 2b.
 
-- Upstream P2Y12 inhibitor only if angiography is delayed >24 h (2b). No routine pretreatment before early cath. GP IIb/IIIa: **routine use Class 3 **; bailout (thrombus, no/slow reflow) 2a. Cangrelor: 2b.
+- Upstream P2Y12 inhibitor only if angiography is delayed >24 h (2b). No routine pretreatment before early cath. GP IIb/IIIa: **routine use Class 3**; bailout (thrombus, no/slow reflow) 2a. Cangrelor: 2b.
 
 ### Chronic coronary disease (2023 CCD guideline)
 
@@ -293,21 +293,21 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 
 ### Antithrombotics with OAC (AF + PCI)
 
-   - **Trials:** WOEST, PIONEER AF-PCI, RE-DUAL, AUGUSTUS, ENTRUST-AF PCI. DOAC + P2Y12 inhibitor bleeds less than VKA triple therapy.
+ - **Trials:** WOEST, PIONEER AF-PCI, RE-DUAL, AUGUSTUS, ENTRUST-AF PCI. DOAC + P2Y12 inhibitor bleeds less than VKA triple therapy.
 
-   - **Recommendations:**
+ - **Recommendations:**
 
-      - DOAC over VKA
+ - DOAC over VKA
 
-      - **Clopidogrel** is the P2Y12 inhibitor of choice Aspirin ≤100 mg, **stopped 1–4 wk after PCI** (Class 1, 2025 ACS)
+ - **Clopidogrel** is the P2Y12 inhibitor of choice Aspirin ≤100 mg, **stopped 1–4 wk after PCI** (Class 1, 2025 ACS)
 
-      - Continue OAC + clopidogrel to 12 mo (6 mo in CCD/HBR)
+ - Continue OAC + clopidogrel to 12 mo (6 mo in CCD/HBR)
 
-      - Then **OAC monotherapy** (AFIRE: rivaroxaban; EPICCAD: edoxaban)
+ - Then **OAC monotherapy** (AFIRE: rivaroxaban; EPICCAD: edoxaban)
 
-   - Extend aspirin toward 30 d only for very high thrombotic, low bleeding risk.
+ - Extend aspirin toward 30 d only for very high thrombotic, low bleeding risk.
 
-   - Add a PPI with DAPT/OAC combinations in GI-bleed-risk patients.
+ - Add a PPI with DAPT/OAC combinations in GI-bleed-risk patients.
 
 - Bleeding scores: PRECISE-DAPT ≥25 or ARC-HBR (1 major or 2 minor) = HBR.
 
@@ -321,11 +321,11 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 
 - **Enoxaparin in PCI:**
 
-   - Last SC dose <8 h: nothing more
+ - Last SC dose <8 h: nothing more
 
-   - 8–12 h: 0.3 mg/kg IV
+ - 8–12 h: 0.3 mg/kg IV
 
-   - >12 h or none: 0.5–0.75 mg/kg IV
+ - >12 h or none: 0.5–0.75 mg/kg IV
 
 - **Avoid switching UFH ↔ LMWH** (↑ bleeding; SYNERGY). Anti-Xa goal 0.5–1.0 IU/mL; check it in CKD or at extremes of weight.
 
@@ -361,11 +361,11 @@ Risk is higher with UFH than LMWH, surgical than medical, and female than male. 
 
 - **AF dose reductions:**
 
-   - Apixaban 2.5 mg BID if ≥2 of: age ≥80, weight ≤60 kg, Cr ≥1.5
+ - Apixaban 2.5 mg BID if ≥2 of: age ≥80, weight ≤60 kg, Cr ≥1.5
 
-   - Rivaroxaban 15 mg if CrCl ≤50
+ - Rivaroxaban 15 mg if CrCl ≤50
 
-   - Edoxaban 30 mg if CrCl 15–50 (avoid if CrCl >95) Dabigatran 75 mg BID if CrCl 15–30 (US)
+ - Edoxaban 30 mg if CrCl 15–50 (avoid if CrCl >95) Dabigatran 75 mg BID if CrCl 15–30 (US)
 
 - **VKA still required:** mechanical valves; rheumatic moderate–severe MS with AF (INVICTUS: rivaroxaban inferior); high-risk (triple-positive) APS.
 
@@ -375,19 +375,19 @@ Risk is higher with UFH than LMWH, surgical than medical, and female than male. 
 
 - **Before cath:**
 
-   - Warfarin: **INR ≤2.2 radial, ≤1.8 femoral** (SCAI 2021). No vitamin K.
+ - Warfarin: **INR ≤2.2 radial, ≤1.8 femoral** (SCAI 2021). No vitamin K.
 
-   - Apixaban/rivaroxaban: hold 24–48 h
+ - Apixaban/rivaroxaban: hold 24–48 h
 
-   - Dabigatran: 48 h, longer (72–96 h) if CrCl <50
+ - Dabigatran: 48 h, longer (72–96 h) if CrCl <50
 
-   - Emergency: go radial
+ - Emergency: go radial
 
 - **Bridging:** DOACs need none. VKA bridging only for very high thrombotic risk (mechanical mitral valve, stroke or embolism within 3 mo). BRIDGE trial: no bridging for AF. **Resume OAC** once hemostasis is secure (~4–6 h after radial; next day after femoral). **Before CABG:**
 
-   - Clopidogrel 5 d; prasugrel 7 d; ticagrelor 3–5 d Eptifibatide/tirofiban 2–4 h; cangrelor ~1 h
+ - Clopidogrel 5 d; prasugrel 7 d; ticagrelor 3–5 d Eptifibatide/tirofiban 2–4 h; cangrelor ~1 h
 
-   - Urgent CABG: hold clopidogrel/ticagrelor ≥24 h if possible
+ - Urgent CABG: hold clopidogrel/ticagrelor ≥24 h if possible
 
 ## 4. Bleeding, Vascular Access and Access Complications
 
@@ -421,7 +421,7 @@ Access-site bleeding has declined with radial access; nonaccess bleeding (mostly
 
 **RIVAL (2011):** no difference in the primary endpoint; benefit in the STEMI subgroup and high-volume centers. **RIFLE-STEACS:** ↓ mortality in STEMI. **MATRIX (2015):** radial ↓ BARC 3/5 bleeding, NACE and all-cause death in ACS. **SAFARI-STEMI (2020):** stopped for futility; neutral mortality.
 
-**Radial is the default **, Class 1 in ACS (↓ bleeding, vascular complications, mortality).
+**Radial is the default**, Class 1 in ACS (↓ bleeding, vascular complications, mortality).
 
 **SIHD:** radial ↓ access bleeding but no mortality benefit. **Radial downsides:** learning curve; slightly more radiation/contrast early; longer door-to-balloon (minutes); crossover ~5–10%.
 
@@ -431,7 +431,7 @@ Access-site bleeding has declined with radial access; nonaccess bleeding (mostly
 
 - **Radial artery occlusion (RAO) and radial troubleshooting**
 
-   - **RAO** occurs in ~1–5% (up to 10%). Risk: female, small artery, large sheath, spasm, low heparin, occlusive hemostasis.
+ - **RAO** occurs in ~1–5% (up to 10%). Risk: female, small artery, large sheath, spasm, low heparin, occlusive hemostasis.
 
 **Prevention:** heparin ≥50 U/kg or 5,000 U (give even if INR is therapeutic); **patent hemostasis** (PROPHET); prophylactic ulnar compression (PROPHET-II); smaller/hydrophilic sheaths.
 
@@ -441,7 +441,7 @@ Access-site bleeding has declined with radial access; nonaccess bleeding (mostly
 
 - **Forearm perforation:** keep going. Cross with a 0.014" wire, balloon-assisted tracking, and seal with a long sheath or catheter; compressive wrap afterward.
 
-- **Catheter kink/knot** (no torque transmission, damped trace): **do not pull **. Fix the catheter proximally (BP cuff, manual pressure) and untwist; straighten with a wire; snare from femoral access.
+- **Catheter kink/knot** (no torque transmission, damped trace): **do not pull**. Fix the catheter proximally (BP cuff, manual pressure) and untwist; straighten with a wire; snare from femoral access.
 
 **Severe spasm/entrapment:** sedation, IA verapamil/NTG, SC nitroglycerin, warm compress; **inflate a brachial BP cuff 5 min then release** (reactive hyperemia); deep sedation or anesthesia if needed.
 
@@ -483,19 +483,19 @@ Pulsatile tender mass with bruit.
 
 ### AV fistula
 
-   - Continuous bruit/thrill; low stick; left-sided; simultaneous artery and vein access.
+ - Continuous bruit/thrill; low stick; left-sided; simultaneous artery and vein access.
 
-   - ~⅓ close by 1 yr; observe small ones.
+ - ~⅓ close by 1 yr; observe small ones.
 
-   - Large (high-output HF, steal, limb edema): covered stent or surgery.
+ - Large (high-output HF, steal, limb edema): covered stent or surgery.
 
 - **Dissection:** retrograde flaps usually seal with antegrade flow. Flow-limiting → PTA/stent.
 
 ### Vascular closure devices
 
-   - Shorten time to ambulation; **do not ↓ bleeding or vascular complications** in RCTs. Device failure raises complications ~3×.
+ - Shorten time to ambulation; **do not ↓ bleeding or vascular complications** in RCTs. Device failure raises complications ~3×.
 
-   - Avoid with: puncture above IEA or at/below bifurcation, CFA <5 mm, heavy calcification/PAD, infection risk, collagen or bovine allergy (Angio-Seal). Infection is usually a **mycotic pseudoaneurysm **.
+ - Avoid with: puncture above IEA or at/below bifurcation, CFA <5 mm, heavy calcification/PAD, infection risk, collagen or bovine allergy (Angio-Seal). Infection is usually a **mycotic pseudoaneurysm**.
 
 - **Brachial access:** higher complication rate (thrombosis, median nerve compression from hematoma). Avoid closure devices.
 
@@ -505,13 +505,13 @@ Pulsatile tender mass with bruit.
 
 **Sequence:**
 
-   - Endothelial dysfunction (↓ NO; earliest step, independently prognostic)
+ - Endothelial dysfunction (↓ NO; earliest step, independently prognostic)
 
-   - LDL entry and oxidation
+ - LDL entry and oxidation
 
-   - Monocyte adhesion → macrophage → foam cell (fatty streak)
+ - Monocyte adhesion → macrophage → foam cell (fatty streak)
 
-   - VSMC migration and collagen synthesis (fibrous cap) Necrotic core and vasa vasorum neovascularization (intraplaque hemorrhage)
+ - VSMC migration and collagen synthesis (fibrous cap) Necrotic core and vasa vasorum neovascularization (intraplaque hemorrhage)
 
 - **Vulnerable plaque (TCFA):** cap <65 µm, large lipid core, macrophages/T cells, few VSMCs, MMP activity, positive remodeling, spotty calcium. **Rupture occurs at the cap shoulder.**
 
@@ -535,23 +535,23 @@ Most ACS arises from non-obstructive (<50%) plaques because they vastly outnumbe
 
 **CIRT:** low-dose methotrexate neutral (IL-6/CRP not lowered).
 
-   - **COLCOT** (post-MI) and **LoDoCo2** (CCD): colchicine ↓ MACE; more GI effects and a non-CV death signal. **CLEAR SYNERGY (2024):** colchicine after MI had no MACE benefit.
+ - **COLCOT** (post-MI) and **LoDoCo2** (CCD): colchicine ↓ MACE; more GI effects and a non-CV death signal. **CLEAR SYNERGY (2024):** colchicine after MI had no MACE benefit.
 
-   - Colchicine 0.5 mg is FDA-approved; guidelines give it 2b.
+ - Colchicine 0.5 mg is FDA-approved; guidelines give it 2b.
 
 - **Universal definition of MI (4th)**
 
-   - **Type 1:** atherothrombotic.
+ - **Type 1:** atherothrombotic.
 
-   - **Type 2:** supply/demand mismatch. Worse prognosis, driven by non-cardiac death.
+ - **Type 2:** supply/demand mismatch. Worse prognosis, driven by non-cardiac death.
 
 - **Type 3:** cardiac death before biomarkers.
 
 - **Type 4a** (PCI-related, ≤48 h):
 
-   - Normal baseline: cTn >5× the 99th percentile URL. Elevated but stable/falling baseline: >20% rise to >5× URL.
+ - Normal baseline: cTn >5× the 99th percentile URL. Elevated but stable/falling baseline: >20% rise to >5× URL.
 
-   - Plus new ischemic ECG changes, angiographic complication, or new imaging loss of viable myocardium.
+ - Plus new ischemic ECG changes, angiographic complication, or new imaging loss of viable myocardium.
 
 - **Type 4b:** stent thrombosis. **Type 4c:** restenosis. **Type 5** (CABG): >10× URL plus new Q waves, graft occlusion, or imaging evidence.
 
@@ -563,15 +563,15 @@ Pretreatment with antiplatelet therapy and a highintensity statin load ↓ perip
 
 **SCAD:** ~90% women; peripartum, FMD, extreme exertion/emotion. Look for an abrupt caliber change or long smooth narrowing (type 2).
 
-   - **Conservative management preferred** (most heal). PCI only for ongoing ischemia, instability or LM/proximal involvement (high failure rate).
+ - **Conservative management preferred** (most heal). PCI only for ongoing ischemia, instability or LM/proximal involvement (high failure rate).
 
-   - Prefer IVUS over OCT (contrast flush can propagate). Screen for FMD. Beta-blockers ↓ recurrence.
+ - Prefer IVUS over OCT (contrast flush can propagate). Screen for FMD. Beta-blockers ↓ recurrence.
 
 - **Vasospasm:** VSMC hyperreactivity ± endothelial dysfunction; East Asian ancestry, smoking, 5-FU, cocaine. Treat with CCB ± nitrates; avoid non-selective BB. **INOCA/MVD thresholds:** CFR <2.0–2.5, IMR ≥25, abnormal ACh test.
 
-   - Epicardial spasm: ≥90% constriction with symptoms and ECG changes.
+ - Epicardial spasm: ≥90% constriction with symptoms and ECG changes.
 
-   - Microvascular spasm: symptoms and ECG changes without epicardial spasm.
+ - Microvascular spasm: symptoms and ECG changes without epicardial spasm.
 
 - **CorMicA:** stratified therapy guided by invasive testing improved angina.
 
@@ -587,23 +587,23 @@ Seen in 0.6–1.5% of angiograms; ~80% benign. **Second leading cause of SCD in 
 
 - **Anomalous LM courses from the right sinus:**
 
-   - **Interarterial:** normal-length LAD; “anterior dot” in RAO; dangerous.
+ - **Interarterial:** normal-length LAD; “anterior dot” in RAO; dangerous.
 
-   - **Retroaortic:** “posterior dot”; benign.
+ - **Retroaortic:** “posterior dot”; benign.
 
-   - **Septal (intramyocardial):** gives septal branches; short LAD.
+ - **Septal (intramyocardial):** gives septal branches; short LAD.
 
-   - **Prepulmonic:** short LAD.
+ - **Prepulmonic:** short LAD.
 
 - **Work-up:** CCTA (or CMR in young patients to avoid radiation), ischemia testing, IVUS.
 
 - **Treatment:**
 
-   - **Surgery (unroofing preferred)** for anomalous left or right coronary with ischemia or symptoms (Class 1). Reasonable for asymptomatic anomalous LEFT with interarterial/intramural course, especially young or athletic patients.
+ - **Surgery (unroofing preferred)** for anomalous left or right coronary with ischemia or symptoms (Class 1). Reasonable for asymptomatic anomalous LEFT with interarterial/intramural course, especially young or athletic patients.
 
-   - Anomalous RCA without symptoms or ischemia: observation, shared decision-making.
+ - Anomalous RCA without symptoms or ischemia: observation, shared decision-making.
 
-   - Bypass grafts fail from competitive flow; reimplantation risks ostial stenosis. PCI reserved for poor surgical candidates.
+ - Bypass grafts fail from competitive flow; reimplantation risks ostial stenosis. PCI reserved for poor surgical candidates.
 
 - **Engagement:** RCA from left sinus → AL1/AL2, JL; LCx from right sinus → JR4, AR, MP; LM from right sinus → JL/AL. **Coronary fistula:** congenital or acquired (PCI, CABG, biopsy, ablation, myectomy). Origin RCA ≈ LAD > LCx; >90% drain to the right heart/PA.
 
@@ -621,12 +621,12 @@ Seen in 0.6–1.5% of angiograms; ~80% benign. **Second leading cause of SCD in 
 
 ||**IVUS**|**OCT**|
 |---|---|---|
-|Energy|Ultrasound, 20–60 MHz (higher frequency =<br>better resolution, less depth)|Near-infrared light; **blood must be cleared **(contrast flush)|
+|Energy|Ultrasound, 20–60 MHz (higher frequency =<br>better resolution, less depth)|Near-infrared light; **blood must be cleared** (contrast flush)|
 |Axial<br>resolution|~100–200 µm (HD ~40 µm)|**10–20 µm**|
-|Penetration|**4–8 mm **; sees EEM through plaque|1–2 mm; lipid attenuates signal (EEM often hidden)|
-|Best for|Ostial/LM, large vessels, CTO/subintimal<br>tracking, **CKD (little contrast) **, SCAD, plaque<br>burden, sizing|Cap thickness/TCFA, **calcium thickness and arc **, thrombus (red =<br>attenuating, white = low attenuation), erosion, edge dissection,<br>malapposition, tissue protrusion, ISR mechanism|
+|Penetration|**4–8 mm**; sees EEM through plaque|1–2 mm; lipid attenuates signal (EEM often hidden)|
+|Best for|Ostial/LM, large vessels, CTO/subintimal<br>tracking, **CKD (little contrast)**, SCAD, plaque<br>burden, sizing|Cap thickness/TCFA, **calcium thickness and arc**, thrombus (red =<br>attenuating, white = low attenuation), erosion, edge dissection,<br>malapposition, tissue protrusion, ISR mechanism|
 |Limits|Calcium shadowing, blood speckle|Cannot image ostial LM; contrast load|
-|Artifacts|NURD (mechanical rotational), **ring-down **<br>(solid-state/phased array), obliquity<br>(overestimates size), guidewire shadow|Incomplete blood clearance, sew-up (motion), sunflower/merry-<br>go-round (eccentric catheter), saturation, fold-over, air bubbles|
+|Artifacts|NURD (mechanical rotational), **ring-down**<br>(solid-state/phased array), obliquity<br>(overestimates size), guidewire shadow|Incomplete blood clearance, sew-up (motion), sunflower/merry-<br>go-round (eccentric catheter), saturation, fold-over, air bubbles|
 
 ### Outcome evidence
 
@@ -662,11 +662,11 @@ Seen in 0.6–1.5% of angiograms; ~80% benign. **Second leading cause of SCD in 
 
 **LM:** IVUS MLA ≥6 mm² → safe to defer (LITRO; ~FFR 0.80 in Western patients; ~4.5–4.8 mm² in Asian series). MLA <6 → revascularize or confirm with physiology.
 
-   - **Non-LM:** MLA ≥4 mm² identifies non-ischemic lesions, but **a small MLA does not prove ischemia **. Use physiology.
+ - **Non-LM:** MLA ≥4 mm² identifies non-ischemic lesions, but **a small MLA does not prove ischemia**. Use physiology.
 
-   - **FLAVOUR (2022):** FFR-guided PCI noninferior to IVUSguided for intermediate (40–70%) lesions, with fewer PCIs.
+ - **FLAVOUR (2022):** FFR-guided PCI noninferior to IVUSguided for intermediate (40–70%) lesions, with fewer PCIs.
 
-   - Vulnerable-plaque features (PROSPECT): plaque burden >70%, MLA <4 mm², TCFA. **PREVENT (2024):** preventive PCI of vulnerable non-flow-limiting plaque ↓ targetvessel events; not yet guideline practice.
+ - Vulnerable-plaque features (PROSPECT): plaque burden >70%, MLA <4 mm², TCFA. **PREVENT (2024):** preventive PCI of vulnerable non-flow-limiting plaque ↓ targetvessel events; not yet guideline practice.
 
 ### Coronary physiology
 
@@ -680,9 +680,9 @@ Seen in 0.6–1.5% of angiograms; ~80% benign. **Second leading cause of SCD in 
 
 - Lower FFR (<0.60) = higher event risk and larger benefit.
 
-**Non-hyperemic pressure ratios** (iFR, RFR, dPR): **≤0.89 **. No adenosine; wave-free diastole. iFR pullback with coregistration predicts post-PCI result.
+**Non-hyperemic pressure ratios** (iFR, RFR, dPR): **≤0.89**. No adenosine; wave-free diastole. iFR pullback with coregistration predicts post-PCI result.
 
-**Angiography-derived FFR (QFR):** FAVOR III China beat angiography, but **FAVOR III Europe (2024): QFR inferior to FFR **.
+**Angiography-derived FFR (QFR):** FAVOR III China beat angiography, but **FAVOR III Europe (2024): QFR inferior to FFR**.
 
 **CFR** = hyperemic/resting flow (Doppler or thermodilution). Integrates epicardial and microvascular function. <2.0 abnormal (<2.5 for MVD); normal 3–5.
 
@@ -696,7 +696,7 @@ Seen in 0.6–1.5% of angiograms; ~80% benign. **Second leading cause of SCD in 
 
 **FAME 2:** FFR ≤0.80 → PCI + OMT ↓ urgent revascularization (not death/MI) vs OMT. Deferred FFRnegative lesions had low event rates.
 
-- **FAME 3** (3VD): 1 yr, FFR-PCI failed noninferiority to CABG (MACCE; repeat revascularization). **5 yr: death/stroke/MI 16% vs 14% (NS) **; MI and repeat revascularization higher with PCI.
+- **FAME 3** (3VD): 1 yr, FFR-PCI failed noninferiority to CABG (MACCE; repeat revascularization). **5 yr: death/stroke/MI 16% vs 14% (NS)**; MI and repeat revascularization higher with PCI.
 
 **DEFINE-FLAIR** and **iFR-SWEDEHEART** (2017): iFR noninferior at 1 yr with fewer revascularizations and less discomfort. **5-yr DEFINE-FLAIR:** MACE NS, but all-cause death 9.0% vs 6.2% (HR 1.56) with iFR; iFR-SWEDEHEART showed no difference.
 
@@ -712,7 +712,7 @@ Seen in 0.6–1.5% of angiograms; ~80% benign. **Second leading cause of SCD in 
 
 **FULL REVASC (2024):** FFR-guided complete revascularization did not ↓ death/MI/unplanned revascularization vs culprit-only.
 
-In acute STEMI, microvascular stunning can cause **falsenegative FFR **. Non-culprit assessment is reasonable; culprit FFR is not valid.
+In acute STEMI, microvascular stunning can cause **falsenegative FFR**. Non-culprit assessment is reasonable; culprit FFR is not valid.
 
 ### Pitfalls
 
@@ -734,15 +734,15 @@ Pre-TAVR severe AS (FFR may fall after TAVR; iFR less affected)
 
 **False-positive (FFR too low):**
 
-   - **Drift:** check pressure waveforms. A true distal gradient loses the dicrotic notch; drift keeps a similar shape. Pull the sensor back to the guide tip and re-equalize (target 1.00 ± 0.02).
+ - **Drift:** check pressure waveforms. A true distal gradient loses the dicrotic notch; drift keeps a similar shape. Pull the sensor back to the guide tip and re-equalize (target 1.00 ± 0.02).
 
-   - Wire-induced pseudostenosis (accordion)
+ - Wire-induced pseudostenosis (accordion)
 
-   - Spasm (always give IC NTG)
+ - Spasm (always give IC NTG)
 
-   - Contrast in the guide (flush with saline)
+ - Contrast in the guide (flush with saline)
 
-   - Sensor placed too distal in a diffusely diseased vessel
+ - Sensor placed too distal in a diffusely diseased vessel
 
 - **Serial lesions:** hyperemic pullback, treat the largest stepup first, then re-measure (lesions interact).
 
@@ -766,11 +766,11 @@ Pre-TAVR severe AS (FFR may fall after TAVR; iFR less affected)
 
 ### Known CAD
 
-   - Stress imaging for new or worsening symptoms (Class 1).
+ - Stress imaging for new or worsening symptoms (Class 1).
 
-   - CCTA reasonable for stents ≥3 mm, grafts, or nonobstructive CAD progression.
+ - CCTA reasonable for stents ≥3 mm, grafts, or nonobstructive CAD progression.
 
-   - **No routine periodic stress testing** when stable.
+ - **No routine periodic stress testing** when stable.
 
 - **High-risk non-invasive findings:** ≥10% ischemic myocardium (SPECT/PET), ≥3 segments on stress echo, CMR ≥12% or ≥3 segments, TID, exercise hypotension. **Go to invasive angiography:** CCTA showing ≥50% LM or ≥70% 3-vessel disease with symptoms (Class 1); or persistent limiting angina / high-risk ischemia on GDMT. Physiology if no prior testing.
 
@@ -794,7 +794,7 @@ SGLT2i and GLP-1 RA in DM or obesity; BP <130/80; icosapent ethyl if TG 135–49
 
 - **COURAGE (2007):** PCI + OMT did not ↓ death/MI in SIHD.
 
-- **ISCHEMIA (2020)** (moderate–severe ischemia; excluded LM ≥50%, LVEF <35%, recent ACS, unacceptable angina): no ↓ death/MI; **better angina/QoL **. ISCHEMIA-EXTEND: ↓ CV death, ↑ non-CV death, all-cause similar.
+- **ISCHEMIA (2020)** (moderate–severe ischemia; excluded LM ≥50%, LVEF <35%, recent ACS, unacceptable angina): no ↓ death/MI; **better angina/QoL**. ISCHEMIA-EXTEND: ↓ CV death, ↑ non-CV death, all-cause similar.
 
 - **REVIVED-BCIS2 (2022):** PCI in LVEF ≤35% with viability did not ↓ death/HF hospitalization.
 
@@ -804,7 +804,7 @@ SGLT2i and GLP-1 RA in DM or obesity; BP <130/80; icosapent ethyl if TG 135–49
 
 - **SYNTAX:** PCI failed noninferiority. CABG better for SYNTAX ≥33; LM subgroup similar (more revascularization with PCI, more stroke with CABG).
 
-- **EXCEL** (LM, SYNTAX ≤32): 3-yr noninferior. 5-yr primary NS (22.0% vs 19.2%), but **all-cause death higher with PCI (13.0% vs 9.9%) **, plus more ischemia-driven revascularization.
+- **EXCEL** (LM, SYNTAX ≤32): 3-yr noninferior. 5-yr primary NS (22.0% vs 19.2%), but **all-cause death higher with PCI (13.0% vs 9.9%)**, plus more ischemia-driven revascularization.
 
 - **NOBLE** (LM): 5-yr MACCE worse with PCI (28% vs 19%), driven by non-procedural MI and repeat revascularization; no mortality difference.
 
@@ -816,7 +816,7 @@ SGLT2i and GLP-1 RA in DM or obesity; BP <130/80; icosapent ethyl if TG 135–49
 
 **To improve survival:**
 
-   - Significant LM → CABG (Class 1); PCI reasonable for low–intermediate complexity LM (2a). Multivessel CAD with LVEF ≤35% → CABG (Class 1). DM + multivessel CAD including LAD → CABG with LIMA (Class 1); PCI if poor surgical candidate (2b). 3VD with normal EF → CABG 2b; PCI benefit uncertain. Complex multivessel disease (SYNTAX >33) → CABG over PCI (2a).
+ - Significant LM → CABG (Class 1); PCI reasonable for low–intermediate complexity LM (2a). Multivessel CAD with LVEF ≤35% → CABG (Class 1). DM + multivessel CAD including LAD → CABG with LIMA (Class 1); PCI if poor surgical candidate (2b). 3VD with normal EF → CABG 2b; PCI benefit uncertain. Complex multivessel disease (SYNTAX >33) → CABG over PCI (2a).
 
 - **For symptoms:** revascularize refractory angina despite GDMT (Class 1). Patients should be on adequate antianginal therapy first.
 
@@ -846,31 +846,31 @@ SGLT2i and GLP-1 RA in DM or obesity; BP <130/80; icosapent ethyl if TG 135–49
 
 ### Bifurcation PCI
 
-Plaque forms on the lateral wall (low shear) and spares the carina. **Carina shift **, more than plaque shift, pinches the side branch after main-vessel stenting; most pinches are not FFR-significant.
+Plaque forms on the lateral wall (low shear) and spares the carina. **Carina shift**, more than plaque shift, pinches the side branch after main-vessel stenting; most pinches are not FFR-significant.
 
 - **Medina (MB prox, MB distal, SB):** 1 = ≥50% stenosis. Descriptive, not prognostic.
 
 - **Provisional stenting is the default** (Class 1):
 
-   - Wire both branches (jailed SB wire).
+ - Wire both branches (jailed SB wire).
 
-   - Stent the MV sized to distal MV.
+ - Stent the MV sized to distal MV.
 
-   - **POT** with a short NC balloon sized to the proximal MV. Treat SB only for TIMI <3, severe dissection, or severe ostial compromise with ischemia (T/TAP or culotte).
+ - **POT** with a short NC balloon sized to the proximal MV. Treat SB only for TIMI <3, severe dissection, or severe ostial compromise with ischemia (T/TAP or culotte).
 
-- **Planned 2-stent** for **complex bifurcations (DEFINITION criteria) **:
+- **Planned 2-stent** for **complex bifurcations (DEFINITION criteria)**:
 
-   - **Major:** SB lesion length ≥10 mm AND SB DS ≥70% (distal LM) or ≥90% (non-LM).
+ - **Major:** SB lesion length ≥10 mm AND SB DS ≥70% (distal LM) or ≥90% (non-LM).
 
-   - **Minor:** moderate–severe calcification, multiple lesions, angle <45° or >70°, MV RVD <2.5 mm, thrombus, MV lesion ≥25 mm.
+ - **Minor:** moderate–severe calcification, multiple lesions, angle <45° or >70°, MV RVD <2.5 mm, thrombus, MV lesion ≥25 mm.
 
-   - **Complex = 1 major + ≥2 minor.**
+ - **Complex = 1 major + ≥2 minor.**
 
 - **Trials:**
 
-   - **DKCRUSH-V:** DK crush ↓ TLF vs provisional in true distal LM bifurcations.
+ - **DKCRUSH-V:** DK crush ↓ TLF vs provisional in true distal LM bifurcations.
 
-   - **DEFINITION II:** systematic 2-stent (mostly DK crush) ↓ TLF in complex bifurcations.
+ - **DEFINITION II:** systematic 2-stent (mostly DK crush) ↓ TLF in complex bifurcations.
 
 - **EBC MAIN (2021):** provisional ≈ planned 2-stent in distal LM at 1 and 3 yr; simpler and cheaper.
 
@@ -886,7 +886,7 @@ Plaque forms on the lateral wall (low shear) and spares the carina. **Carina shi
 
 Rewire; 2nd kissing (NC balloons); final POT.
 
-- In 2-stent techniques, **final kissing with NC balloons is mandatory **. Imaging is essentially mandatory in LM.
+- In 2-stent techniques, **final kissing with NC balloons is mandatory**. Imaging is essentially mandatory in LM.
 
 ## 8. Acute Coronary Syndromes, Cardiogenic Shock and MCS
 
@@ -930,51 +930,51 @@ ECG within 10 min; hs-troponin 0/1–2 h pathways. Troponin level correlates wit
 
 - 12–24 h with ongoing ischemia, large territory or instability: lysis 2a if no PCI available.
 
-- **Lysis for ST depression: harm (Class 3) **, except posterior MI.
+- **Lysis for ST depression: harm (Class 3)**, except posterior MI.
 
 **Absolute contraindications to lysis:**
 
-   - Any prior ICH
+ - Any prior ICH
 
-   - Structural cerebrovascular lesion (AVM, aneurysm) or malignant intracranial neoplasm
+ - Structural cerebrovascular lesion (AVM, aneurysm) or malignant intracranial neoplasm
 
-   - Ischemic stroke within 3 mo (except acute stroke within 4.5 h)
+ - Ischemic stroke within 3 mo (except acute stroke within 4.5 h)
 
-   - Suspected aortic dissection
+ - Suspected aortic dissection
 
-   - Active bleeding or bleeding diathesis (not menses) Significant closed-head/facial trauma within 3 mo
+ - Active bleeding or bleeding diathesis (not menses) Significant closed-head/facial trauma within 3 mo
 
-   - Intracranial/intraspinal surgery within 2 mo
+ - Intracranial/intraspinal surgery within 2 mo
 
-   - Severe uncontrolled HTN unresponsive to therapy
+ - Severe uncontrolled HTN unresponsive to therapy
 
 - **Lytic facts:** ICH ~1%. ~50–60% achieve TIMI 3 flow by 90 min. Reocclusion/reinfarction 5–10%.
 
 - **Adjuncts with lysis:**
 
-   - Aspirin 162–325 mg.
+ - Aspirin 162–325 mg.
 
-   - **Clopidogrel 300 mg (≤75 y) or 75 mg (>75 y) **, continued ≥14 d up to 12 mo. **TREAT:** switching to ticagrelor after lysis (<75 y) is noninferior for bleeding. Anticoagulation ≥48 h, ideally for the hospitalization (≤8 d) or until revascularization.
+ - **Clopidogrel 300 mg (≤75 y) or 75 mg (>75 y)**, continued ≥14 d up to 12 mo. **TREAT:** switching to ticagrelor after lysis (<75 y) is noninferior for bleeding. Anticoagulation ≥48 h, ideally for the hospitalization (≤8 d) or until revascularization.
 
-   - **Enoxaparin preferred** (ExTRACT-TIMI 25: ↓ death/MI vs UFH). <75 y: 30 mg IV + 1 mg/kg SC q12h. ≥75 y: no bolus, 0.75 mg/kg q12h. CrCl <30: daily.
+ - **Enoxaparin preferred** (ExTRACT-TIMI 25: ↓ death/MI vs UFH). <75 y: 30 mg IV + 1 mg/kg SC q12h. ≥75 y: no bolus, 0.75 mg/kg q12h. CrCl <30: daily.
 
-   - UFH: aPTT 1.5–2× control for 48 h. Fondaparinux acceptable, but not alone for PCI.
+ - UFH: aPTT 1.5–2× control for 48 h. Fondaparinux acceptable, but not alone for PCI.
 
-   - STREAM: half-dose TNK in ≥75 y (ICH).
+ - STREAM: half-dose TNK in ≥75 y (ICH).
 
 - **After lysis:**
 
-   - **Failed reperfusion** (<50% ST resolution at 60–90 min, ongoing pain, instability) → **immediate rescue PCI** (Class 1).
+ - **Failed reperfusion** (<50% ST resolution at 60–90 min, ongoing pain, instability) → **immediate rescue PCI** (Class 1).
 
-   - Successful → **angiography within 2–24 h** (Class 1, pharmacoinvasive).
+ - Successful → **angiography within 2–24 h** (Class 1, pharmacoinvasive).
 
-   - STREAM: prehospital TNK within 3 h + planned cath ≈ primary PCI outcomes (~1/3 needed urgent cath). **Facilitated PCI** (immediate PCI right after full-dose lytic) is harmful.
+ - STREAM: prehospital TNK within 3 h + planned cath ≈ primary PCI outcomes (~1/3 needed urgent cath). **Facilitated PCI** (immediate PCI right after full-dose lytic) is harmful.
 
 **Primary PCI details:**
 
-   - **Routine aspiration thrombectomy: Class 3** (TASTE, TOTAL: ↑ stroke). Bailout only.
+ - **Routine aspiration thrombectomy: Class 3** (TASTE, TOTAL: ↑ stroke). Bailout only.
 
-   - Deferred stenting has no benefit (DANAMI-3-DEFER). UFH, or bivalirudin (BRIGHT-4 regimen). GPI bailout only.
+ - Deferred stenting has no benefit (DANAMI-3-DEFER). UFH, or bivalirudin (BRIGHT-4 regimen). GPI bailout only.
 
 - **OAT:** stable patients >24 h (days 3–28) with an occluded IRA and no ischemia: no benefit to PCI (Class 3).
 
@@ -990,7 +990,7 @@ ECG within 10 min; hs-troponin 0/1–2 h pathways. Troponin level correlates wit
 
 **BIOVASC:** immediate ≈ staged in ACS.
 
-   - 2025 guideline has a slight preference for singleprocedure; staging within 45 d is acceptable.
+ - 2025 guideline has a slight preference for singleprocedure; staging within 45 d is acceptable.
 
 - **FIRE (2023):** physiology-guided complete revascularization in ≥75 y ↓ events.
 
@@ -1006,35 +1006,35 @@ ECG within 10 min; hs-troponin 0/1–2 h pathways. Troponin level correlates wit
 
 - **Hemodynamics:**
 
-   - SBP <90 ≥30 min or pressors needed; CI <1.8 unsupported (<2.2 supported); PCWP >15; RAP >10.
+ - SBP <90 ≥30 min or pressors needed; CI <1.8 unsupported (<2.2 supported); PCWP >15; RAP >10.
 
-   - **CPO** = MAP × CO / 451; **<0.6 W** is the strongest hemodynamic mortality predictor (SHOCK).
+ - **CPO** = MAP × CO / 451; **<0.6 W** is the strongest hemodynamic mortality predictor (SHOCK).
 
-   - **PAPi** = (PASP − PADP)/RAP; <0.9–1.0 = RV failure.
+ - **PAPi** = (PASP − PADP)/RAP; <0.9–1.0 = RV failure.
 
-   - RAP/PCWP >0.8 = RV-predominant.
+ - RAP/PCWP >0.8 = RV-predominant.
 
 - **SCAI SHOCK stages:**
 
-   - **A** at risk
+ - **A** at risk
 
-   - **B** beginning: hypotension/tachycardia without hypoperfusion
+ - **B** beginning: hypotension/tachycardia without hypoperfusion
 
-   - **C** classic: hypoperfusion needing a pressor, inotrope or MCS; lactate ≥2
+ - **C** classic: hypoperfusion needing a pressor, inotrope or MCS; lactate ≥2
 
-   - **D** deteriorating despite initial therapy
+ - **D** deteriorating despite initial therapy
 
-   - **E** extremis: CPR/ECMO, lactate ≥5, pH ≤7.2
+ - **E** extremis: CPR/ECMO, lactate ≥5, pH ≤7.2
 
 **2025 guideline:**
 
-   - Emergency culprit revascularization regardless of age (Class 1).
+ - Emergency culprit revascularization regardless of age (Class 1).
 
-   - Microaxial flow pump in selected STEMI-CS (2a).
+ - Microaxial flow pump in selected STEMI-CS (2a).
 
-   - **Routine IABP or VA-ECMO: Class 3 (no benefit).** Transfer to a shock center; MCS as bridge for mechanical complications (2a).
+ - **Routine IABP or VA-ECMO: Class 3 (no benefit).** Transfer to a shock center; MCS as bridge for mechanical complications (2a).
 
-- **Pressors: norepinephrine first **. Inotropes: dobutamine or milrinone (DOREMI: similar). Dopamine ↑ arrhythmias (SOAP II). Epinephrine ↑ refractory shock (OptimaCC). PA catheter for unclear or deteriorating cases.
+- **Pressors: norepinephrine first**. Inotropes: dobutamine or milrinone (DOREMI: similar). Dopamine ↑ arrhythmias (SOAP II). Epinephrine ↑ refractory shock (OptimaCC). PA catheter for unclear or deteriorating cases.
 
 - Red flags: lactate ≥4, Cr ≥2, CPO <0.6, age ≥70, OHCA.
 
@@ -1042,11 +1042,11 @@ ECG within 10 min; hs-troponin 0/1–2 h pathways. Troponin level correlates wit
 
 - **Trials:**
 
-   - **SHOCK (1999):** emergency revascularization — 30-d NS, **↓ 6-mo and long-term mortality **.
+ - **SHOCK (1999):** emergency revascularization — 30-d NS, **↓ 6-mo and long-term mortality**.
 
-   - **IABP-SHOCK II:** no benefit at 30 d, 1 yr or 6 yr.
+ - **IABP-SHOCK II:** no benefit at 30 d, 1 yr or 6 yr.
 
-   - **ECLS-SHOCK (2023): VA-ECMO did not ↓ 30-d mortality **; ↑ bleeding and vascular complications. **DanGer Shock (2024):** Impella CP in STEMI-CS (excluded comatose OHCA and RV failure) **↓ 180-d death (45.8% vs 58.5%) **; ↑ bleeding, limb ischemia, RRT.
+ - **ECLS-SHOCK (2023): VA-ECMO did not ↓ 30-d mortality**; ↑ bleeding and vascular complications. **DanGer Shock (2024):** Impella CP in STEMI-CS (excluded comatose OHCA and RV failure) **↓ 180-d death (45.8% vs 58.5%)**; ↑ bleeding, limb ischemia, RRT.
 
 ### Cardiac arrest
 
@@ -1060,12 +1060,12 @@ ECG within 10 min; hs-troponin 0/1–2 h pathways. Troponin level correlates wit
 
 |**Device**|**Configuration / flow**|**Key physiology / contraindications**|
 |---|---|---|
-|IABP|Descending aorta; +0.5–1<br>L/min|Diastolic augmentation (↑ coronary perfusion), ↓ afterload and MVO₂; needs<br>native function/rhythm. **Contraindicated: **≥ moderate AR, aortic<br>dissection/aneurysm, severe PAD. Useful bridge in VSR or acute MR.|
-|Impella 2.5 /<br>CP / 5.5|LV → ascending aorta; ~2.5 /<br>3.5–4 / 5.5 L/min|Unloads LV (↓ LVEDP, wall stress). Hemolysis, bleeding, limb ischemia.<br>** Contraindicated: **LV thrombus, mechanical AVR, severe AS/AR (relative), severe<br>PAD, VSD (right-to-left shunt). Migration into the LV shows a ventricular<br>placement signal.|
+|IABP|Descending aorta; +0.5–1<br>L/min|Diastolic augmentation (↑ coronary perfusion), ↓ afterload and MVO₂; needs<br>native function/rhythm. **Contraindicated:**≥ moderate AR, aortic<br>dissection/aneurysm, severe PAD. Useful bridge in VSR or acute MR.|
+|Impella 2.5 /<br>CP / 5.5|LV → ascending aorta; ~2.5 /<br>3.5–4 / 5.5 L/min|Unloads LV (↓ LVEDP, wall stress). Hemolysis, bleeding, limb ischemia.<br>**Contraindicated:** LV thrombus, mechanical AVR, severe AS/AR (relative), severe<br>PAD, VSD (right-to-left shunt). Migration into the LV shows a ventricular<br>placement signal.|
 |Impella RP / RP<br>Flex|IVC (femoral) or IJ → PA; ~4<br>L/min|RV failure; avoid with PA/IVC thrombus.|
 |TandemHeart|LA (transseptal) → femoral<br>artery; up to 4–5 L/min|Needs transseptal puncture. Cannula migration into RA → desaturated return<br>(hypoxemia). Contraindicated with LA thrombus or VSD.|
 |ProtekDuo|RA → PA via IJ dual-lumen (±<br>oxygenator)|Ambulatory RV support.|
-|VA-ECMO|Venous drainage → femoral<br>arterial return; biventricular +<br>respiratory support|Only full cardiopulmonary support. **↑ LV afterload **(LV distension, pulmonary<br>edema, AR/MR worse, LV thrombus): vent with Impella (ECPELLA) or IABP.<br>Differential (North–South) hypoxemia. Limb ischemia (distal perfusion cannula).|
+|VA-ECMO|Venous drainage → femoral<br>arterial return; biventricular +<br>respiratory support|Only full cardiopulmonary support. **↑ LV afterload** (LV distension, pulmonary<br>edema, AR/MR worse, LV thrombus): vent with Impella (ECPELLA) or IABP.<br>Differential (North–South) hypoxemia. Limb ischemia (distal perfusion cannula).|
 
 ### MCS for high-risk PCI
 
@@ -1089,7 +1089,7 @@ Routine MCS for high-risk PCI is not supported.
 
 - Anterior MI → apical VSR; inferior MI → basal VSR (worse, harder to repair).
 
-- Harsh holosystolic murmur; **O₂ step-up RA→RV **.
+- Harsh holosystolic murmur; **O₂ step-up RA→RV**.
 
 - Highest shock mortality (~87% in SHOCK registry). Afterload reduction and IABP/Impella bridge (Impella risks shunt reversal/embolization); surgery. Device closure for residual defects or as a bridge.
 
@@ -1113,7 +1113,7 @@ Routine MCS for high-risk PCI is not supported.
 
 ### RV infarct
 
-   - Hypotension, clear lungs, ↑ JVP; RAP/PCWP >0.8. Maintain preload (avoid nitrates/diuretics), AV synchrony, inotropes, RV MCS.
+ - Hypotension, clear lungs, ↑ JVP; RAP/PCWP >0.8. Maintain preload (avoid nitrates/diuretics), AV synchrony, inotropes, RV MCS.
 
 - **Bezold–Jarisch reflex:** bradycardia/hypotension with inferior reperfusion; atropine and fluids.
 
@@ -1131,15 +1131,15 @@ Routine MCS for high-risk PCI is not supported.
 
 - **Balloons**
 
-   - Semi-compliant: deliverable, but “dog-bone” edge dissection.
+ - Semi-compliant: deliverable, but “dog-bone” edge dissection.
 
-   - Non-compliant: focused force; used for predilation of fibrocalcific lesions and post-dilation.
+ - Non-compliant: focused force; used for predilation of fibrocalcific lesions and post-dilation.
 
-   - Cutting/scoring: ostial lesions, ISR, prevent slippage. Inflate slowly; do not exceed rated pressure (blade fracture/perforation).
+ - Cutting/scoring: ostial lesions, ISR, prevent slippage. Inflate slowly; do not exceed rated pressure (blade fracture/perforation).
 
-   - Super-high-pressure balloon (OPN).
+ - Super-high-pressure balloon (OPN).
 
-- **If pre-dilation fully expands the balloon **, you can stent without atherectomy.
+- **If pre-dilation fully expands the balloon**, you can stent without atherectomy.
 
 ### Rotational atherectomy
 
@@ -1149,61 +1149,61 @@ Routine MCS for high-risk PCI is not supported.
 
 - **RotaWire:** 0.009" shaft with 0.014" radiopaque tip. Floppy (less bias) vs Extra Support (more bias, straightens vessel). Burr must not reach the radiopaque tip (fracture).
 
-- **Burr sizing:** 1.25/1.5 mm (6F), 1.75 (7F), 2.0 (8F), up to 2.5 mm (9–10F). **Burr:artery ratio 0.5–0.6 **; >0.7 → perforation/complications (STRATAS, CARAT). Most cases use a 1.25–1.5 mm burr.
+- **Burr sizing:** 1.25/1.5 mm (6F), 1.75 (7F), 2.0 (8F), up to 2.5 mm (9–10F). **Burr:artery ratio 0.5–0.6**; >0.7 → perforation/complications (STRATAS, CARAT). Most cases use a 1.25–1.5 mm burr.
 
 - **Technique:**
 
-   - 135–180k rpm; favor lower (~140–160k).
+ - 135–180k rpm; favor lower (~140–160k).
 
-   - **Avoid decelerations >5,000 rpm.**
+ - **Avoid decelerations >5,000 rpm.**
 
-   - Pecking motion; runs ≤15–20 s.
+ - Pecking motion; runs ≤15–20 s.
 
-   - **Never stop the burr distal to the lesion.**
+ - **Never stop the burr distal to the lesion.**
 
-   - Rotaglide flush (egg/olive-oil allergy) ± verapamil/NTG in flush.
+ - Rotaglide flush (egg/olive-oil allergy) ± verapamil/NTG in flush.
 
 ### Complications
 
-   - Slow/no-reflow: small burr, low speed, short runs, vasodilators; treat downstream lesions that trap debris.
+ - Slow/no-reflow: small burr, low speed, short runs, vasodilators; treat downstream lesions that trap debris.
 
-   - **Bradycardia/AV block** with dominant RCA/LCx: TVP, or atropine/aminophylline.
+ - **Bradycardia/AV block** with dominant RCA/LCx: TVP, or atropine/aminophylline.
 
-   - Perforation (oversized burr, angulation, wire bias). **Burr entrapment** (“Kokeshi,” usually small burr through a tight lesion):
+ - Perforation (oversized burr, angulation, wire bias). **Burr entrapment** (“Kokeshi,” usually small burr through a tight lesion):
 
-      - Lock the advancer and pull the whole system while controlling the guide.
+ - Lock the advancer and pull the whole system while controlling the guide.
 
-      - Second guide/wire with balloon dilation beside the burr. Cut the drive shaft, advance a guide extension over it for coaxial traction.
+ - Second guide/wire with balloon dilation beside the burr. Cut the drive shaft, advance a guide extension over it for coaxial traction.
 
-      - Surgery as last resort.
+ - Surgery as last resort.
 
 - **Trials:** ERBAC/COBRA/DART showed ↑ procedural success but no restenosis benefit. **ROTAXUS:** routine rota ↑ success, no MACE benefit (and more late loss). **PREPARE-CALC:** rota ≈ modified balloons.
 
 **Orbital atherectomy**
 
-   - Eccentric 1.25 mm diamond-coated crown, **coated on both sides** (sands forward and backward).
+ - Eccentric 1.25 mm diamond-coated crown, **coated on both sides** (sands forward and backward).
 
-   - Orbit diameter ↑ with speed (80k “low” → 120k “high”), slower advancement and more passes.
+ - Orbit diameter ↑ with speed (80k “low” → 120k “high”), slower advancement and more passes.
 
-   - **ViperWire:** 0.012" shaft, 0.014" tip. **ViperSlide:** soybean oil, egg-yolk phospholipids.
+ - **ViperWire:** 0.012" shaft, 0.014" tip. **ViperSlide:** soybean oil, egg-yolk phospholipids.
 
-   - Runs ≤30 s; start low speed; ~1 mm/s advance.
+ - Runs ≤30 s; start low speed; ~1 mm/s advance.
 
-   - **ORBIT II:** safe and effective (single arm). **ECLIPSE (2024):** routine OA vs balloon prep in severe calcium — no ↓ 1- yr TVF, no ↑ MSA.
+ - **ORBIT II:** safe and effective (single arm). **ECLIPSE (2024):** routine OA vs balloon prep in severe calcium — no ↓ 1- yr TVF, no ↑ MSA.
 
 - **Laser (ELCA) and intravascular lithotripsy**
 
-   - **ELCA** is a 308 nm excimer laser over a standard 0.014" wire.
+ - **ELCA** is a 308 nm excimer laser over a standard 0.014" wire.
 
-      - Mechanisms: **photochemical** (bond breakage), **photothermal** (vapor bubble), **photomechanical** (shock wave).
+ - Mechanisms: **photochemical** (bond breakage), **photothermal** (vapor bubble), **photomechanical** (shock wave).
 
-      - **Flush saline continuously; no contrast or blood** in the field (both absorb energy → dissection).
+ - **Flush saline continuously; no contrast or blood** in the field (both absorb energy → dissection).
 
-      - Advance ~0.5–1 mm/s; titrate fluence and rate. Uses: uncrossable lesions, **underexpanded stents** (especially with contrast), thrombus, SVG, CTO cap. Relative contraindication in unprotected LM. Laser (not rota) is approved for SVG and ISR.
+ - Advance ~0.5–1 mm/s; titrate fluence and rate. Uses: uncrossable lesions, **underexpanded stents** (especially with contrast), thrombus, SVG, CTO cap. Relative contraindication in unprotected LM. Laser (not rota) is approved for SVG and ISR.
 
-   - **IVL (Shockwave C2+)**
+ - **IVL (Shockwave C2+)**
 
-      - 2.5–4.0 × 12 mm; 1:1 sizing; 4 atm → pulses → 6 atm. Circumferential and deep calcium fracture. May trigger ventricular capture (“shocktopics”).
+ - 2.5–4.0 × 12 mm; 1:1 sizing; 4 atm → pulses → 6 atm. Circumferential and deep calcium fracture. May trigger ventricular capture (“shocktopics”).
 
 Low perforation rate (DISRUPT CAD III).
 
@@ -1227,9 +1227,9 @@ Crossing profile is bulky and may need pre-dilation.
 
 - **J-CTO** (1 point each: blunt cap, calcification, bend >45°, length ≥20 mm, prior failed attempt): 0 easy; 1 intermediate; 2 difficult; ≥3 very difficult Higher scores → dissection/re-entry or retrograde approach
 
-- **Hybrid algorithm** (dual injection is essential). Four questions: proximal cap ambiguity, lesion length (≥20 mm), distal target quality, interventional collaterals. Clear cap, short lesion → **antegrade wire escalation **. If subintimal: parallel wire, or move to ADR/retrograde. Long lesion, good distal target → **antegrade dissection re-entry** (knuckle wire, CrossBoss, Stingray LP; STRAW to decompress hematoma).
+- **Hybrid algorithm** (dual injection is essential). Four questions: proximal cap ambiguity, lesion length (≥20 mm), distal target quality, interventional collaterals. Clear cap, short lesion → **antegrade wire escalation**. If subintimal: parallel wire, or move to ADR/retrograde. Long lesion, good distal target → **antegrade dissection re-entry** (knuckle wire, CrossBoss, Stingray LP; STRAW to decompress hematoma).
 
-   - Ambiguous cap, poor distal vessel, or prior failure with good collaterals → **retrograde** (septal > epicardial; reverse CART).
+ - Ambiguous cap, poor distal vessel, or prior failure with good collaterals → **retrograde** (septal > epicardial; reverse CART).
 
 - **Stop the procedure if:** air kerma >5 Gy (strongly consider at >7 Gy); contrast >3.7× eGFR; >3 h; or remaining options are too risky. Consider an “investment procedure” (subintimal plaque modification, re-attempt ~2–3 mo).
 
@@ -1241,7 +1241,7 @@ Crossing profile is bulky and may need pre-dilation.
 
 **DECISION-CTO (2019):** no MACE difference; high crossover.
 
-**EXPLORE** (non-IRA CTO after STEMI) and **REVASC:** no LVEF improvement. No RCT survival benefit. **ACC/AHA 2021:** CTO PCI for refractory angina after treating non-CTO lesions: **2b **.
+**EXPLORE** (non-IRA CTO after STEMI) and **REVASC:** no LVEF improvement. No RCT survival benefit. **ACC/AHA 2021:** CTO PCI for refractory angina after treating non-CTO lesions: **2b**.
 
 **Saphenous vein grafts**
 
@@ -1251,7 +1251,7 @@ Crossing profile is bulky and may need pre-dilation.
 
 - 1 mo–1 yr: intimal hyperplasia
 
-   - >1 yr: accelerated atherosclerosis with friable lipidrich, thin-capped plaque
+ - >1 yr: accelerated atherosclerosis with friable lipidrich, thin-capped plaque
 
 - **Patency:** ~25% of SVGs failed at 12–18 mo (PREVENT IV); ~50% occluded by 10 yr. LIMA-LAD patency >90% at 10 yr; late LIMA failure from competitive flow, subclavian stenosis or anastomotic issues.
 
@@ -1259,11 +1259,11 @@ Crossing profile is bulky and may need pre-dilation.
 
 **Strategy:**
 
-   - Prefer **native-vessel PCI** over SVG PCI when feasible (2a).
+ - Prefer **native-vessel PCI** over SVG PCI when feasible (2a).
 
-   - Redo CABG if failed or unused LIMA, multiple graft failures, heart team.
+ - Redo CABG if failed or unused LIMA, multiple graft failures, heart team.
 
-   - Radial access is reasonable for graft angiography (more contrast/crossover, fewer vascular complications).
+ - Radial access is reasonable for graft angiography (more contrast/crossover, fewer vascular complications).
 
 - **SVG PCI risks:** distal embolization and no-reflow (10– 20%); periprocedural MI (predicts late death). Risk ↑ with plaque volume, degeneration score, female sex, CKD.
 
@@ -1279,7 +1279,7 @@ Crossing profile is bulky and may need pre-dilation.
 
 ### In-stent restenosis
 
-**BMS ISR** is diffuse neointimal hyperplasia (SMC-rich, collagen III), peaking at 6–8 mo. BMS ISR rate ~20–30%. **DES ISR** is focal/edge, proteoglycan-rich, with late catchup, frequent peri-strut inflammation and **neoatherosclerosis **. Endothelialization can take years. Current DES ISR ~1–2%/yr.
+**BMS ISR** is diffuse neointimal hyperplasia (SMC-rich, collagen III), peaking at 6–8 mo. BMS ISR rate ~20–30%. **DES ISR** is focal/edge, proteoglycan-rich, with late catchup, frequent peri-strut inflammation and **neoatherosclerosis**. Endothelialization can take years. Current DES ISR ~1–2%/yr.
 
 ~⅓ of ISR presents as ACS.
 
@@ -1297,9 +1297,9 @@ Procedure: underexpansion (strongest), geographic miss, residual edge plaque, st
 
 - Underexpansion → high-pressure NC, IVL, or laser for calcium behind struts.
 
-- Neointima/neoatherosclerosis → **DES** (Class 1) or **DCB **. The **AGENT paclitaxel DCB is FDA-approved (2024) **; AGENT IDE showed ↓ TLF vs POBA.
+- Neointima/neoatherosclerosis → **DES** (Class 1) or **DCB**. The **AGENT paclitaxel DCB is FDA-approved (2024)**; AGENT IDE showed ↓ TLF vs POBA.
 
-- Cutting/scoring balloon to prevent slippage (2b). Recurrent multi-layer DES-ISR → **intravascular brachytherapy **, DCB, or CABG. Avoid a third layer. Laser > POBA for debulking ISR. Rota for ISR is mixed (ROSTER favorable, ARTIST unfavorable).
+- Cutting/scoring balloon to prevent slippage (2b). Recurrent multi-layer DES-ISR → **intravascular brachytherapy**, DCB, or CABG. Avoid a third layer. Laser > POBA for debulking ISR. Rota for ISR is mixed (ROSTER favorable, ARTIST unfavorable).
 
 ### Stent thrombosis
 
@@ -1321,13 +1321,13 @@ Procedure: underexpansion (strongest), geographic miss, residual edge plaque, st
 
 - After 6 mo on current DES, the ST risk from DAPT interruption is low. **Treatment:**
 
-   - Primary PCI; aspiration only if large thrombus.
+ - Primary PCI; aspiration only if large thrombus.
 
-   - **Intravascular imaging** to find the mechanism; stent again only for dissection, underexpansion not fixed by balloon, or new disease.
+ - **Intravascular imaging** to find the mechanism; stent again only for dissection, underexpansion not fixed by balloon, or new disease.
 
-   - Switch or reload to ticagrelor/prasugrel; GPI; check adherence.
+ - Switch or reload to ticagrelor/prasugrel; GPI; check adherence.
 
-   - Consider genotyping (CYP2C19 LOF) and prolonged DAPT.
+ - Consider genotyping (CYP2C19 LOF) and prolonged DAPT.
 
 - Ticagrelor, prasugrel and cangrelor have lower ST rates than clopidogrel.
 
@@ -1339,27 +1339,27 @@ Procedure: underexpansion (strongest), geographic miss, residual edge plaque, st
 
 - **Epidemiology:** ~0.3–0.5% overall (higher in CTO and atherectomy). Associated with tamponade, MI, emergency surgery and death. **Ellis classification:**
 
-   - **I:** extraluminal crater without extravasation
+ - **I:** extraluminal crater without extravasation
 
-   - **II:** pericardial/myocardial blush without a jet **III:** jet ≥1 mm
+ - **II:** pericardial/myocardial blush without a jet **III:** jet ≥1 mm
 
-   - **III-CS:** cavity spilling into a chamber (usually benign)
+ - **III-CS:** cavity spilling into a chamber (usually benign)
 
 - **Immediate steps (all types):**
 
-   - **Proximal balloon tamponade** first; keep wire position. Support hemodynamics.
+ - **Proximal balloon tamponade** first; keep wire position. Support hemodynamics.
 
-   - Stat echo (IC agitated contrast/Definity can localize an ongoing leak). Pericardiocentesis if tamponade (echo or fluoro guided; autotransfusion). Notify surgery early. No further anticoagulant/GPI.
+ - Stat echo (IC agitated contrast/Definity can localize an ongoing leak). Pericardiocentesis if tamponade (echo or fluoro guided; autotransfusion). Notify surgery early. No further anticoagulant/GPI.
 
 - **Large-vessel perforation** → **covered stent** (PK Papyrus, 5–6F; Graftmaster). Use a **dual-guide “block-anddeliver”** (ping-pong): the second guide delivers the covered stent while the first keeps the balloon up, minimizing un-tamponaded time. Residual leak → look for geographic miss.
 
 - **Distal wire perforation** (polymer-jacketed or stiff wires): often recognized late, leading to delayed tamponade. Balloon occlusion.
 
-   - **Embolize via microcatheter:** coils (detachable allow repositioning), autologous fat or subcutaneous tissue (mix with contrast), thrombin, microspheres. Aspirate through the microcatheter to collapse the branch.
+ - **Embolize via microcatheter:** coils (detachable allow repositioning), autologous fat or subcutaneous tissue (mix with contrast), thrombin, microspheres. Aspirate through the microcatheter to collapse the branch.
 
 - Covered stent across the branch origin as a last resort.
 
-- **Collateral perforation** (CTO): embolize **from both sides **. Epicardial collateral perforation is more dangerous than septal.
+- **Collateral perforation** (CTO): embolize **from both sides**. Epicardial collateral perforation is more dangerous than septal.
 
 - **Protamine** is not routine. Use it (partial) only for a persistent leak after tamponade, after all equipment is out. Avoid after a covered stent if sealed (thrombosis). It does not reverse bivalirudin.
 
@@ -1385,19 +1385,19 @@ Procedure: underexpansion (strongest), geographic miss, residual edge plaque, st
 
 - **Algorithm:**
 
-   - Exclude dissection, thrombus, air and spasm (IC NTG). Aspirate thrombus if present.
+ - Exclude dissection, thrombus, air and spasm (IC NTG). Aspirate thrombus if present.
 
-   - **Deliver vasodilators distally** through a microcatheter or aspiration catheter, not the guide.
+ - **Deliver vasodilators distally** through a microcatheter or aspiration catheter, not the guide.
 
 - **IC doses (distal):**
 
-   - Adenosine 30–60 mcg boluses (up to 1–2 mg); AV block in RCA; endothelium-independent.
+ - Adenosine 30–60 mcg boluses (up to 1–2 mg); AV block in RCA; endothelium-independent.
 
-   - Nitroprusside 50–200 mcg (hypotension).
+ - Nitroprusside 50–200 mcg (hypotension).
 
-   - Verapamil 100–250 mcg (up to 1 mg; bradycardia). Nicardipine 50–200 mcg.
+ - Verapamil 100–250 mcg (up to 1 mg; bradycardia). Nicardipine 50–200 mcg.
 
-   - Epinephrine 50–200 mcg (useful with hypotension/bradycardia; causes tachycardia).
+ - Epinephrine 50–200 mcg (useful with hypotension/bradycardia; causes tachycardia).
 
 - Choose the agent by HR and BP: bradycardic/hypotensive → epinephrine; tachycardic/hypertensive → nitroprusside or CCB.
 
@@ -1415,13 +1415,13 @@ Procedure: underexpansion (strongest), geographic miss, residual edge plaque, st
 
 - **Catheter-induced ostial dissection** (classically Amplatz in the RCA; guide extensions): presents with ST elevation, VF or collapse.
 
-   - Stop contrast injections.
+ - Stop contrast injections.
 
-   - Keep or obtain distal wire position in the true lumen (confirm with IVUS).
+ - Keep or obtain distal wire position in the true lumen (confirm with IVUS).
 
-   - Stent the ostium/entry point promptly to seal and stop antegrade and retrograde propagation, then cover distal extension.
+ - Stent the ostium/entry point promptly to seal and stop antegrade and retrograde propagation, then cover distal extension.
 
-   - Check the aortic root for retrograde extension. Limited extension (<40 mm) usually seals once the ostium is sealed; extensive → CT/TEE, surgery.
+ - Check the aortic root for retrograde extension. Limited extension (<40 mm) usually seals once the ostium is sealed; extensive → CT/TEE, surgery.
 
 - Coronary dissection with a damped guide pressure trace: never inject; pull back.
 
@@ -1459,11 +1459,11 @@ Most resolve.
 
 - **Atrial septal occluder embolization** (0.5–1%; usually immediate):
 
-   - Risk: deficient rims, undersizing, floppy septum, excessive tension.
+ - Risk: deficient rims, undersizing, floppy septum, excessive tension.
 
-   - Retrieve with snare/forceps into a sheath ≥2F larger than delivery (bevel the tip).
+ - Retrieve with snare/forceps into a sheath ≥2F larger than delivery (bevel the tip).
 
-   - Move the device to the PA, aorta or IVC before manipulating; ventricular location often needs surgery. CXR/TTE before discharge.
+ - Move the device to the PA, aorta or IVC before manipulating; ventricular location often needs surgery. CXR/TTE before discharge.
 
 ## 11. Peripheral Artery, Renal, Subclavian and Carotid Disease
 
@@ -1475,19 +1475,19 @@ Most resolve.
 
 - **Risk factors:** smoking > DM > dyslipidemia > HTN.
 
-   - Smoking favors aorto-iliac disease.
+ - Smoking favors aorto-iliac disease.
 
-   - DM favors femoropopliteal/tibial disease.
+ - DM favors femoropopliteal/tibial disease.
 
-   - Young smoker with distal disease → Buerger’s.
+ - Young smoker with distal disease → Buerger’s.
 
 - **At-risk groups:** ≥65 y; 50–64 y with risk factors; <50 with DM + 1 other risk factor; known atherosclerosis elsewhere.
 
 - **Natural history** (5 yr):
 
-   - Claudication: 70–80% stable, 10–20% worsen, 1–2% progress to CLTI.
+ - Claudication: 70–80% stable, 10–20% worsen, 1–2% progress to CLTI.
 
-   - **CLTI at 1 yr:** ~25% amputation, ~25% dead.
+ - **CLTI at 1 yr:** ~25% amputation, ~25% dead.
 
 - Major amputation: BKA 5–8% perioperative mortality (AKA higher); ~50% of BKA patients regain ambulation.
 
@@ -1547,7 +1547,7 @@ Short DAPT after endovascular therapy is reasonable. No full-dose OAC without an
 
 - **DM:** SGLT2i and GLP-1 RA ↓ MACE. **STRIDE (2025):** semaglutide ↑ walking distance in PAD + T2DM.
 
-- **Cilostazol** 100 mg BID (PDE3): ↑ walking distance; **contraindicated in HF **.
+- **Cilostazol** 100 mg BID (PDE3): ↑ walking distance; **contraindicated in HF**.
 
 - **Pentoxifylline and chelation: not recommended.**
 
@@ -1557,19 +1557,19 @@ Short DAPT after endovascular therapy is reasonable. No full-dose OAC without an
 
 - **Asymptomatic PAD:** never revascularize to prevent progression.
 
-- **Claudication:** only if lifestyle-limiting after GDMT and supervised exercise. Exercise first, even for Rutherford 3. **CLTI:** revascularize (Class 1) with a multidisciplinary team. Aim for **in-line flow to the wound angiosome **, revascularize early (heel wounds), close follow-up. Wet gangrene → debridement first.
+- **Claudication:** only if lifestyle-limiting after GDMT and supervised exercise. Exercise first, even for Rutherford 3. **CLTI:** revascularize (Class 1) with a multidisciplinary team. Aim for **in-line flow to the wound angiosome**, revascularize early (heel wounds), close follow-up. Wet gangrene → debridement first.
 
 - **BEST-CLI (2022):** surgical bypass with adequate singlesegment GSV ↓ MALE/death vs endovascular-first. **BASIL-2 (2023):** for infrapopliteal disease, vein bypassfirst ↑ amputation/death vs endovascular-first.
 
 **Anatomy:**
 
-   - Endovascular is best for iliac and focal femoropopliteal lesions (<10–15 cm).
+ - Endovascular is best for iliac and focal femoropopliteal lesions (<10–15 cm).
 
-   - Long, complex aorto-iliac, CFA/profunda disease → surgery (CFA endarterectomy).
+ - Long, complex aorto-iliac, CFA/profunda disease → surgery (CFA endarterectomy).
 
-   - Treat inflow before outflow.
+ - Treat inflow before outflow.
 
-   - Infrapopliteal intervention for claudication is not durable; avoid.
+ - Infrapopliteal intervention for claudication is not durable; avoid.
 
 - **Paclitaxel devices:** FDA (2023) found no excess mortality signal on updated data.
 
@@ -1583,11 +1583,11 @@ Short DAPT after endovascular therapy is reasonable. No full-dose OAC without an
 
 - **Immediate IV heparin** (Class 1).
 
-|**Rutherford**|**Sensory**|**Motor**|**Arterial **<br>** Doppler**|**Venous **<br>** Doppler**|**Action**|
+|**Rutherford**|**Sensory**|**Motor**|**Arterial<br>Doppler**|**Venous<br>Doppler**|**Action**|
 |---|---|---|---|---|---|
 |I viable|None|None|Audible|Audible|Urgent evaluation|
 |IIa marginally<br>threatened|Minimal (toes)|None|Often<br>inaudible|Audible|Prompt revascularization|
-|IIb immediately<br>threatened|Beyond toes, rest<br>pain|Mild–<br>moderate|Inaudible|Audible|**Emergent revascularization **<br>** (≤6 h)**|
+|IIb immediately<br>threatened|Beyond toes, rest<br>pain|Mild–<br>moderate|Inaudible|Audible|**Emergent revascularization<br>(≤6 h)**|
 |III irreversible|Profound<br>anesthesia|Paralysis/rigor|Inaudible|Inaudible|Primary amputation|
 
 - **Revascularization:** catheter-directed thrombolysis or mechanical thrombectomy for I–IIa; surgery or mechanical options for IIb.
@@ -1598,7 +1598,7 @@ Short DAPT after endovascular therapy is reasonable. No full-dose OAC without an
 
 ### Subclavian stenosis
 
-- Left ~4× more common than right; present in ~11% of PAD patients. Usually asymptomatic; **inter-arm SBP difference >15 mmHg **.
+- Left ~4× more common than right; present in ~11% of PAD patients. Usually asymptomatic; **inter-arm SBP difference >15 mmHg**.
 
 - **Screen before CABG with IMA:** arm BP difference, chest radiation, vasculitis, known PAD.
 
@@ -1610,15 +1610,15 @@ Short DAPT after endovascular therapy is reasonable. No full-dose OAC without an
 
 - **Consider stenting for:** recurrent flash pulmonary edema; rapidly declining renal function with bilateral/solitary kidney stenosis; truly resistant HTN on optimal meds. **Significance:** systolic gradient ≥20 mmHg, mean ≥10 mmHg, Pd/Pa ≤0.90, or renal FFR ≤0.80. **Clues:**
 
-   - HTN onset <30 or >55 y; resistant, malignant or accelerating HTN.
+ - HTN onset <30 or >55 y; resistant, malignant or accelerating HTN.
 
-   - Kidney size difference >1.5 cm or unexplained atrophy. **Flash pulmonary edema **; Cr ↑ >30% after ACEi/ARB. Unexplained CKD; multivessel CAD/PAD.
+ - Kidney size difference >1.5 cm or unexplained atrophy. **Flash pulmonary edema**; Cr ↑ >30% after ACEi/ARB. Unexplained CKD; multivessel CAD/PAD.
 
 - **Physiology:**
 
-   - **Unilateral RAS:** renin-dependent HTN. Contralateral kidney has pressure natriuresis (no volume overload). **ACEi lowers BP.**
+ - **Unilateral RAS:** renin-dependent HTN. Contralateral kidney has pressure natriuresis (no volume overload). **ACEi lowers BP.**
 
-   - **Bilateral RAS or solitary kidney:** volume-dependent; renin suppressed. **ACEi causes AKI (Cr rises)** with little BP effect.
+ - **Bilateral RAS or solitary kidney:** volume-dependent; renin suppressed. **ACEi causes AKI (Cr rises)** with little BP effect.
 
 - **Fibromuscular dysplasia:** young/middle-aged women, “string of beads” in mid/distal renal and ICA/vertebral arteries.
 
@@ -1638,17 +1638,17 @@ One-time head-to-pelvis CTA/MRA (aneurysms, dissection); strong SCAD association
 
 - **Duplex ≥70%:** ICA PSV >230 cm/s and ICA/CCA ratio >4. CTA/MRA confirm.
 
-- **Carotid disease causes 10–20% of ischemic strokes **, mostly **embolic **. Revascularization prevents embolism, not hypoperfusion.
+- **Carotid disease causes 10–20% of ischemic strokes**, mostly **embolic**. Revascularization prevents embolism, not hypoperfusion.
 
 - Asymptomatic stenosis also marks systemic risk (strokes in other territories). Total occlusion: no revascularization.
 
 - **Arch anatomy:**
 
-   - Common origin of innominate and L CCA (“bovine,” ~15–25%).
+ - Common origin of innominate and L CCA (“bovine,” ~15–25%).
 
-   - L vertebral from the arch (~3–5%).
+ - L vertebral from the arch (~3–5%).
 
-   - **Aberrant right subclavian** (arteria lusoria, ~1%): arises distal to L SCA, retroesophageal; makes right radial access hard.
+ - **Aberrant right subclavian** (arteria lusoria, ~1%): arises distal to L SCA, retroesophageal; makes right radial access hard.
 
 Type III arch ↑ CAS embolic risk.
 
@@ -1658,7 +1658,7 @@ Type III arch ↑ CAS embolic risk.
 
 - Revascularization for 70–99% is Class 1 (CEA if perioperative risk <6%). **Operating within 2 wk** of the event is reasonable (2a).
 
-**CAS is an alternative **, especially for high surgical risk or anatomy. **CREST:** no difference in the composite; CAS had more minor strokes, CEA more MI. Age >70 favors CEA.
+**CAS is an alternative**, especially for high surgical risk or anatomy. **CREST:** no difference in the composite; CAS had more minor strokes, CEA more MI. Age >70 favors CEA.
 
 ### Asymptomatic stenosis
 
@@ -1666,13 +1666,13 @@ Type III arch ↑ CAS embolic risk.
 
 - **SPACE-2:** no benefit of either revascularization strategy vs best medical therapy (underpowered). **ACST-2 (2021):** CAS ≈ CEA.
 
-- **CREST-2 (NEJM 2025) **, ≥70% asymptomatic stenosis, credentialed operators:
+- **CREST-2 (NEJM 2025)**, ≥70% asymptomatic stenosis, credentialed operators:
 
 **CAS + intensive medical management ↓ periprocedural stroke/death + 4-yr ipsilateral stroke (2.8% vs 6.0%, P=0.02; NNT ~31).**
 
 - **CEA + intensive medical management: 3.7% vs 5.3% (P=0.24, NS).**
 
-**CMS NCD (Oct 2023):** CAS covered for symptomatic ≥50% and asymptomatic ≥70% **regardless of surgical risk **. Requires shared decision-making, pre/post neurologic assessment and imaging confirmation. Facilitycertification requirement removed.
+**CMS NCD (Oct 2023):** CAS covered for symptomatic ≥50% and asymptomatic ≥70% **regardless of surgical risk**. Requires shared decision-making, pre/post neurologic assessment and imaging confirmation. Facilitycertification requirement removed.
 
 **UPDATED** The original said “no board scenario where we stent an asymptomatic patient” and “CMS only reimburses high surgical risk.” Both are outdated after CREST-2 and the 2023 NCD. Individual patient selection and life expectancy still matter.
 
@@ -1684,7 +1684,7 @@ Type III arch ↑ CAS embolic risk.
 
 ### CAS technique and complications
 
-Plan with arch imaging (CTA). Embolic risk comes from arch manipulation, crossing, and **post-dilation (highestrisk step) **. Accept 10–20% residual stenosis.
+Plan with arch imaging (CTA). Embolic risk comes from arch manipulation, crossing, and **post-dilation (highestrisk step)**. Accept 10–20% residual stenosis.
 
 **EPD required.** Distal filters fail with poor landing zone or ECA collaterals. Proximal occlusion (MoMA) works before crossing but needs collateral tolerance.
 
@@ -1700,9 +1700,9 @@ Plan with arch imaging (CTA). Embolic risk comes from arch manipulation, crossin
 
 ### Indications
 
-- **Severe AS:** Vmax ≥4 m/s, MG ≥40 mmHg, AVA ≤1.0 cm². Symptom onset is the “cliff” for survival. **2020 ACC/AHA (current US VHD guideline) **, symptomatic severe AS:
+- **Severe AS:** Vmax ≥4 m/s, MG ≥40 mmHg, AVA ≤1.0 cm². Symptom onset is the “cliff” for survival. **2020 ACC/AHA (current US VHD guideline)**, symptomatic severe AS:
 
-   - Age <65 or life expectancy >20 yr → SAVR. 65–80 → shared decision, SAVR or TF-TAVR. >80 or life expectancy <10 yr → TF-TAVR. High or prohibitive surgical risk → TAVR.
+ - Age <65 or life expectancy >20 yr → SAVR. 65–80 → shared decision, SAVR or TF-TAVR. >80 or life expectancy <10 yr → TF-TAVR. High or prohibitive surgical risk → TAVR.
 
 ### Asymptomatic severe AS
 
@@ -1726,7 +1726,7 @@ Plan with arch imaging (CTA). Embolic risk comes from arch manipulation, crossin
 
 **Evolut Low Risk:** noninferior.
 
-   - **NOTION 10-yr:** similar mortality; less SVD with TAVR. **DEDICATE (2024):** TAVR noninferior/superior to SAVR at low–intermediate risk (≥65 y).
+ - **NOTION 10-yr:** similar mortality; less SVD with TAVR. **DEDICATE (2024):** TAVR noninferior/superior to SAVR at low–intermediate risk (≥65 y).
 
 - **Bicuspid** anatomy was excluded from most RCTs; increasingly treated in selected anatomy.
 
@@ -1780,11 +1780,11 @@ Plan with arch imaging (CTA). Embolic risk comes from arch manipulation, crossin
 
 - **Cerebral embolic protection** (Sentinel): captures debris in ~99% but **PROTECTED TAVR (2022)** and **BHF PROTECTTAVI (2025)** showed no stroke reduction. Not routine. **Antithrombotics:**
 
-   - **POPular TAVI:** aspirin alone bleeds less than aspirin + clopidogrel; OAC alone bleeds less than OAC + clopidogrel.
+ - **POPular TAVI:** aspirin alone bleeds less than aspirin + clopidogrel; OAC alone bleeds less than OAC + clopidogrel.
 
-   - **GALILEO:** rivaroxaban without an OAC indication ↑ death/bleeding. **ATLANTIS:** apixaban not superior. **ENVISAGE:** edoxaban noninferior to VKA in AF, with more GI bleeding.
+ - **GALILEO:** rivaroxaban without an OAC indication ↑ death/bleeding. **ATLANTIS:** apixaban not superior. **ENVISAGE:** edoxaban noninferior to VKA in AF, with more GI bleeding.
 
-   - **Default is lifelong low-dose aspirin **; OAC only if otherwise indicated. No routine DAPT.
+ - **Default is lifelong low-dose aspirin**; OAC only if otherwise indicated. No routine DAPT.
 
 - **HALT/subclinical leaflet thrombosis** (CT: HALT/HAM): common, reversible with OAC, weakly linked to stroke. Not the same as clinical valve thrombosis (↑ gradients, which is treated with OAC). No routine CT screening or empiric OAC.
 
@@ -1806,11 +1806,11 @@ Good option for failed surgical valves at high redo risk. **Does not fix prosthe
 
 - **Coronary obstruction** (~0.7% native, higher in ViV) Presents as hypotension, ST changes or VF right after deployment; can be delayed.
 
-   - Mortality ~40–50%.
+ - Mortality ~40–50%.
 
-   - Prevention in high-risk anatomy: wire and undeployed stent in the coronary (“chimney”), BASILICA, recapturable valve.
+ - Prevention in high-risk anatomy: wire and undeployed stent in the coronary (“chimney”), BASILICA, recapturable valve.
 
-   - Treatment: PCI (chimney), hemodynamic support, surgery.
+ - Treatment: PCI (chimney), hemodynamic support, surgery.
 
 After chimney stenting, a flapping lucency or slow flow means deploy the parked stent.
 
@@ -1848,27 +1848,27 @@ Vascular injury, aortic dissection, severe PVL (post-dilate, second valve, plug)
 
 **TEER for primary MR:**
 
-   - **EVEREST II:** surgery more effective (more residual MR and later surgery with TEER) but TEER safer; symptoms similar at 5 yr.
+ - **EVEREST II:** surgery more effective (more residual MR and later surgery with TEER) but TEER safer; symptoms similar at 5 yr.
 
-   - Indicated for severe symptomatic primary MR at high or prohibitive surgical risk with favorable anatomy (2a).
+ - Indicated for severe symptomatic primary MR at high or prohibitive surgical risk with favorable anatomy (2a).
 
-   - **CLASP IID:** PASCAL noninferior to MitraClip.
+ - **CLASP IID:** PASCAL noninferior to MitraClip.
 
 - **TEER for secondary MR:**
 
-   - **COAPT:** MitraClip + GDMT ↓ HF hospitalization and all-cause death (NNT ~6 for HFH at 2 yr) vs GDMT. Criteria: LVEF 20–50%, LVESD ≤70 mm, PASP ≤70, persistent severe MR on maximal GDMT/CRT.
+ - **COAPT:** MitraClip + GDMT ↓ HF hospitalization and all-cause death (NNT ~6 for HFH at 2 yr) vs GDMT. Criteria: LVEF 20–50%, LVESD ≤70 mm, PASP ≤70, persistent severe MR on maximal GDMT/CRT.
 
-   - **MITRA-FR:** neutral. Explained by “disproportionate” vs “proportionate” MR relative to LV size, lower MR severity, larger LVs and more residual MR.
+ - **MITRA-FR:** neutral. Explained by “disproportionate” vs “proportionate” MR relative to LV size, lower MR severity, larger LVs and more residual MR.
 
-   - **RESHAPE-HF2 (2024):** TEER ↓ HFH/CV death in moderate-to-severe SMR.
+ - **RESHAPE-HF2 (2024):** TEER ↓ HFH/CV death in moderate-to-severe SMR.
 
-   - **MATTERHORN (2024):** TEER noninferior to surgery for SMR.
+ - **MATTERHORN (2024):** TEER noninferior to surgery for SMR.
 
 **ESC 2025:** Class I A in eligible SMR. ACC/AHA 2020: 2a. **Unfavorable TEER anatomy:** MVA <4 cm² or baseline MG >5 mmHg (stenosis), heavily calcified grasping zone, short posterior leaflet (<7 mm), Barlow disease with multiple segments, cleft, wide flail gap/width, rheumatic disease. **TMVR:**
 
 **Tendyne** (transapical; FDA 2025).
 
-**SAPIEN M3** ( **transseptal; FDA Dec 2025 **, ENCIRCLE): symptomatic MR not suitable for surgery or TEER, and MAC-related disease.
+**SAPIEN M3** ( **transseptal; FDA Dec 2025**, ENCIRCLE): symptomatic MR not suitable for surgery or TEER, and MAC-related disease.
 
 Main risk is **LVOT obstruction** (neo-LVOT <1.7–2.0 cm²); LAMPOON or alcohol septal ablation to mitigate. SAPIEN 3 approved for mitral ViV. Valve-in-ring and valve-in-MAC carry higher risk (MITRAL trial).
 
@@ -1878,13 +1878,13 @@ Main risk is **LVOT obstruction** (neo-LVOT <1.7–2.0 cm²); LAMPOON or alcohol
 
 - **Rheumatic:** commissural fusion, leaflet and subvalvular thickening; annulus spared; younger patients. AF markedly worsens prognosis.
 
-- **Degenerative (MAC):** annular calcium, elderly, high surgical risk; **not amenable to balloon valvotomy **. **PMBC for rheumatic MS** (Class 1): symptomatic, MVA ≤1.5 cm², favorable morphology, no LA thrombus, less than moderate MR.
+- **Degenerative (MAC):** annular calcium, elderly, high surgical risk; **not amenable to balloon valvotomy**. **PMBC for rheumatic MS** (Class 1): symptomatic, MVA ≤1.5 cm², favorable morphology, no LA thrombus, less than moderate MR.
 
-   - **Wilkins score** (mobility, thickening, calcification, subvalvular; 1–4 each): **≤8 favorable **. Commissural calcium is unfavorable.
+ - **Wilkins score** (mobility, thickening, calcification, subvalvular; 1–4 each): **≤8 favorable**. Commissural calcium is unfavorable.
 
-   - Success: MVA ≥1.5 cm² (or ≥50% increase) with ≤2+ MR.
+ - Success: MVA ≥1.5 cm² (or ≥50% increase) with ≤2+ MR.
 
-   - Complications: severe MR (new giant v wave), tamponade, embolism, residual iatrogenic ASD.
+ - Complications: severe MR (new giant v wave), tamponade, embolism, residual iatrogenic ASD.
 
 - **Anticoagulation:** VKA for rheumatic MS with AF, prior embolism or LA thrombus (INVICTUS: rivaroxaban inferior).
 
@@ -1920,17 +1920,17 @@ Primary (endocarditis, carcinoid, Ebstein).
 
 - ~90% of non-valvular AF thrombi form in the LAA. Only ~50% of eligible patients receive OAC, often underdosed. **Trials:**
 
-   - **PROTECT AF/PREVAIL** (Watchman vs warfarin), 5-yr pooled: noninferior composite; ↓ hemorrhagic stroke, disabling stroke and CV death; numerically more ischemic stroke.
+ - **PROTECT AF/PREVAIL** (Watchman vs warfarin), 5-yr pooled: noninferior composite; ↓ hemorrhagic stroke, disabling stroke and CV death; numerically more ischemic stroke.
 
-   - **PRAGUE-17:** LAAO noninferior to DOAC (net composite; ↓ non-procedural bleeding at 4 yr). **Amulet IDE:** Amulet noninferior to Watchman for safety and efficacy, superior closure; more early procedural complications (effusion, embolization). **OPTION (2024):** after AF ablation, LAAO vs OAC ↓ non-procedural bleeding; noninferior for death/stroke/embolism.
+ - **PRAGUE-17:** LAAO noninferior to DOAC (net composite; ↓ non-procedural bleeding at 4 yr). **Amulet IDE:** Amulet noninferior to Watchman for safety and efficacy, superior closure; more early procedural complications (effusion, embolization). **OPTION (2024):** after AF ablation, LAAO vs OAC ↓ non-procedural bleeding; noninferior for death/stroke/embolism.
 
-   - **CHAMPION-AF (2026)** (Watchman FLX vs DOAC, OACeligible): noninferior for CV death/stroke/SE (5.7% vs 4.8%); ↓ non-procedural bleeding (10.9% vs 19.0%); **ischemic stroke/SE numerically higher** (3.2% vs 2.2%). **CLOSURE-AF (2026)** (HBR or OAC-contraindicated patients vs physician-directed best medical care, mostly DOAC): **LAAO failed noninferiority** for the net composite.
+ - **CHAMPION-AF (2026)** (Watchman FLX vs DOAC, OACeligible): noninferior for CV death/stroke/SE (5.7% vs 4.8%); ↓ non-procedural bleeding (10.9% vs 19.0%); **ischemic stroke/SE numerically higher** (3.2% vs 2.2%). **CLOSURE-AF (2026)** (HBR or OAC-contraindicated patients vs physician-directed best medical care, mostly DOAC): **LAAO failed noninferiority** for the net composite.
 
 - **Guideline (2023 ACC/AHA/HRS AF):** LAAO **2a** for moderate–high stroke risk with a contraindication to long-term OAC from a non-reversible cause; **2b** for high bleeding risk or patient preference.
 
 - **FDA label:** CHA₂DS₂-VASc high enough for OAC with an appropriate rationale to seek a non-drug alternative. **Post-Watchman FLX regimen:** OAC + aspirin for 45 d (or DAPT from the start), imaging (TEE/CT), DAPT to 6 mo, then aspirin. Amulet: DAPT.
 
-- **Complications:** pericardial effusion needing intervention ~0.5–1%, device embolization <0.5%, procedural stroke. ICE-guided procedures avoid TEE and general anesthesia. - **Device-related thrombus (2–4%):** ↑ stroke 3–5×. Can occur anytime (mostly early). Risk: hypercoagulable state, pericardial effusion, CKD, **deep implant (>10 mm below the pulmonary ridge) **, permanent AF, low EF, large LAA.
+- **Complications:** pericardial effusion needing intervention ~0.5–1%, device embolization <0.5%, procedural stroke. ICE-guided procedures avoid TEE and general anesthesia. - **Device-related thrombus (2–4%):** ↑ stroke 3–5×. Can occur anytime (mostly early). Risk: hypercoagulable state, pericardial effusion, CKD, **deep implant (>10 mm below the pulmonary ridge)**, permanent AF, low EF, large LAA.
 
 Treat with OAC; recurrence common.
 
@@ -1952,7 +1952,7 @@ SAM-related MR (posteriorly directed) improves with phenylephrine. Anterior or c
 
 **2024 AHA/ACC HCM guideline:**
 
-- Non-vasodilating BB first, then non-DHP CCB (avoid verapamil with severe gradients or hypotension). If still symptomatic: **myosin inhibitor** (mavacamten; **aficamten FDA Dec 2025 **; REMS/echo monitoring), **disopyramide **, or **SRT** at an experienced center (Class 1).
+- Non-vasodilating BB first, then non-DHP CCB (avoid verapamil with severe gradients or hypotension). If still symptomatic: **myosin inhibitor** (mavacamten; **aficamten FDA Dec 2025**; REMS/echo monitoring), **disopyramide**, or **SRT** at an experienced center (Class 1).
 
 - VALOR-HCM: mavacamten ↓ SRT eligibility. MAPLEHCM: aficamten > metoprolol.
 
@@ -1960,7 +1960,7 @@ SAM-related MR (posteriorly directed) improves with phenylephrine. Anterior or c
 
 **Myectomy vs ASA:**
 
-- **Myectomy preferred** with concomitant surgical disease (intrinsic MV or papillary muscle anomalies, CAD, other valve disease), **septum >30 mm **, and in young patients.
+- **Myectomy preferred** with concomitant surgical disease (intrinsic MV or papillary muscle anomalies, CAD, other valve disease), **septum >30 mm**, and in young patients.
 
 - **ASA** if surgery is contraindicated or high risk, or by informed patient preference.
 
@@ -1994,23 +1994,23 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **Closure indications:** RA/RV enlargement or Qp:Qs ≥1.5 with net left-to-right shunt and no cyanosis.
 
-   - **2025 ACHD:** PVR ≤2 WU → closure; 2–<5 WU → consider in expert centers; high PVR/Eisenmenger → no closure.
+ - **2025 ACHD:** PVR ≤2 WU → closure; 2–<5 WU → consider in expert centers; high PVR/Eisenmenger → no closure.
 
-   - Small ASD (<1 cm, Qp:Qs <1.5, no RV enlargement) → no closure.
+ - Small ASD (<1 cm, Qp:Qs <1.5, no RV enlargement) → no closure.
 
 - **LV diastolic dysfunction** (older, HFpEF): test balloon occlusion. Marked LAP rise → fenestrated device or no closure (the ASD is a pop-off).
 
 - **Complications:**
 
-   - AF (early ~3%, late more)
+ - AF (early ~3%, late more)
 
-   - Air embolism (keep hub low; hydrate)
+ - Air embolism (keep hub low; hydrate)
 
-   - Embolization
+ - Embolization
 
-   - **Erosion** (Amplatzer ~0.1–0.3%; oversizing, deficient aortic rim)
+ - **Erosion** (Amplatzer ~0.1–0.3%; oversizing, deficient aortic rim)
 
-   - Tamponade, device thrombus
+ - Tamponade, device thrombus
 
 - **After closure:** aspirin ± clopidogrel and endocarditis prophylaxis for 6 mo.
 
@@ -2020,17 +2020,17 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **RESPECT, CLOSE, REDUCE, DEFENSE-PFO:** closure ↓ recurrent stroke in **age 18–60 with embolic-appearing (cryptogenic) stroke** after full work-up (MRI, vessel imaging, TEE, ≥30-d rhythm monitoring, hypercoagulable/VTE testing as indicated).
 
-- Greatest benefit with **atrial septal aneurysm or large shunt **, high RoPE (≥7), and PASCAL “probable/highly likely.”
+- Greatest benefit with **atrial septal aneurysm or large shunt**, high RoPE (≥7), and PASCAL “probable/highly likely.”
 
 - SCAI 2022 guideline: case-by-case above 60.
 
-- Device-related AF is mostly early and transient. Poor Valsalva under sedation can miss a shunt on TEE. **Non-stroke indications: platypnea-orthodeoxia** (dyspnea/desaturation **upright **, relieved supine); decompression illness in divers; paradoxical systemic embolism. Migraine is not an indication (PREMIUM, PRIMA).
+- Device-related AF is mostly early and transient. Poor Valsalva under sedation can miss a shunt on TEE. **Non-stroke indications: platypnea-orthodeoxia** (dyspnea/desaturation **upright**, relieved supine); decompression illness in divers; paradoxical systemic embolism. Migraine is not an indication (PREMIUM, PRIMA).
 
 ### Ventricular septal defect
 
 - **Closure:** Qp:Qs ≥1.5 with LV volume overload and PASP <50% systemic / PVR <⅓ systemic; prior endocarditis; residual post-surgical defect.
 
-- Perimembranous device closure risks **CHB **. Muscular defects are device-friendly.
+- Perimembranous device closure risks **CHB**. Muscular defects are device-friendly.
 
 - Post-MI VSR → surgery (device for residual or bridging). Long-standing VSD → RV overload/PH; step-up at the RV level.
 
@@ -2042,23 +2042,23 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 **Balloon valvuloplasty** for symptomatic moderate–severe or asymptomatic severe **domed** PS. Dysplastic valve (Noonan), sub/supravalvular stenosis, hypoplastic annulus or severe PR → surgery. **Complications:**
 
-   - PR
+ - PR
 
-   - Ectopy, RBBB/AVB
+ - Ectopy, RBBB/AVB
 
-   - Perforation
+ - Perforation
 
-   - **“Suicide RV”** (dynamic infundibular obstruction after relief): IV fluids + BB; avoid inotropes
+ - **“Suicide RV”** (dynamic infundibular obstruction after relief): IV fluids + BB; avoid inotropes
 
 - **Repaired ToF** (PR → RV dilation → dysfunction/VT): **PVR (surgical or transcatheter)** for symptomatic ≥moderate PR.
 
-   - Asymptomatic: RV dilation ( **RVESVi >80 mL/m²** emphasized in 2025 ACHD; RVEDVi ≥160, RV:LV EDV ≥2), RV/LV dysfunction, RVOT obstruction (RVSP ≥⅔ systemic), progressive exercise intolerance, sustained arrhythmia.
+ - Asymptomatic: RV dilation ( **RVESVi >80 mL/m²** emphasized in 2025 ACHD; RVEDVi ≥160, RV:LV EDV ≥2), RV/LV dysfunction, RVOT obstruction (RVSP ≥⅔ systemic), progressive exercise intolerance, sustained arrhythmia.
 
 - **TPVR:** Melody and SAPIEN (conduits/bioprostheses); Harmony and Alterra (native/patched RVOT). **Before TPVR: coronary compression testing** (balloon in RVOT with simultaneous coronary angiography; anomalous coronaries are common in ToF). Stent the conduit first to prevent fracture. Watch for aortic root compression.
 
 ### Coarctation of the aorta
 
-- **Associations: 50–75% of CoA patients have BAV **; Turner syndrome (~12–15%); Shone complex (supramitral ring, parachute MV, subaortic stenosis, CoA); intracranial aneurysm (~10%, screen).
+- **Associations: 50–75% of CoA patients have BAV**; Turner syndrome (~12–15%); Shone complex (supramitral ring, parachute MV, subaortic stenosis, CoA); intracranial aneurysm (~10%, screen).
 
 - **Findings:** upper-extremity HTN; arm–leg BP gradient; radio-femoral delay; interscapular murmur; rib notching and “3 sign”; diastolic runoff (continuous forward flow) in the descending/abdominal aorta.
 
@@ -2066,7 +2066,7 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **Intervention** (with HTN): peak-to-peak gradient ≥20 mmHg, or <20 mmHg with significant anatomic narrowing plus collaterals, LV dysfunction or AR. **Stenting (covered stent preferred in adults:** COAST/COAST II) beats balloon alone (aneurysm, restenosis).
 
-   - Balloon should not exceed the diameter of the adjacent normal aorta (at the diaphragm). Stent should be expandable to adult size (≥20 mm). Staged re-dilation for severe lesions.
+ - Balloon should not exceed the diameter of the adjacent normal aorta (at the diaphragm). Stent should be expandable to adult size (≥20 mm). Staged re-dilation for severe lesions.
 
 - **Complications:** dissection/rupture (have covered stents ready), aneurysm, stent migration, femoral access injury.
 
@@ -2086,9 +2086,9 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **Tamponade:** equalized diastolic pressures (RA ≈ RVEDP ≈ PCWP), pulsus paradoxus >10 mmHg, blunted y descent. **Constriction vs restriction**
 
-   - Both: dip-and-plateau, equalization within 5 mmHg, Kussmaul sign.
+ - Both: dip-and-plateau, equalization within 5 mmHg, Kussmaul sign.
 
-   - **Constriction-specific: ventricular interdependence **, meaning discordant RV/LV systolic pressures with respiration (inspiration: RV ↑, LV ↓); **systolic area index >1.1 **; RVEDP/RVSP >⅓. **Restriction:** concordant pressures; PASP >55–60; LVEDP − RVEDP >5.
+ - **Constriction-specific: ventricular interdependence**, meaning discordant RV/LV systolic pressures with respiration (inspiration: RV ↑, LV ↓); **systolic area index >1.1**; RVEDP/RVSP >⅓. **Restriction:** concordant pressures; PASP >55–60; LVEDP − RVEDP >5.
 
 - **Severe MR:** giant v wave on PCWP/LA. After PMBC, a new tall v wave = iatrogenic MR.
 
@@ -2102,29 +2102,29 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **Rate:** ~30–45 mL at 10–15 mL/s via pigtail. Use <10 mL/s via end-hole catheters.
 
-   - **Avoid or reduce with:** LVEDP/PCWP ≥25 (pulmonary edema; pretreat NTG/nitroprusside), critical LM, severe AS, LV thrombus.
+ - **Avoid or reduce with:** LVEDP/PCWP ≥25 (pulmonary edema; pretreat NTG/nitroprusside), critical LM, severe AS, LV thrombus.
 
-   - **Pigtail position:** avoid entrapment in trabeculae (staining, VT). Warning signs: close to inferior wall, loop distorts in systole, pigtail unfurls on withdrawal. RV angiography always causes ectopy.
+ - **Pigtail position:** avoid entrapment in trabeculae (staining, VT). Warning signs: close to inferior wall, loop distorts in systole, pigtail unfurls on withdrawal. RV angiography always causes ectopy.
 
 - **Catheter selection**
 
-   - **Left-sided SVGs:** JR4, LCB, AL1 (upward take-off: LCB, hockey stick).
+ - **Left-sided SVGs:** JR4, LCB, AL1 (upward take-off: LCB, hockey stick).
 
-   - **Right-sided SVGs** (downward): MP, JR4, RCB.
+ - **Right-sided SVGs** (downward): MP, JR4, RCB.
 
-   - **LIMA:** IMA or JR4 from the vertical subclavian (Bernstein/vertebral to enter the subclavian).
+ - **LIMA:** IMA or JR4 from the vertical subclavian (Bernstein/vertebral to enter the subclavian).
 
-   - **RCA:** anterior or high take-off → AR, hockey stick, AL. Inferior/vertical → MP. Superior course → IM, hockey stick.
+ - **RCA:** anterior or high take-off → AR, hockey stick, AL. Inferior/vertical → MP. Superior course → IM, hockey stick.
 
-   - **LCA:** dilated root → JL5/JL6; small root → JL3–3.5.
+ - **LCA:** dilated root → JL5/JL6; small root → JL3–3.5.
 
-   - **Post-TAVR:** Evolut → JL3.5 / JR4 through frame cells ± guide extension. SAPIEN → JL4 or EBU 3.5–3.75, JR4. **Guide-extension or deep-engagement dissection:** Amplatz + RCA is the classic culprit.
+ - **Post-TAVR:** Evolut → JL3.5 / JR4 through frame cells ± guide extension. SAPIEN → JL4 or EBU 3.5–3.75, JR4. **Guide-extension or deep-engagement dissection:** Amplatz + RCA is the classic culprit.
 
 - **Anatomy and venous pearls**
 
-   - **CFA bifurcation** is below the femoral head in ~65% and below its center in ~95%.
+ - **CFA bifurcation** is below the femoral head in ~65% and below its center in ~95%.
 
-   - **Persistent left SVC** drains to a dilated coronary sinus behind the LA. Coronary sinus diverticula are linked to accessory pathways and SCD.
+ - **Persistent left SVC** drains to a dilated coronary sinus behind the LA. Coronary sinus diverticula are linked to accessory pathways and SCD.
 
 - **Azygos** runs posteriorly along the spine. **Scimitar:** anomalous right PV to IVC. A Swan catheter outside the cardiac border may be in an anomalous vein.
 
@@ -2136,9 +2136,9 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **Periprocedural:**
 
-   - NPO ~2 h clears / 6 h solids for sedation (not in emergencies).
+ - NPO ~2 h clears / 6 h solids for sedation (not in emergencies).
 
-   - Pregnancy test in women of child-bearing potential. Half-dose basal insulin the night before; hold oral agents the morning of; early case slot.
+ - Pregnancy test in women of child-bearing potential. Half-dose basal insulin the night before; hold oral agents the morning of; early case slot.
 
 - **Repaired CHD** (root or coronary manipulation, e.g., arterial switch) with angina → coronary evaluation (CCTA or angiography).
 
@@ -2164,23 +2164,23 @@ Baseline LBBB or 1st-degree AVB markedly ↑ CHB risk; favor myectomy or plan PP
 
 - **Example** (sensitivity 90%, specificity 90%, n = 1000):
 
-   - Prevalence 10%: PPV 50%, NPV 99% (a positive test is unhelpful; a negative rules out). Prevalence 90%: PPV 99%, NPV 50%.
+ - Prevalence 10%: PPV 50%, NPV 99% (a positive test is unhelpful; a negative rules out). Prevalence 90%: PPV 99%, NPV 50%.
 
-   - Prevalence 50%: PPV = NPV = 90%.
+ - Prevalence 50%: PPV = NPV = 90%.
 
-- Testing is most useful at **intermediate pretest probability **. Pretest probability (history, exam, ECG) is the most important input.
+- Testing is most useful at **intermediate pretest probability**. Pretest probability (history, exam, ECG) is the most important input.
 
 - **Verification bias:** short follow-up misclassifies false negatives as true negatives and inflates apparent NPV.
 
 ### Effect measures
 
-   - **RR** = risk in treated / risk in control. **RRR** = 1 − RR. **ARR** = risk(control) − risk(treated). **NNT** = 1/ARR. **Lytics example:** mortality 11.6% → 8.7%. ARR 2.9%, RRR 25%, NNT ≈ 34 (29 lives per 1000).
+ - **RR** = risk in treated / risk in control. **RRR** = 1 − RR. **ARR** = risk(control) − risk(treated). **NNT** = 1/ARR. **Lytics example:** mortality 11.6% → 8.7%. ARR 2.9%, RRR 25%, NNT ≈ 34 (29 lives per 1000).
 
-   - **GLOBAL LEADERS example:** 3.8% vs 4.4%. RR 0.87, RRR 13%, ARR 0.6%, NNT ≈ 167 (not significant).
+ - **GLOBAL LEADERS example:** 3.8% vs 4.4%. RR 0.87, RRR 13%, ARR 0.6%, NNT ≈ 167 (not significant).
 
-   - **Odds ratio** = odds(treated) / odds(control). Approximates RR only when events are rare. Used in case-control designs.
+ - **Odds ratio** = odds(treated) / odds(control). Approximates RR only when events are rare. Used in case-control designs.
 
-   - **Hazard ratio:** time-to-event (Cox). **Win ratio:** hierarchical composite ranking of pairs, prioritizing death (e.g., CHIPBCIS3).
+ - **Hazard ratio:** time-to-event (Cox). **Win ratio:** hierarchical composite ranking of pairs, prioritizing death (e.g., CHIPBCIS3).
 
 ### Inference and design
 
