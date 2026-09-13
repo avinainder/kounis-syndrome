@@ -7,36 +7,35 @@ proportion to what the exam tests).
 
 ## 1. What the exam tests (ABIM Interventional Cardiology Certification)
 
-Current blueprint (nine categories). Source: the official blueprint PDF,
-https://www.abim.org/media/apib3eza/interventional-cardiology-cert.pdf (verify there; the
-percentages below were read from search-engine extracts of that PDF because the ABIM site is not
-reachable from the sandbox that built this file).
+Blueprint effective January 2026 (from the official blueprint PDF and exam page, captured Sept 2026).
 
-| Category | Weight | What it really means |
-|---|---|---|
-| Case selection and management | 20% | Who to treat, how, and when: STEMI/NSTE-ACS pathways, stable CAD, LM/MVD, shock, structural indications |
-| Procedural techniques | 20% | Access, guides, wires, bifurcation, CTO, calcium, SVG, imaging-guided optimization |
-| Catheter-based management of noncoronary disease | 13% | Structural (TAVR, TEER, BMV, PFO/ASD, LAAO, ASA), peripheral, carotid, renal, PE |
-| Pharmacology | 12% | Antiplatelets, anticoagulants, GPI, vasodilators, contrast, sedation, reversal agents |
-| Cardiac imaging and assessment | 9% | Angiographic views, IVUS/OCT/NIRS, physiology (FFR/iFR/CFR/IMR), CT for structural planning, echo/TEE guidance |
-| Complications of coronary intervention | 8% | Perforation, dissection, no-reflow, stent thrombosis, access complications, retrieval |
-| Basic science | 6% | Coronary physiology, plaque biology, restenosis/thrombosis biology, device engineering, hemodynamic calculations |
-| Anatomy, anatomic variants, anatomic pathology | 6% | Coronary anatomy and anomalies, graft anatomy, arch/access anatomy, shunts |
-| Miscellaneous | 6% | Radiation safety, statistics/trial design, ethics, quality (NCDR, AUC), consent |
+| Category | Weight | Subcategories | Where to study |
+|---|---|---|---|
+| Case selection and management | 20% | Chronic ischemic heart disease 6%; UA/NSTEMI 4%; STEMI 6%; STEMI complications 4% | Note 06, Note 04 (mechanical complications), Review §7–8 |
+| Procedural techniques | 20% | Planning and execution 5%; lesion subsets 6%; selection and use of equipment 6%; technical troubleshooting 3% | Note 06, Note 01 (imaging-guided optimization), Review §7, §9 |
+| Catheter-based management of noncoronary disease | 13% | Structural and valvular case selection 6%; noncardiac vascular 5%; hemodynamics 2% | Notes 05, 07, 04; Review §11–13 |
+| Pharmacology | 12% | General 3%; IV antiplatelets 2%; oral antiplatelets 2%; IV anticoagulants 2%; oral anticoagulants <2%; contrast 2% | Note 02, Review §1, §3 |
+| Cardiac imaging and assessment | 9% | Diagnostic coronary imaging 5%; general tests 2%; x-ray radiography 2% | Note 01, Note 07 (radiation), Review §6, §2 |
+| Complications of coronary intervention | 8% | Cardiac 5%; noncardiac 3% | Note 03, Review §10, §4 |
+| Basic science | 6% | Vascular biology 4%; physiology 2% | Review §5, Note 01 |
+| Anatomy, variants, pathology | 6% | Cardiac 5%; extracardiac <2% | Note 01 (anatomy section), Review §5 (anomalies), §13 (catheter selection, venous anatomy) |
+| Miscellaneous | 6% | Procedure-related data 3%; quality and appropriateness 2%; ethical/legal <2% | Note 07 (statistics, quality), Review §14, §7 (AUC, NCDR) |
 
-Practical reading of the weights: coronary decision-making plus technique is 40%, structural and
-peripheral together are 13% (larger than most candidates expect), and complications, pharmacology
-and imaging/physiology together are another 29%. Basic science, anatomy and miscellaneous are small
-individually but are where "free points" live because the facts are finite.
+How to read it: coronary content (case selection + technique + complications) is 48% of the exam.
+Structural and valvular case selection is only 6% and hemodynamics 2%, so a structural fellow
+should bank those points quickly and spend the marginal hour on coronary decision-making. Basic
+science, anatomy and miscellaneous are 18% combined, are finite, and are the cheapest points on
+the exam.
 
-Exam format: about 10 hours in one day, four sessions of up to 60 single-best-answer questions each
-(maximum 240 questions), with optional breaks between sessions. Many stems carry cine angiograms,
-IVUS/OCT frames, hemodynamic tracings or ECGs, so the media questions test recognition (dissection
-grade, perforation class, tracing patterns); drill images deliberately.
+**Format.** Up to 220 single-best-answer questions, about 35 of them unscored pretest items, in four
+sessions across roughly a 10-hour day. Media (cine, IVUS/OCT, tracings, ECG) is common. Pacing:
+about 55 questions per 2-hour session leaves ~2 minutes per question; flag and move.
 
-Registration deadlines are enforced without exception and seats at Pearson VUE are first come,
-first served, so register on the day the window opens. Current dates:
-https://www.abim.org/certification/exam-information/interventional-cardiology
+**2026 administration.** Exam Oct 6, 2026 (accommodation window Oct 26–30). Registration closed
+Jun 28, 2026. Fee $2,995; late fee $400; international center $500. Training, including vacation,
+must be complete by Oct 31, 2026. Cancellation refunds: 70% if ≥2 days before, 55% after that, 85%
+if the application is disapproved; no-shows forfeit the fee; cancel only in the Physician Portal.
+**2027 administration.** Exam Oct 14, 2027; registration Dec 1, 2026 – Jun 15, 2027; late Jun 16–28.
 
 ## 2. How this folder is organized
 
@@ -58,32 +57,53 @@ boards/
     08-landmark-trials-one-liners.md
 ```
 
-## 3. The 12-week plan
+## 3. The plan
 
-Assumes ~10–12 focused hours per week. Compress to 8 weeks by merging weeks 9–12 into 2.
-Each week: read the note, do the tagged questions in the quiz, and log misses in
-`progress.md`. Every miss becomes a one-line "rule" in your own words.
+### 3a. 23-day sprint for the Oct 6, 2026 exam (Sept 13 → Oct 6)
+
+Assumes 2–3 focused hours on weekdays and 5–6 on weekend days. Every day: questions first, reading
+second, and 20 minutes turning misses into one-line rules in `progress.md`. Use the quiz in
+"Due for review" mode so misses cycle back at 1, 3 and 7 days.
+
+| Dates | Block (blueprint share) | Read | Questions |
+|---|---|---|---|
+| Sep 13–14 (Sun–Mon) | Diagnostic: 80 mixed questions cold; read the review's "What changed" table twice | Review pp 1–3 | All domains, 80 |
+| Sep 15–17 | Case selection (20%): chronic IHD, NSTE-ACS timing, STEMI reperfusion, STEMI complications | Note 06; Review §7–8 | case-selection, hemodynamics |
+| Sep 18–20 | Procedural technique (20%): bifurcation, CTO, calcium, SVG, ISR, equipment, troubleshooting | Note 06 (technique half); Review §9 | technique |
+| Sep 21 (Sun) | Complications (8%) + long mixed block | Note 03; Review §10, §4 | complications + 60 mixed |
+| Sep 22–23 | Pharmacology (12%): every table in Note 02 from memory; contrast; sedation; reversal | Note 02; Review §1, §3 | pharmacology |
+| Sep 24–25 | Imaging and physiology (9%) + radiation (part of imaging): FFR pitfalls, IVUS/OCT, views | Note 01; Note 07 radiation; Review §6, §2 | physiology, imaging, radiation |
+| Sep 26–27 | Noncoronary (13%): structural case selection, peripheral/carotid/renal/PE, hemodynamic calculations | Notes 05, 07, 04; Review §11–13 | structural, peripheral, hemodynamics |
+| Sep 28 (Mon) | Basic science + anatomy (12%): plaque biology, remodeling, MI definitions, anomalies, catheter selection, venous anatomy | Review §5, §13; Note 01 anatomy | physiology, imaging |
+| Sep 29–30 | Miscellaneous (6%): statistics, AUC, NCDR, ethics; then weakest two domains from progress.md | Note 07; Review §14 | statistics + weakest domains |
+| Oct 1–3 | Full mixed sets (60/day), leeches only on Oct 3; tracing and angiographic classification drill (NHLBI, Ellis, Medina, Rentrop, TIMI) | progress.md rules list | all, then leeches |
+| Oct 4 (Sun) | Timed simulation: two 55-question sessions with a break, exam pacing | none | random, 110 |
+| Oct 5 | Rules list only, 60 minutes. Confirm Pearson VUE appointment, ID, route. Sleep. | progress.md | none |
+| Oct 6 | Exam | | |
+
+Rules of the sprint: no new sources after Sep 28; the review document and these notes are the
+whole universe. Anything you miss twice becomes a written rule. Do not reread chapters; re-answer
+questions.
+
+### 3b. 12-week plan for a 2027 sitting (or for a later start)
 
 | Week | Focus | Note(s) | Quiz filter |
 |---|---|---|---|
 | 1 | Coronary physiology, IVUS/OCT | 01 | physiology, imaging |
 | 2 | Antithrombotics, contrast, vasoactive drugs | 02 | pharmacology |
-| 3 | Complications: perforation, dissection, no-reflow, access | 03 | complications, access |
-| 4 | Hemodynamics, shunts, valve math, shock, MCS | 04 | hemodynamics, shock |
+| 3 | Complications: perforation, dissection, no-reflow, access | 03 | complications |
+| 4 | Hemodynamics, shunts, valve math, shock, MCS | 04 | hemodynamics |
 | 5 | Noncoronary I: TAVR, TEER, BMV, PFO/ASD, LAAO, ASA | 05 | structural |
 | 6 | ACS pathways, stable CAD, LM/MVD decisions | 06 | case-selection |
 | 7 | Bifurcation, CTO, calcium, SVG, ISR, thrombus | 06 | technique |
 | 8 | Noncoronary II: peripheral, carotid, renal, PE; radiation, stats | 07 | peripheral, radiation, statistics |
 | 9 | Landmark trials sweep; full mixed quiz #1 | 08 | all |
 | 10 | Weak-domain rebuild (from progress.md) | as needed | weakest 2 domains |
-| 11 | Full mixed quiz #2 + media drill (tracings, angio classifications) | 01, 03, 04 | all |
-| 12 | Taper: only "leech" cards (missed ≥2x), rules list, sleep | progress.md | leeches |
+| 11 | Full mixed quiz #2 + media drill | 01, 03, 04 | all |
+| 12 | Taper: leeches only, rules list, sleep | progress.md | leeches |
 
-Weekly rhythm that works for residents/fellows on service:
-- **Mon/Wed/Fri (45 min):** 20–25 questions in the quiz, explanations read closely, misses logged.
-- **Tue/Thu (45 min):** read the week's note actively (cover-and-recall, not highlighting).
-- **Sat (2–3 h):** long block of mixed questions + write your rules list.
-- **Sun:** off, or 15 minutes of leech cards only.
+Weekly rhythm for the long plan: Mon/Wed/Fri 20–25 questions; Tue/Thu active reading; Sat a
+2–3 h mixed block plus rules; Sun off or 15 minutes of leeches.
 
 ## 4. How I will work with you
 
@@ -111,9 +131,9 @@ Use one question bank in parallel (SCAI / ACC IC SAP, or a commercial IC bank). 
 question there surprises you, add it to `questions.js` in your own words. Building the bank
 is itself the best study.
 
-## 7. First assignment
+## 7. First assignment (today)
 
-1. Open `quiz.html`, choose **All domains**, and do 40 questions cold as a diagnostic.
-2. Record the per-domain score it shows into `progress.md` under "Diagnostic".
-3. Tell me your exam date, your weakest two domains from the diagnostic, and how many
-   hours per week you can protect. I will then rebuild the 12-week plan around you.
+1. Open `quiz.html`, choose **All domains**, count 80, and do them cold as a diagnostic.
+2. Copy the per-domain table into `progress.md` under "Diagnostic".
+3. Send me the table and your eight diagnostic answers from the chat. I will mark the weakest
+   two domains and adjust the Sep 29–30 block.
