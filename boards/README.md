@@ -42,6 +42,7 @@ if the application is disapproved; no-shows forfeit the fee; cancel only in the 
 ```
 boards/
   README.md          <- this plan
+  blueprint.md       <- the official Jan 2026 blueprint as a tick-box topic checklist
   progress.md        <- your log; I read this at the start of every session
   quiz.html          <- open in any browser; spaced-repetition question bank (no server needed)
   questions.js       <- the question bank (add questions here; the quiz loads it)
@@ -55,6 +56,7 @@ boards/
     06-lesion-subsets-and-revascularization-strategy.md
     07-peripheral-radiation-and-statistics.md
     08-landmark-trials-one-liners.md
+    09-blueprint-gap-topics.md     <- perioperative evaluation, local anesthetics, contrast physics, imaging chain, cost-effectiveness, device surveillance, consent/documentation, aortic disease
 ```
 
 ## 3. The plan
@@ -74,9 +76,9 @@ second, and 20 minutes turning misses into one-line rules in `progress.md`. Use 
 | Sep 22–23 | Pharmacology (12%): every table in Note 02 from memory; contrast; sedation; reversal | Note 02; Review §1, §3 | pharmacology |
 | Sep 24–25 | Imaging and physiology (9%) + radiation (part of imaging): FFR pitfalls, IVUS/OCT, views | Note 01; Note 07 radiation; Review §6, §2 | physiology, imaging, radiation |
 | Sep 26–27 | Noncoronary (13%): structural case selection, peripheral/carotid/renal/PE, hemodynamic calculations | Notes 05, 07, 04; Review §11–13 | structural, peripheral, hemodynamics |
-| Sep 28 (Mon) | Basic science + anatomy (12%): plaque biology, remodeling, MI definitions, anomalies, catheter selection, venous anatomy | Review §5, §13; Note 01 anatomy | physiology, imaging |
-| Sep 29–30 | Miscellaneous (6%): statistics, AUC, NCDR, ethics; then weakest two domains from progress.md | Note 07; Review §14 | statistics + weakest domains |
-| Oct 1–3 | Full mixed sets (60/day), leeches only on Oct 3; tracing and angiographic classification drill (NHLBI, Ellis, Medina, Rentrop, TIMI) | progress.md rules list | all, then leeches |
+| Sep 28 (Mon) | Basic science + anatomy (12%): plaque biology, remodeling, MI definitions, anomalies, catheter selection, venous anatomy | Review §5, §13; Note 01 anatomy; Note 09 basic-science section | physiology, anatomy |
+| Sep 29–30 | Miscellaneous (6%) and blueprint gap topics: statistics, cost-effectiveness, AUC, NCDR, device reporting, consent, perioperative evaluation, local anesthetics; then weakest two domains from progress.md | Note 09; Note 07; Review §14 | statistics + weakest domains |
+| Oct 1–3 | Full mixed sets (60/day), leeches only on Oct 3; walk `blueprint.md` and tick every topic you can answer cold, then read only the unticked ones; tracing and angiographic classification drill (NHLBI, Ellis, Medina, Rentrop, TIMI) | progress.md rules list | all, then leeches |
 | Oct 4 (Sun) | Timed simulation: two 55-question sessions with a break, exam pacing | none | random, 110 |
 | Oct 5 | Rules list only, 60 minutes. Confirm Pearson VUE appointment, ID, route. Sleep. | progress.md | none |
 | Oct 6 | Exam | | |
