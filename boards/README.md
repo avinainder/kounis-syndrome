@@ -7,21 +7,36 @@ proportion to what the exam tests).
 
 ## 1. What the exam tests (ABIM Interventional Cardiology Certification)
 
-Approximate content weighting. Verify against the official blueprint PDF:
-https://www.abim.org/media/apib3eza/interventional-cardiology-cert.pdf
+Current blueprint (nine categories). Source: the official blueprint PDF,
+https://www.abim.org/media/apib3eza/interventional-cardiology-cert.pdf (verify there; the
+percentages below were read from search-engine extracts of that PDF because the ABIM site is not
+reachable from the sandbox that built this file).
 
-| Domain | Approx. weight | What it really means |
+| Category | Weight | What it really means |
 |---|---|---|
-| Case selection & management | ~25% | Who to treat, how, and when: STEMI/NSTE-ACS pathways, stable CAD, LM/MVD, shock, structural indications |
-| Procedural techniques | ~25% | Access, guides, wires, bifurcation, CTO, calcium, SVG, complications and bailouts |
-| Basic science | ~15% | Coronary physiology (FFR/iFR/CFR/IMR), hemodynamics, shunts, valve math, restenosis/thrombosis biology, device engineering |
-| Pharmacology | ~15% | Antiplatelets, anticoagulants, GPI, vasodilators, contrast, sedation, reversal agents, drug interactions |
-| Imaging | ~15% | Angiographic views/anatomy, IVUS, OCT, NIRS, CT for structural planning, echo/TEE guidance |
-| Miscellaneous | ~5% | Radiation safety, statistics/trial design, ethics, quality (NCDR, AUC), consent |
+| Case selection and management | 20% | Who to treat, how, and when: STEMI/NSTE-ACS pathways, stable CAD, LM/MVD, shock, structural indications |
+| Procedural techniques | 20% | Access, guides, wires, bifurcation, CTO, calcium, SVG, imaging-guided optimization |
+| Catheter-based management of noncoronary disease | 13% | Structural (TAVR, TEER, BMV, PFO/ASD, LAAO, ASA), peripheral, carotid, renal, PE |
+| Pharmacology | 12% | Antiplatelets, anticoagulants, GPI, vasodilators, contrast, sedation, reversal agents |
+| Cardiac imaging and assessment | 9% | Angiographic views, IVUS/OCT/NIRS, physiology (FFR/iFR/CFR/IMR), CT for structural planning, echo/TEE guidance |
+| Complications of coronary intervention | 8% | Perforation, dissection, no-reflow, stent thrombosis, access complications, retrieval |
+| Basic science | 6% | Coronary physiology, plaque biology, restenosis/thrombosis biology, device engineering, hemodynamic calculations |
+| Anatomy, anatomic variants, anatomic pathology | 6% | Coronary anatomy and anomalies, graft anatomy, arch/access anatomy, shunts |
+| Miscellaneous | 6% | Radiation safety, statistics/trial design, ethics, quality (NCDR, AUC), consent |
 
-Exam format: one day, multiple sessions of single-best-answer questions, many with cine
-angiograms, IVUS/OCT frames, hemodynamic tracings, and ECGs. Expect the media questions to be
-about **recognition** (dissection grade, perforation class, tracing patterns), so drill images.
+Practical reading of the weights: coronary decision-making plus technique is 40%, structural and
+peripheral together are 13% (larger than most candidates expect), and complications, pharmacology
+and imaging/physiology together are another 29%. Basic science, anatomy and miscellaneous are small
+individually but are where "free points" live because the facts are finite.
+
+Exam format: about 10 hours in one day, four sessions of up to 60 single-best-answer questions each
+(maximum 240 questions), with optional breaks between sessions. Many stems carry cine angiograms,
+IVUS/OCT frames, hemodynamic tracings or ECGs, so the media questions test recognition (dissection
+grade, perforation class, tracing patterns); drill images deliberately.
+
+Registration deadlines are enforced without exception and seats at Pearson VUE are first come,
+first served, so register on the day the window opens. Current dates:
+https://www.abim.org/certification/exam-information/interventional-cardiology
 
 ## 2. How this folder is organized
 
@@ -32,6 +47,7 @@ boards/
   quiz.html          <- open in any browser; spaced-repetition question bank (no server needed)
   questions.js       <- the question bank (add questions here; the quiz loads it)
   notes/
+    00-high-yield-review-2026.md   <- your 33-page review, converted and cleaned (read this first)
     01-coronary-physiology-and-intravascular-imaging.md
     02-pharmacology.md
     03-complications-and-vascular-access.md
@@ -54,10 +70,10 @@ Each week: read the note, do the tagged questions in the quiz, and log misses in
 | 2 | Antithrombotics, contrast, vasoactive drugs | 02 | pharmacology |
 | 3 | Complications: perforation, dissection, no-reflow, access | 03 | complications, access |
 | 4 | Hemodynamics, shunts, valve math, shock, MCS | 04 | hemodynamics, shock |
-| 5 | Structural: TAVR, TEER, BMV, PFO/ASD, LAAO, ASA | 05 | structural |
+| 5 | Noncoronary I: TAVR, TEER, BMV, PFO/ASD, LAAO, ASA | 05 | structural |
 | 6 | ACS pathways, stable CAD, LM/MVD decisions | 06 | case-selection |
 | 7 | Bifurcation, CTO, calcium, SVG, ISR, thrombus | 06 | technique |
-| 8 | Peripheral, carotid, PE, radiation, stats | 07 | peripheral, radiation, statistics |
+| 8 | Noncoronary II: peripheral, carotid, renal, PE; radiation, stats | 07 | peripheral, radiation, statistics |
 | 9 | Landmark trials sweep; full mixed quiz #1 | 08 | all |
 | 10 | Weak-domain rebuild (from progress.md) | as needed | weakest 2 domains |
 | 11 | Full mixed quiz #2 + media drill (tracings, angio classifications) | 01, 03, 04 | all |
