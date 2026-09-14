@@ -45,6 +45,8 @@ boards/
   blueprint.md       <- the official Jan 2026 blueprint as a tick-box topic checklist
   progress.md        <- your log; I read this at the start of every session
   quiz.html          <- open in any browser; spaced-repetition question bank (no server needed)
+                        hosted copy: https://claude.ai/code/artifact/f9fb5471-06b3-4cd3-b478-5fc3c1a09298
+                        (append ?mode=diagnostic for the 80-question cold start)
   questions.js       <- the question bank (add questions here; the quiz loads it)
   notes/
     00-high-yield-review-2026.md   <- your 33-page review, converted and cleaned (read this first)
@@ -64,7 +66,8 @@ boards/
 ### 3a. 23-day sprint for the Oct 6, 2026 exam (Sept 13 → Oct 6)
 
 Assumes 2–3 focused hours on weekdays and 5–6 on weekend days. Every day: questions first, reading
-second, and 20 minutes turning misses into one-line rules in `progress.md`. Use the quiz in
+second, and 20 minutes turning misses into one-line rules in `progress.md`. Emails: six questions
+at 5:30 AM Eastern, answers at 5:45 AM; reply with the block-report form. Use the quiz in
 "Due for review" mode so misses cycle back at 1, 3 and 7 days.
 
 | Dates | Block (blueprint share) | Read | Questions |
