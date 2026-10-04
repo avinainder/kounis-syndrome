@@ -48,7 +48,7 @@ Board exams lag new evidence. Where a new trial conflicts with an older guidelin
 |**High-risk PCI with<br>Impella**|“Reasonable”|CHIP-BCIS3 (2026): no benefit, **CV death higher with<br>Impella**. PROTECT IV pending. Routine use is not<br>supported.|
 |**Post-arrest cooling**|32–36 °C for 24 h|TTM2: 33 °C no better than normothermia. 2025 AHA:<br>**temperature control (32–37.5 °C) for ≥36 h**, avoid fever.|
 |**Inotrope in AMI-CS**|Add dopamine|Norepinephrine first. **Dobutamine or milrinone** for<br>inotropy (SOAP II: dopamine → more arrhythmias).|
-|**Colchicine**|COLCOT/LoDoCo2 positive<br>i|**CLEAR SYNERGY (2024) negative** post-MI. 2025 ACS: 2b.<br>i|
+|**Colchicine**|COLCOT/LoDoCo2 positive|**CLEAR SYNERGY (2024) negative** post-MI. 2025 ACS: 2b.|
 |**LDL goal**|PAD statin to LDL <100|High-intensity statin (≥50% ↓). **2026 dyslipidemia<br>guideline: LDL <55 very-high-risk ASCVD, <70 other<br>ASCVD**. Measure Lp(a) once.|
 |**CTO PCI benefit**|“No LV function data yet”; IIa|EXPLORE and REVASC: **no LVEF benefit**. ACC/AHA 2021:<br>CTO PCI for refractory angina is **2b**.|
 |**SVG EPD**|Class 1|**2a** in 2021 guideline.|
@@ -71,7 +71,7 @@ Board exams lag new evidence. Where a new trial conflicts with an older guidelin
 
 ### Metformin (ACR Manual on Contrast Media)
 
-- Risk is lactic acidosis if AKI develops while the drug accumulates (renally cleared, t≤ ~6 h).
+- Risk is lactic acidosis if AKI develops while the drug accumulates (renally cleared, t½ ~6 h).
 
 - **eGFR ≥30 and no AKI:** no need to stop before or after contrast.
 
@@ -222,9 +222,9 @@ Large patients need higher kVp and mA, which means more dose and scatter with wo
 |Prasugrel|Thienopyridine prodrug (1 CYP<br>step), irreversible; onset ~30<br>min–2 h|60 mg, then 10 mg (5<br>mg if <60 kg)|**Contraindicated after prior stroke/TIA**. Generally<br>avoid ≥75 y. Give only after anatomy is known<br>(ACCOAST). Once daily.|
 |Ticagrelor|Direct-acting, **reversible**,<br>allosteric (non-ADP site)|180 mg, then 90 mg BID;<br>60 mg BID long-term|Dyspnea (~10–15%) and ventricular pauses<br>(adenosine-mediated). Switch to prasugrel for<br>dyspnea.|
 |Cangrelor|IV reversible P2Y12; offset ~1 h|30 mcg/kg bolus + 4<br>mcg/kg/min ≥2 h or for<br>PCI duration|For P2Y12-naïve patients. CHAMPION PHOENIX ↓<br>periprocedural MI/ST. 2025 ACS: 2b.|
-|Eptifibatide|Peptide GP IIb/IIIa; plasma t≤<br>2.5 h; platelet recovery ~4–8 h|180 mcg/kg ×2 boluses +<br>2 mcg/kg/min|Halve infusion if CrCl <50; avoid on dialysis. Not<br>reversed by platelets.|
+|Eptifibatide|Peptide GP IIb/IIIa; plasma t½<br>2.5 h; platelet recovery ~4–8 h|180 mcg/kg ×2 boluses +<br>2 mcg/kg/min|Halve infusion if CrCl <50; avoid on dialysis. Not<br>reversed by platelets.|
 |Tirofiban|Non-peptide GP IIb/IIIa|25 mcg/kg + 0.15<br>mcg/kg/min|Halve infusion if CrCl ≤60.|
-|Abciximab|Antibody fragment; long<br>platelet-bound t≤; reversed by<br>platelet transfusion|—|**No longer marketed in the US.**|
+|Abciximab|Antibody fragment; long<br>platelet-bound t½; reversed by<br>platelet transfusion|—|**No longer marketed in the US.**|
 |Vorapaxar|PAR-1 (thrombin receptor)<br>antagonist|2.08 mg daily|Prior MI or PAD (↓ ALI). Contraindicated after<br>stroke/TIA/ICH.|
 
 ### Pivotal P2Y12 trials
@@ -920,7 +920,7 @@ ECG within 10 min; hs-troponin 0/1–2 h pathways. Troponin level correlates wit
 
 ### STEMI reperfusion
 
-- **Primary PCI targets:** FMC-to-device ≤90 min at a PCIcapable center; ≤120 min with transfer (door-in-door-out ≤30 min).
+- **Primary PCI targets:** FMC-to-device ≤90 min at a PCI-capable center; ≤120 min with transfer (door-in-door-out ≤30 min).
 
 - Each 30-min delay ↑ 1-yr mortality ~7.5% (relative).
 
