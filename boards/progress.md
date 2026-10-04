@@ -40,6 +40,12 @@ Hours/week protected: (fill in)
 | 4 | Late STEMI presenter with occluded IRA | A | C | trap: open artery instinct; OAT / Class 3 beyond 24 h |
 | 5 | LV venting on VA-ECMO | B | B | — |
 
+## CathSAP Board Simulation 1 (Oct 4): 49/60 = 82%
+- 60 questions in 120 minutes (2 min per question, exam pace).
+- Incorrect (11): Q1, 6, 30, 37, 41, 42, 43, 50, 52, 55, 60. Topics to be logged from the review screen.
+- Bookmarked (7): Q14, 17, 23, 27, 35, 43, 50. Five of the seven bookmarks were answered correctly: treat those as guesses that happened to land and review them with the misses.
+- Pattern: Q7–29 were 23/23; 4 of the last 11 were wrong (Q50, 52, 55, 60). Watch pace and attention in the final block of each exam session.
+
 ## Weekly log
 | Week | Topic | Questions done | % correct | Miss types (gap / misread / second-guess / trap) |
 |---|---|---|---|---|
