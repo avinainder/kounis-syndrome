@@ -44,6 +44,7 @@ Hours/week protected: (fill in)
 - Finished 60 questions in about 60 minutes of a 120-minute allowance: 1 min per question, half the exam pace. On review, most misses were careless (misread or rushed), not knowledge gaps.
 - Incorrect (11): Q1, 6, 30, 37, 41, 42, 43, 50, 52, 55, 60. Topics to be logged from the review screen.
 - Bookmarked (7): Q14, 17, 23, 27, 35, 43, 50. Five of the seven bookmarks were answered correctly: treat those as guesses that happened to land and review them with the misses.
+- Peer comparison by CathSAP domain (you vs average): Case selection 88 vs 77; Imaging 100 vs 78; Pharmacology 100 vs 76; Procedural I 83 vs 78; Procedural II 83 vs 73; Noncoronary 83 vs 76; Anatomy 67 vs 73; Basic science 67 vs 78; Complications 60 vs 71; Miscellaneous 33 vs 70. Above average in six of ten; below in the four lowest-weight fact domains (complications, anatomy, basic science, misc = ~26% of the exam).
 - Pattern: Q7–29 were 23/23; 4 of the last 11 were wrong (Q50, 52, 55, 60). Watch pace and attention in the final block of each exam session.
 
 ## Weekly log
