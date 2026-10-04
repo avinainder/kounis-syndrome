@@ -48,7 +48,7 @@ Hours/week protected: (fill in)
 - Pattern: Q7–29 were 23/23; 4 of the last 11 were wrong (Q50, 52, 55, 60). Watch pace and attention in the final block of each exam session.
 
 ## CathSAP Board Simulation 2 (Oct 4): 48/60 = 80%
-- Incorrect (12): Q5, 8, 15, 22, 23, 28, 32, 36, 42, 43, 46, 49. Bookmarked 3 (Q9, 36, 49). Misses spread through the middle this time; no late fade.
+- Finished in just over an hour again (about 65 s per question). Incorrect (12): Q5, 8, 15, 22, 23, 28, 32, 36, 42, 43, 46, 49. Bookmarked 3 (Q9, 36, 49). Misses spread through the middle; no late fade.
 - Peer comparison (you vs average): Imaging 100 vs 78; Noncoronary 92 vs 77; Pharmacology 93 vs 77; Case selection 84 vs 77; Anatomy 83 vs 73; Procedural II 75 vs 74; Procedural I 75 vs 78; Basic science 67 vs 78; Complications 60 vs 71; Miscellaneous 50 vs 71.
 - Across both simulations (97/120 = 81%, peers ~75%): complications 60% twice, basic science 67% twice, miscellaneous 33% then 50%. Those three are a real weak band, not noise. Case selection, imaging, pharmacology and noncoronary are consistently above peers.
 
