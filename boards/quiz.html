@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IC Boards Quiz</title>
+<meta name="description" content="Spaced-repetition question bank for interventional cardiology board preparation. Runs entirely in the browser; progress is saved locally.">
+<style>
+  :root {
+    --navy: #0D2137; --teal: #006D77; --teal-light: #E0F2F1; --white: #fff; --cream: #FAFAFA;
+    --text: #1a1a1a; --text-mid: #555; --text-light: #888; --border: #ddd;
+    --good: #1b7f3b; --good-bg: #e6f4ea; --bad: #b3261e; --bad-bg: #fbe9e7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --navy: #0b1a2b; --teal: #4fb3bf; --teal-light: #12343a; --white: #16202b; --cream: #0f161e;
+      --text: #e8edf2; --text-mid: #b5c0cb; --text-light: #8a97a5; --border: #2b3a4a;
+      --good: #6cd28c; --good-bg: #16331f; --bad: #ff8a80; --bad-bg: #3a1f1c;
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; background: var(--cream); color: var(--text); -webkit-font-smoothing: antialiased; }
+  .header { background: var(--navy); color: #fff; padding: 24px 16px; }
+  .header-inner { max-width: 760px; margin: 0 auto; }
+  .badge { display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: #E0F2F1; background: rgba(0,109,119,0.35); padding: 4px 12px; border-radius: 3px; margin-bottom: 10px; }
+  .header h1 { font-size: 22px; font-weight: 700; }
+  .header p { font-size: 13px; color: rgba(255,255,255,0.7); margin-top: 6px; }
+  .content { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
+  .card { background: var(--white); border: 1px solid var(--border); border-radius: 10px; padding: 18px 20px; margin-bottom: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.04); }
+  .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  label { font-size: 13px; color: var(--text-mid); }
+  select, button { font: inherit; font-size: 14px; padding: 8px 12px; border-radius: 6px; border: 1px solid var(--border); background: var(--white); color: var(--text); }
+  button.primary { background: var(--teal); color: #fff; border-color: var(--teal); cursor: pointer; font-weight: 600; }
+  button.ghost { cursor: pointer; }
+  button:disabled { opacity: 0.5; cursor: default; }
+  .domain-tag { display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: var(--teal); background: var(--teal-light); padding: 3px 10px; border-radius: 3px; margin-bottom: 12px; }
+  .stem { font-size: 16px; line-height: 1.55; margin-bottom: 16px; }
+  .option { display: block; width: 100%; text-align: left; padding: 12px 14px; margin-bottom: 8px; border: 1px solid var(--border); border-radius: 8px; background: var(--white); color: var(--text); cursor: pointer; line-height: 1.45; font-size: 14px; }
+  .option:hover:not(:disabled) { border-color: var(--teal); }
+  .option.correct { background: var(--good-bg); border-color: var(--good); }
+  .option.wrong { background: var(--bad-bg); border-color: var(--bad); }
+  .option .letter { font-weight: 700; margin-right: 8px; color: var(--teal); }
+  .explanation { margin-top: 14px; padding: 14px; border-left: 4px solid var(--teal); background: var(--teal-light); border-radius: 6px; font-size: 14px; line-height: 1.55; }
+  .verdict { font-weight: 700; margin-bottom: 6px; }
+  .verdict.ok { color: var(--good); } .verdict.no { color: var(--bad); }
+  .stats { font-size: 13px; color: var(--text-mid); }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); }
+  th { color: var(--teal); font-weight: 600; text-transform: uppercase; font-size: 11px; letter-spacing: 1px; }
+  .bar { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; margin-top: 10px; }
+  .bar > div { height: 100%; background: var(--teal); }
+  .muted { color: var(--text-light); font-size: 12px; }
+  .hidden { display: none; }
+  @media (max-width: 480px) { .header h1 { font-size: 19px; } .card { padding: 14px; } }
+</style>
+</head>
+<body>
+<div class="header"><div class="header-inner">
+  <div class="badge">Interventional Cardiology Boards</div>
+  <h1>Question Bank &amp; Spaced Repetition</h1>
+  <p>Answer, read the explanation, log the miss type. Missed items return sooner (Leitner boxes). Progress is stored in this browser only.</p>
+</div></div>
+
+<div class="content">
+  <div class="card" id="setup">
+    <div class="row">
+      <label>Domain <select id="domain"><option value="all">All domains</option></select></label>
+      <label>Mode <select id="mode">
+        <option value="due">Due for review (spaced)</option>
+        <option value="new">Unseen first</option>
+        <option value="random">Random mix</option>
+        <option value="leech">Leeches only (missed ≥2×)</option>
+      </select></label>
+      <label>Count <select id="count"><option>10</option><option selected>20</option><option>40</option><option>80</option></select></label>
+      <button class="primary" id="start">Start session</button>
+      <button class="ghost" id="reset">Reset progress</button>
+    </div>
+    <div class="stats" id="bankstats" style="margin-top:12px"></div>
+  </div>
+
+  <div class="card hidden" id="quiz">
+    <div class="row" style="justify-content:space-between">
+      <span class="domain-tag" id="qdomain"></span>
+      <span class="muted" id="qcounter"></span>
+    </div>
+    <div class="stem" id="stem"></div>
+    <div id="options"></div>
+    <div class="explanation hidden" id="explanation">
+      <div class="verdict" id="verdict"></div>
+      <div id="exptext"></div>
+      <div class="row hidden" id="missrow" style="margin-top:10px">
+        <label>Why did I miss it?
+          <select id="misstype">
+            <option value="gap">Knowledge gap</option>
+            <option value="misread">Misread the stem</option>
+            <option value="second-guess">Second-guessed a correct instinct</option>
+            <option value="trap">Fell for a distractor</option>
+          </select>
+        </label>
+      </div>
+      <div class="row" style="margin-top:12px">
+        <button class="primary" id="next">Next</button>
+      </div>
+    </div>
+    <div class="row" style="margin-top:14px"><button class="ghost" id="end">End session</button></div>
+  </div>
+
+  <div class="card hidden" id="summary">
+    <h2 style="font-size:18px;margin-bottom:10px">Session summary</h2>
+    <div id="sumtext" class="stats"></div>
+    <div class="bar"><div id="sumbar" style="width:0%"></div></div>
+    <table style="margin-top:14px"><thead><tr><th>Domain</th><th>Correct</th><th>Attempted</th><th>Lifetime %</th></tr></thead><tbody id="sumtable"></tbody></table>
+    <p class="muted" style="margin-top:12px">Copy the lifetime table into progress.md so your mentor can rebuild the plan around your weak domains.</p>
+    <div class="row" style="margin-top:12px"><button class="primary" id="again">New session</button><button class="ghost" id="export">Copy summary</button></div>
+  </div>
+</div>
+
+<script src="questions.js"></script>
+<script>
+(function(){
+  const KEY = 'icboards.progress.v1';
+  const Q = window.QUESTIONS || [];
+  const BOX_DAYS = [0, 1, 3, 7, 14, 30];
+  let prog = load();
+  let session = [], idx = 0, results = [];
+
+  function load(){ try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch(e){ return {}; } }
+  function save(){ localStorage.setItem(KEY, JSON.stringify(prog)); }
+  function rec(id){ return prog[id] || (prog[id] = {box:0, seen:0, correct:0, wrong:0, due:0, miss:{}}); }
+  function today(){ return Math.floor(Date.now()/86400000); }
+
+  const domains = [...new Set(Q.map(q=>q.domain))].sort();
+  const domSel = document.getElementById('domain');
+  domains.forEach(d=>{ const o=document.createElement('option'); o.value=d; o.textContent=d; domSel.appendChild(o); });
+
+  function bankStats(){
+    const seen = Q.filter(q=>prog[q.id]&&prog[q.id].seen).length;
+    const due = Q.filter(q=>prog[q.id]&&prog[q.id].seen&&prog[q.id].due<=today()).length;
+    const leech = Q.filter(q=>prog[q.id]&&prog[q.id].wrong>=2).length;
+    document.getElementById('bankstats').textContent = Q.length+' questions · '+seen+' seen · '+due+' due today · '+leech+' leeches';
+  }
+  bankStats();
+
+  function pick(){
+    const d = domSel.value, mode = document.getElementById('mode').value, n = +document.getElementById('count').value;
+    let pool = Q.filter(q=>d==='all'||q.domain===d);
+    const t = today();
+    if(mode==='due'){
+      const due = pool.filter(q=>{const r=prog[q.id]; return !r||!r.seen||r.due<=t;});
+      pool = due.length ? due : pool;
+      pool.sort((a,b)=>{const ra=rec(a.id), rb=rec(b.id); return (ra.box-rb.box)||(ra.due-rb.due);});
+      pool = shuffleStable(pool);
+    } else if(mode==='new'){
+      pool.sort((a,b)=>(rec(a.id).seen)-(rec(b.id).seen));
+      pool = shuffleStable(pool);
+    } else if(mode==='leech'){
+      pool = pool.filter(q=>rec(q.id).wrong>=2);
+      shuffle(pool);
+    } else { shuffle(pool); }
+    return pool.slice(0,n);
+  }
+  function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
+  function shuffleStable(a){ // shuffle within equal priority groups
+    const groups = {}; a.forEach(q=>{const k=rec(q.id).box+':'+rec(q.id).seen; (groups[k]=groups[k]||[]).push(q);});
+    return Object.keys(groups).sort().flatMap(k=>shuffle(groups[k]));
+  }
+
+  function show(){
+    const q = session[idx];
+    document.getElementById('qdomain').textContent = q.domain;
+    document.getElementById('qcounter').textContent = (idx+1)+' / '+session.length+' · box '+rec(q.id).box;
+    document.getElementById('stem').textContent = q.stem;
+    const box = document.getElementById('options'); box.innerHTML='';
+    q.options.forEach((opt,i)=>{
+      const b=document.createElement('button'); b.className='option';
+      b.innerHTML='<span class="letter">'+String.fromCharCode(65+i)+'.</span>'+escapeHtml(opt);
+      b.onclick=()=>answer(i); box.appendChild(b);
+    });
+    document.getElementById('explanation').classList.add('hidden');
+    document.getElementById('missrow').classList.add('hidden');
+  }
+  function escapeHtml(s){ return s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+
+  function answer(i){
+    const q = session[idx], r = rec(q.id), ok = i===q.answer;
+    [...document.querySelectorAll('.option')].forEach((b,j)=>{ b.disabled=true; if(j===q.answer) b.classList.add('correct'); else if(j===i) b.classList.add('wrong'); });
+    r.seen++; if(ok){ r.correct++; r.box=Math.min(r.box+1, BOX_DAYS.length-1);} else { r.wrong++; r.box=0; }
+    r.due = today()+BOX_DAYS[r.box]; save();
+    results.push({q, ok});
+    const v=document.getElementById('verdict'); v.textContent = ok?'Correct':'Incorrect — correct answer is '+String.fromCharCode(65+q.answer); v.className='verdict '+(ok?'ok':'no');
+    document.getElementById('exptext').textContent = q.explanation;
+    document.getElementById('explanation').classList.remove('hidden');
+    if(!ok) document.getElementById('missrow').classList.remove('hidden');
+    document.getElementById('explanation').scrollIntoView({behavior:'smooth', block:'nearest'});
+  }
+
+  document.getElementById('next').onclick=()=>{
+    const last = results[results.length-1];
+    if(last && !last.ok){ const r=rec(last.q.id); const mt=document.getElementById('misstype').value; r.miss[mt]=(r.miss[mt]||0)+1; save(); }
+    idx++; if(idx>=session.length) finish(); else show();
+  };
+  document.getElementById('end').onclick=finish;
+  document.getElementById('start').onclick=()=>{
+    session = pick(); if(!session.length){ alert('No questions match this filter yet.'); return; }
+    idx=0; results=[];
+    document.getElementById('setup').classList.add('hidden'); document.getElementById('summary').classList.add('hidden');
+    document.getElementById('quiz').classList.remove('hidden'); show();
+  };
+  document.getElementById('again').onclick=()=>{ document.getElementById('summary').classList.add('hidden'); document.getElementById('setup').classList.remove('hidden'); bankStats(); };
+  document.getElementById('reset').onclick=()=>{ if(confirm('Erase all saved progress in this browser?')){ prog={}; save(); bankStats(); } };
+
+  function finish(){
+    document.getElementById('quiz').classList.add('hidden');
+    const c = results.filter(r=>r.ok).length, n = results.length;
+    document.getElementById('sumtext').textContent = n? (c+' / '+n+' correct ('+Math.round(100*c/n)+'%)') : 'No questions answered.';
+    document.getElementById('sumbar').style.width = n? Math.round(100*c/n)+'%' : '0%';
+    const tb=document.getElementById('sumtable'); tb.innerHTML='';
+    domains.forEach(d=>{
+      const sc = results.filter(r=>r.q.domain===d), scC = sc.filter(r=>r.ok).length;
+      const life = Q.filter(q=>q.domain===d).reduce((a,q)=>{const r=prog[q.id]; if(r){a.c+=r.correct; a.s+=r.seen;} return a;},{c:0,s:0});
+      const tr=document.createElement('tr');
+      tr.innerHTML='<td>'+d+'</td><td>'+scC+'</td><td>'+sc.length+'</td><td>'+(life.s?Math.round(100*life.c/life.s)+'% ('+life.s+')':'—')+'</td>';
+      tb.appendChild(tr);
+    });
+    document.getElementById('summary').classList.remove('hidden');
+    window.scrollTo({top:0, behavior:'smooth'});
+  }
+  document.getElementById('export').onclick=()=>{
+    const rows=[...document.querySelectorAll('#sumtable tr')].map(tr=>[...tr.children].map(td=>td.textContent).join(' | '));
+    const text = '| Domain | Session correct | Session attempted | Lifetime % |\n|---|---|---|---|\n'+rows.map(r=>'| '+r+' |').join('\n');
+    navigator.clipboard && navigator.clipboard.writeText(text).then(()=>alert('Copied markdown table to clipboard.'));
+  };
+})();
+</script>
+</body>
+</html>
