@@ -1,0 +1,241 @@
+<title>IC Boards Must-Knows</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: filter rail on top, then a card grid; each card = rank, domain chip, claim, facts with tinted numbers */
+:root{
+  --bg:#f6f8f8; --surface:#ffffff; --fg:#17262a; --muted:#5c6c70; --line:#d7e0e1;
+  --accent:#0b4f55; --accent-soft:#e1efef; --num-bg:#fdf1dc; --num-fg:#7a4b00;
+  --miss-bg:#fde8e8; --miss-fg:#9b1c1c;
+  --case:#1d4ed8; --tech:#0f766e; --pharm:#b45309; --img:#15803d; --comp:#b91c1c; --non:#6d28d9; --misc:#6b4e2e;
+  --display:"Fraunces",Georgia,"Times New Roman",serif; --body:"Public Sans",-apple-system,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0f1719; --surface:#172326; --fg:#e6edee; --muted:#9fb0b4; --line:#2a3a3e;
+  --accent:#6fc3c9; --accent-soft:#163338; --num-bg:#3a2a0e; --num-fg:#f3c77a;
+  --miss-bg:#3b1515; --miss-fg:#f3a1a1;
+  --case:#8ab4ff; --tech:#5fd3c4; --pharm:#f4b35b; --img:#7bd68a; --comp:#f08a8a; --non:#c4a7ff; --misc:#d1b58f;
+  color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#0f1719; --surface:#17232e; --fg:#e6edee; --muted:#9fb0b4; --line:#2a3a3e;
+  --accent:#6fc3c9; --accent-soft:#163338; --num-bg:#3a2a0e; --num-fg:#f3c77a;
+  --miss-bg:#3b1515; --miss-fg:#f3a1a1;
+  --case:#8ab4ff; --tech:#5fd3c4; --pharm:#f4b35b; --img:#7bd68a; --comp:#f08a8a; --non:#c4a7ff; --misc:#d1b58f;
+  color-scheme:dark }
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45;margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding-block:20px 48px;padding-inline:16px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;margin-bottom:14px}
+h1{font-family:var(--display);font-size:clamp(26px,4vw,38px);font-weight:700;line-height:1.1;margin:0;color:var(--accent);text-wrap:balance}
+.sub{color:var(--muted);margin:6px 0 0;font-size:14px}
+.sub b{color:var(--fg);font-weight:600}
+.legend{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:12.5px;color:var(--muted);align-items:center}
+.legend .n{font-size:12px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 18px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;z-index:2}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 12px;font:600 12.5px var(--body);letter-spacing:.02em;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
+.chip .dot{width:9px;height:9px;border-radius:50%;background:var(--c,var(--accent))}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip[aria-pressed="true"] .dot{background:#fff}
+.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
+.card{background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--c,var(--accent));border-radius:10px;padding:14px 16px 14px 14px;min-width:0;display:flex;flex-direction:column;gap:8px}
+.card[hidden]{display:none}
+.top{display:flex;align-items:center;gap:10px}
+.rank{font-family:var(--display);font-size:24px;font-weight:700;line-height:1;color:var(--c,var(--accent));min-width:34px;font-variant-numeric:tabular-nums}
+.dom{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--c,var(--accent))}
+.miss{margin-left:auto;font-size:11px;font-weight:700;letter-spacing:.04em;background:var(--miss-bg);color:var(--miss-fg);border-radius:6px;padding:3px 7px;white-space:nowrap}
+h2{font-family:var(--display);font-size:18px;font-weight:600;line-height:1.25;margin:0;text-wrap:balance}
+ul{margin:0;padding-left:16px;display:flex;flex-direction:column;gap:4px}
+li{font-size:14px}
+.n{background:var(--num-bg);color:var(--num-fg);border-radius:4px;padding:0 4px;font-weight:600;white-space:nowrap}
+.t{color:var(--accent);font-weight:600}
+.count{color:var(--muted);font-size:13px;margin:0 0 10px}
+footer{color:var(--muted);font-size:12.5px;margin-top:28px;line-height:1.5}
+@media (prefers-reduced-motion:no-preference){.card{transition:transform .15s ease}.card:hover{transform:translateY(-1px)}}
+</style>
+<div class="wrap">
+<header>
+  <div>
+    <h1>35 must-knows for Tuesday</h1>
+    <p class="sub">ABIM Interventional Cardiology · <b>Oct 6, 2026</b> · ranked by blueprint weight and how often the point recurs across CathSAP, the review and your misses</p>
+  </div>
+  <div class="legend"><span><span class="n">number</span> = the testable value</span><span><span class="miss" style="margin:0">YOUR MISS</span> = a topic from your progress log</span></div>
+</header>
+<div class="filters" id="filters" role="group" aria-label="Filter by domain">
+  <button class="chip" aria-pressed="true" data-f="all">All 35</button>
+  <button class="chip" aria-pressed="false" data-f="case" style="--c:var(--case)"><span class="dot"></span>Case selection</button>
+  <button class="chip" aria-pressed="false" data-f="tech" style="--c:var(--tech)"><span class="dot"></span>Technique</button>
+  <button class="chip" aria-pressed="false" data-f="pharm" style="--c:var(--pharm)"><span class="dot"></span>Pharmacology</button>
+  <button class="chip" aria-pressed="false" data-f="img" style="--c:var(--img)"><span class="dot"></span>Imaging &amp; physiology</button>
+  <button class="chip" aria-pressed="false" data-f="comp" style="--c:var(--comp)"><span class="dot"></span>Complications</button>
+  <button class="chip" aria-pressed="false" data-f="non" style="--c:var(--non)"><span class="dot"></span>Noncoronary</button>
+  <button class="chip" aria-pressed="false" data-f="misc" style="--c:var(--misc)"><span class="dot"></span>Radiation, stats, quality</button>
+  <button class="chip" aria-pressed="false" data-f="miss">Your misses</button>
+</div>
+<p class="count" id="count">Showing 35 of 35</p>
+<div class="grid" id="grid">
+
+<article class="card" data-d="case" style="--c:var(--case)"><div class="top"><span class="rank">1</span><span class="dom">Case selection</span></div><h2>STEMI clock and when to use lysis</h2><ul>
+<li>FMC-to-device <span class="n">≤90 min</span>, or <span class="n">≤120 min</span> with transfer (door-in-door-out goal <span class="n">≤30 min</span>).</li>
+<li>If PCI cannot meet that, lyse within <span class="n">30 min</span> of arrival, then angiography in <span class="n">2–24 h</span> for everyone (pharmacoinvasive).</li>
+<li>Rescue PCI now for <span class="n">&lt;50%</span> ST resolution at <span class="n">60–90 min</span>, shock, HF or instability.</li></ul></article>
+
+<article class="card" data-d="case" data-miss="1" style="--c:var(--case)"><div class="top"><span class="rank">2</span><span class="dom">Case selection</span><span class="miss">YOUR MISS</span></div><h2>Non-culprit lesions and the late presenter</h2><ul>
+<li>Stable STEMI with multivessel disease: complete revascularization, index or staged, is <span class="t">Class 1</span>.</li>
+<li>Cardiogenic shock: culprit only (CULPRIT-SHOCK: more death/dialysis with immediate multivessel PCI).</li>
+<li>Occluded infarct artery <span class="n">&gt;24 h</span> in a stable, pain-free patient: no PCI (OAT, Class 3).</li></ul></article>
+
+<article class="card" data-d="case" style="--c:var(--case)"><div class="top"><span class="rank">3</span><span class="dom">Case selection</span></div><h2>Aspiration thrombectomy in STEMI</h2><ul>
+<li>Routine use is <span class="t">Class 3</span> (TASTE, TOTAL; TOTAL showed more stroke).</li>
+<li>Bailout only, when large thrombus persists with poor flow after balloon dilation (2b).</li></ul></article>
+
+<article class="card" data-d="case" data-miss="1" style="--c:var(--case)"><div class="top"><span class="rank">4</span><span class="dom">Case selection</span><span class="miss">YOUR MISS</span></div><h2>NSTE-ACS: timing and P2Y12 pretreatment</h2><ul>
+<li>No pretreatment with a potent P2Y12 inhibitor before anatomy is known (ACCOAST, ISAR-REACT 5); prasugrel only once PCI is chosen.</li>
+<li>Immediate <span class="n">&lt;2 h</span> for instability; early <span class="n">&lt;24 h</span> for GRACE <span class="n">&gt;140</span>, dynamic ST or troponin rise; selective strategy for low risk.</li></ul></article>
+
+<article class="card" data-d="tech" style="--c:var(--tech)"><div class="top"><span class="rank">5</span><span class="dom">Technique</span></div><h2>Radial access</h2><ul>
+<li><span class="t">Class 1</span> in ACS: less death, bleeding and vascular complications; <span class="t">2a</span> in chronic coronary disease.</li>
+<li>Radial occlusion prevention: heparin <span class="n">≥5000 U</span>, patent hemostasis, smallest sheath. Operator dose is higher with radial.</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">6</span><span class="dom">Pharmacology</span></div><h2>DAPT duration after DES</h2><ul>
+<li>Chronic coronary disease <span class="n">≥6 mo</span>; ACS <span class="n">≥12 mo</span>; high bleeding risk <span class="n">1–3 mo</span> (2a), then P2Y12 monotherapy.</li>
+<li>Stent choice never depends on planned DAPT length; DES over BMS in every subset.</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">7</span><span class="dom">Pharmacology</span></div><h2>Atrial fibrillation plus PCI</h2><ul>
+<li>Default at discharge: DOAC + clopidogrel. Aspirin only <span class="n">1–4 wk</span> and only for high ischemic risk.</li>
+<li>OAC alone after <span class="n">12 mo</span> (AFIRE). No prasugrel or ticagrelor in triple therapy.</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">8</span><span class="dom">Pharmacology</span></div><h2>Cangrelor transitions</h2><ul>
+<li>Clopidogrel <span class="n">600 mg</span> or prasugrel <span class="n">60 mg</span> only after the infusion stops (cangrelor blocks their active metabolites).</li>
+<li>Ticagrelor <span class="n">180 mg</span> any time: before, during or after.</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">9</span><span class="dom">Pharmacology</span></div><h2>Bivalirudin, HIT, fondaparinux</h2><ul>
+<li>Less bleeding than heparin + GPI; more acute stent thrombosis unless a full-dose infusion runs <span class="n">2–4 h</span> after PCI (BRIGHT-4, VALIDATE).</li>
+<li>2025 ACS guideline: <span class="t">Class 1</span> STEMI, <span class="t">2b</span> NSTE-ACS. The drug for HIT (or argatroban).</li>
+<li>Fondaparinux is never the sole PCI anticoagulant (catheter thrombosis, OASIS-5).</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">10</span><span class="dom">Pharmacology</span></div><h2>Enoxaparin at the time of PCI</h2><ul>
+<li>Last SC dose <span class="n">&lt;8 h</span>: nothing more. <span class="n">8–12 h</span>: add <span class="n">0.3 mg/kg IV</span>. <span class="n">&gt;12 h</span>: full dose of any regimen.</li>
+<li>Never stack UFH on enoxaparin or the reverse (more major bleeding, SYNERGY).</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">11</span><span class="dom">Pharmacology</span></div><h2>GP IIb/IIIa inhibitors</h2><ul>
+<li>Never upstream in STEMI; bailout for thrombus (2a) when heparin was used.</li>
+<li>Benefit is mostly periprocedural MI; no benefit in vein grafts. Eptifibatide and tirofiban need renal dosing; eptifibatide is out on dialysis.</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">12</span><span class="dom">Pharmacology</span></div><h2>Contrast nephropathy</h2><ul>
+<li>Risk flag eGFR <span class="n">≤60</span>; incidence <span class="n">12–16%</span> with eGFR &lt;60 plus one risk factor.</li>
+<li>Prevention: isotonic saline (LVEDP-guided, POSEIDON) and contrast volume (volume/CrCl <span class="n">&gt;3.7</span> predicts AKI). NAC and bicarbonate do nothing. IOCM = LOCM.</li></ul></article>
+
+<article class="card" data-d="pharm" style="--c:var(--pharm)"><div class="top"><span class="rank">13</span><span class="dom">Pharmacology</span></div><h2>Anaphylactoid contrast reaction</h2><ul>
+<li>Epinephrine is the only first-line drug: IM <span class="n">0.3–0.5 mg</span> of 1 mg/mL; IV <span class="n">0.1 mg</span> slowly only for collapse. Never 1 mg IV push.</li>
+<li>Steroids and antihistamines are adjuncts. Prior reactor: prednisone <span class="n">50 mg</span> at 13, 7 and 1 h plus diphenhydramine.</li></ul></article>
+
+<article class="card" data-d="comp" style="--c:var(--comp)"><div class="top"><span class="rank">14</span><span class="dom">Complications</span></div><h2>Periprocedural MI (4th UDMI)</h2><ul>
+<li>Troponin <span class="n">&gt;5×</span> the 99th-percentile URL plus evidence of ischemia (symptoms, ECG, angiographic or imaging).</li>
+<li>Elevated stable baseline: needs a <span class="n">&gt;20%</span> rise to above 5× URL.</li></ul></article>
+
+<article class="card" data-d="comp" style="--c:var(--comp)"><div class="top"><span class="rank">15</span><span class="dom">Complications</span></div><h2>Stent thrombosis and restenosis mechanisms</h2><ul>
+<li>Early: underexpansion, edge dissection, geographic miss, DAPT interruption. Very late: late malapposition, neoatherosclerosis, fracture.</li>
+<li>Minimal stent area is the strongest predictor of failure; acute malapposition alone (<span class="n">15%</span> IVUS, <span class="n">50%</span> OCT) is not treated.</li></ul></article>
+
+<article class="card" data-d="img" style="--c:var(--img)"><div class="top"><span class="rank">16</span><span class="dom">Imaging</span></div><h2>Intravascular imaging rules</h2><ul>
+<li><span class="t">Class 1</span> for complex PCI (2025 ACS, 2024 ESC). IVUS, not OCT, for the ostial left main or eGFR &lt;30.</li>
+<li>Left main MLA <span class="n">&lt;6 mm²</span> = ischemic (4.5 in Asian cohorts). Post-PCI targets MSA <span class="n">&gt;5.5</span> IVUS / <span class="n">&gt;4.5 mm²</span> OCT.</li>
+<li>Stent an edge dissection only if it narrows the lumen, reaches media with arc <span class="n">≥60°</span>, is <span class="n">≥3 mm</span>, or impinges the catheter.</li></ul></article>
+
+<article class="card" data-d="img" data-miss="1" style="--c:var(--img)"><div class="top"><span class="rank">17</span><span class="dom">Physiology</span><span class="miss">YOUR MISS</span></div><h2>FFR, NHPR and their traps</h2><ul>
+<li>FFR <span class="n">≤0.80</span>; iFR/RFR/DFR <span class="n">≤0.89</span>; IV adenosine <span class="n">140 mcg/kg/min</span> for ostial, serial and pullback; IC <span class="n">200</span> left, <span class="n">100</span> right.</li>
+<li>STEMI culprit: FFR falsely high. CTO donor vessel: FFR falsely low (rises after the CTO opens).</li>
+<li>CFR <span class="n">&lt;2</span> is abnormal but cannot say epicardial vs microvascular; IMR (<span class="n">&gt;25</span>) is the microvascular index.</li></ul></article>
+
+<article class="card" data-d="img" style="--c:var(--img)"><div class="top"><span class="rank">18</span><span class="dom">Physiology</span></div><h2>Visual-functional mismatch</h2><ul>
+<li>Severe-looking lesion with negative FFR: eccentric plaque, small territory, prior MI, collaterals, microvascular disease, or artifact (drift, damping, inadequate hyperemia from caffeine or peripheral IV).</li>
+<li>Serial lesions: FFRs are not additive; re-measure after each stent.</li></ul></article>
+
+<article class="card" data-d="tech" style="--c:var(--tech)"><div class="top"><span class="rank">19</span><span class="dom">Technique</span></div><h2>Calcium modification</h2><ul>
+<li>Rotablation: burr/artery <span class="n">0.5–0.6</span>, <span class="n">140–150k rpm</span>, <span class="n">15–20 s</span> runs, no decelerations <span class="n">&gt;5000 rpm</span>, pacer for RCA or dominant LCx.</li>
+<li>Orbital crown advanced slowly. IVL (<span class="n">4 atm</span>, 10 pulses per cycle) for deep or eccentric calcium. OCT trigger: arc <span class="n">&gt;180°</span>, thickness <span class="n">&gt;0.5 mm</span>, length <span class="n">&gt;5 mm</span>.</li></ul></article>
+
+<article class="card" data-d="tech" style="--c:var(--tech)"><div class="top"><span class="rank">20</span><span class="dom">Technique</span></div><h2>Bifurcations</h2><ul>
+<li>Provisional first, jailed wire when losing the branch would matter, POT with a balloon sized to the proximal vessel, no routine kissing.</li>
+<li>Crossover is easiest with TAP. True distal left main with a large diseased side branch (<span class="n">≥10 mm</span>, <span class="n">≥2.5 mm</span>): DK crush (DKCRUSH-V).</li></ul></article>
+
+<article class="card" data-d="tech" style="--c:var(--tech)"><div class="top"><span class="rank">21</span><span class="dom">Technique</span></div><h2>Vein-graft PCI</h2><ul>
+<li>Embolic protection when feasible (SAFER). No PCI of an occluded graft in the first month (suture rupture).</li>
+<li>GPI do not help; no-reflow gets IC adenosine, nicardipine, verapamil or nitroprusside, not nitroglycerin. Embolization risk highest in occluded grafts, lowest in anastomotic and ISR lesions.</li></ul></article>
+
+<article class="card" data-d="comp" style="--c:var(--comp)"><div class="top"><span class="rank">22</span><span class="dom">Complications</span></div><h2>Coronary perforation</h2><ul>
+<li>First: inflate a balloon at or proximal to the site. Large vessel: covered stent via ping-pong guide. Distal or collateral: fat or coils through a microcatheter (epicardial collaterals may need both sides).</li>
+<li>Reverse heparin only after wires and balloons are out. Tamponade: pericardiocentesis with autotransfusion. Post-CABG perforation can be catastrophic.</li></ul></article>
+
+<article class="card" data-d="comp" style="--c:var(--comp)"><div class="top"><span class="rank">23</span><span class="dom">Complications</span></div><h2>Access-site complications</h2><ul>
+<li>Retroperitoneal bleed: hypotension with flank or back pain after a high stick; CT, resuscitate, reverse. Pseudoaneurysm: thrombin injection. AV fistula: low stick.</li>
+<li>6 Ps = acute limb ischemia; brachial access carries femoral-level risk with limb-threatening ischemia. Closure devices do not lower complication rates.</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">24</span><span class="dom">Noncoronary</span></div><h2>Cardiogenic shock support</h2><ul>
+<li>Norepinephrine first, dobutamine second (SOAP II: dopamine worse). Definition: RA <span class="n">&gt;10</span>, PCWP <span class="n">&gt;15</span>, CI <span class="n">&lt;1.8</span> (<span class="n">&lt;2.2</span> on pressors), CPO <span class="n">&lt;0.6 W</span>.</li>
+<li>IABP: no mortality benefit. Impella CP cut STEMI-shock mortality (DanGer Shock). Routine VA-ECMO did not (ECLS-SHOCK); ECMO raises afterload and needs venting.</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">25</span><span class="dom">Noncoronary</span></div><h2>Hemodynamic signatures</h2><ul>
+<li>Constriction = LV/RV systolic <b>discordance</b> with respiration, systolic area index <span class="n">&gt;1.1</span>; restriction = concordance, RVSP <span class="n">&gt;55</span>, LVEDP−RVEDP <span class="n">&gt;5</span>.</li>
+<li>VSR = O2 step-up RA to RV/PA (<span class="n">≥5%</span>); acute MR = giant v waves; tamponade = equalized diastolics, pulsus paradoxus; HOCM = Brockenbrough (post-PVC gradient up, pulse pressure down).</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">26</span><span class="dom">Noncoronary</span></div><h2>Pulmonary hypertension</h2><ul>
+<li>mPAP <span class="n">&gt;20</span>, PCWP <span class="n">≤15</span>, PVR <span class="n">&gt;2 WU</span> = precapillary.</li>
+<li>Positive vasoreactivity: mPAP falls <span class="n">≥10</span> to <span class="n">&lt;40 mmHg</span> with CO preserved. CTEPH: endarterectomy first, balloon pulmonary angioplasty for selected patients.</li></ul></article>
+
+<article class="card" data-d="non" data-miss="1" style="--c:var(--non)"><div class="top"><span class="rank">27</span><span class="dom">Noncoronary</span><span class="miss">YOUR MISS</span></div><h2>Shunt closure rules</h2><ul>
+<li>Close an ASD with RV enlargement or Qp:Qs <span class="n">≥1.5</span>. Qp:Qs = (SaO2 − MVO2)/(PVO2 − PaO2); mixed venous = (3 SVC + IVC)/4.</li>
+<li>Do not close when PVR <span class="n">&gt;2/3 SVR</span> or PAP <span class="n">&gt;2/3</span> systemic without reversibility. PFO closure for cryptogenic stroke, age <span class="n">&lt;60</span>, high RoPE.</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">28</span><span class="dom">Noncoronary</span></div><h2>Carotid disease</h2><ul>
+<li>Symptomatic <span class="n">≥50%</span>: revascularize within <span class="n">2 wk</span>. Asymptomatic <span class="n">≥60–70%</span> with high-risk features and periprocedural risk <span class="n">&lt;3%</span>.</li>
+<li>CAS gives more minor stroke, CEA more MI; age <span class="n">&gt;70</span> favors CEA. Embolic protection is required; statin before CAS; CMS covers standard risk since 2023.</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">29</span><span class="dom">Noncoronary</span></div><h2>Aortic stenosis and TAVR</h2><ul>
+<li>Severe: Vmax <span class="n">≥4 m/s</span>, mean <span class="n">≥40</span>, AVA <span class="n">&lt;1.0 cm²</span>. Low-flow low-gradient: dobutamine (true severe if AVA stays ≤1.0 as gradient reaches ≥40) or calcium score.</li>
+<li>TAVR non-inferior or superior to SAVR at every risk level. Pre-existing RBBB = strongest pacemaker predictor. Coronary height <span class="n">&lt;10–12 mm</span> plus bulky leaflets = obstruction risk. BAV is a bridge only.</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">30</span><span class="dom">Noncoronary</span></div><h2>Mitral interventions</h2><ul>
+<li>Balloon valvuloplasty: rheumatic MS, Wilkins <span class="n">≤8</span>, MVA <span class="n">≤1.5 cm²</span> (or &gt;1.5 with exercise PA rise), no LA thrombus, MR no more than mild.</li>
+<li>TEER: primary MR at high surgical risk; secondary MR after GDMT by COAPT criteria (EROA ≥30 mm², LVEF 20–50%, LVESD ≤70 mm). Valve-in-ring does worse than valve-in-valve.</li></ul></article>
+
+<article class="card" data-d="non" style="--c:var(--non)"><div class="top"><span class="rank">31</span><span class="dom">Noncoronary</span></div><h2>Left atrial appendage occlusion</h2><ul>
+<li>Non-inferior to warfarin; <span class="n">90%</span> of AF thrombi sit in the appendage. Indication: OAC-eligible with a reason to avoid long-term OAC (2a).</li>
+<li>Post-implant: DAPT for <span class="n">6 mo</span> now accepted instead of <span class="n">45 d</span> warfarin. Any peri-device leak, even <span class="n">&lt;5 mm</span>, carries more ischemic events.</li></ul></article>
+
+<article class="card" data-d="misc" data-miss="1" style="--c:var(--misc)"><div class="top"><span class="rank">32</span><span class="dom">Radiation</span><span class="miss">YOUR MISS</span></div><h2>Radiation numbers</h2><ul>
+<li>Skin injury threshold <span class="n">2 Gy</span>; air kerma <span class="n">5 Gy</span> = follow-up call; peak skin dose <span class="n">&gt;15 Gy</span> = sentinel event.</li>
+<li>Operator <span class="n">50 mSv/yr</span> (lifetime 10 mSv × age), lens <span class="n">150</span>, skin <span class="n">500</span>; pregnancy <span class="n">0.5 mSv/mo</span>, <span class="n">5 mSv</span> total, waist badge under the apron.</li>
+<li>Cine is <span class="n">10–20×</span> fluoro; fluoro time is a poor dose measure. Table up, detector down, collimate, low frame rate, avoid steep angles. Iodine K-edge <span class="n">33 keV</span>: best contrast at <span class="n">60–80 kVp</span>.</li></ul></article>
+
+<article class="card" data-d="case" style="--c:var(--case)"><div class="top"><span class="rank">33</span><span class="dom">Case selection</span></div><h2>Noncardiac surgery</h2><ul>
+<li>No revascularization just to get through surgery (CARP). Continue chronic beta-blockers, never start them the day of surgery (POISE). Keep aspirin with stents.</li>
+<li>Delay elective surgery <span class="n">≥6 mo</span> after DES for CCD (<span class="n">3 mo</span> if time-sensitive), <span class="n">≥12 mo</span> after ACS, never <span class="n">&lt;30 d</span>. Hold SGLT2 inhibitors <span class="n">3–4 d</span>. Perioperative MI is usually type 2.</li></ul></article>
+
+<article class="card" data-d="misc" style="--c:var(--misc)"><div class="top"><span class="rank">34</span><span class="dom">Statistics</span></div><h2>Trial arithmetic</h2><ul>
+<li>Power = 1 − β; α = type I error; NNT = 1/ARR; hazard ratios from Cox for time-to-event; PPV falls as prevalence falls.</li>
+<li>Non-inferiority needs a pre-specified margin and both ITT and per-protocol; an underpowered trial proves nothing. Propensity scores cannot fix unmeasured confounders.</li></ul></article>
+
+<article class="card" data-d="misc" style="--c:var(--misc)"><div class="top"><span class="rank">35</span><span class="dom">Quality &amp; regulation</span></div><h2>Registries, AUC, reporting</h2><ul>
+<li>NCDR CathPCI and TVT registries; FFR or NHPR counts as ischemia documentation; outliers are often abstraction errors, audit first.</li>
+<li>Device-related death: report to FDA and manufacturer within <span class="n">10 working days</span> (SMDA). Donabedian = structure, process, outcome. Public reporting breeds risk aversion.</li></ul></article>
+
+</div>
+<footer>Sources: ACC CathSAP Key Points (April 2026), the high-yield review, notes 01–10, and your progress log. Ranking is a judgment call: blueprint weight first, then how many sources repeat the point. Numbers are the part most likely to be asked.</footer>
+</div>
+<script>
+(function(){
+  var filters=document.getElementById('filters'),grid=document.getElementById('grid'),count=document.getElementById('count');
+  var cards=Array.prototype.slice.call(grid.querySelectorAll('.card'));
+  function apply(f){
+    var n=0;
+    cards.forEach(function(c){var show=f==='all'||(f==='miss'?c.dataset.miss==='1':c.dataset.d===f);c.hidden=!show;if(show)n++;});
+    count.textContent='Showing '+n+' of 35';
+    Array.prototype.forEach.call(filters.querySelectorAll('.chip'),function(b){b.setAttribute('aria-pressed',String(b.dataset.f===f));});
+    try{localStorage.setItem('ic35.filter',f);}catch(e){}
+  }
+  filters.addEventListener('click',function(e){var b=e.target.closest('.chip');if(b)apply(b.dataset.f);});
+  var saved='all';try{saved=localStorage.getItem('ic35.filter')||'all';}catch(e){}
+  if(!filters.querySelector('.chip[data-f="'+saved+'"]'))saved='all';
+  apply(saved);
+})();
+</script>
